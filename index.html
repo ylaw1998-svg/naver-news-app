@@ -728,7 +728,7 @@
       const res = await ghRequest("actions/workflows/update-news.yml/dispatches", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ ref: "main" }),
+        body: JSON.stringify({ ref: "main", inputs: { force_run: "true" } }),
       });
       if(!res.ok){
         const err = await res.json().catch(() => ({}));
