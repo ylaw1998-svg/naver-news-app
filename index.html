@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>네이버 뉴스 자동 수집기</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@500;700;900&family=Noto+Sans+KR:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper: #F6F3EC;
+    --paper-dim: #EFEADD;
+    --ink: #1B1A17;
+    --ink-soft: #46433C;
+    --rule: #D8D2C4;
+    --rule-strong: #1B1A17;
+    --live: #03C75A;
+    --alert: #B23A2F;
+    --meta: #8C8775;
+  }
+  *{ box-sizing: border-box; }
+  html,body{ margin:0; padding:0; }
+  body{
+    background: var(--paper);
+    color: var(--ink);
+    font-family: "Noto Sans KR", sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  a{ color: inherit; text-decoration: none; }
+
+  .wrap{
+    max-width: 880px;
+    margin: 0 auto;
+    padding: 28px 20px 80px;
+  }
+
+  /* ---------- 마스트헤드 ---------- */
+  .masthead{
+    display:flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 16px;
+    flex-wrap: wrap;
+    padding-bottom: 14px;
+  }
+  .masthead h1{
+    font-family: "Noto Serif KR", serif;
+    font-weight: 900;
+    font-size: clamp(28px, 6vw, 44px);
+    margin: 0;
+    letter-spacing: -0.01em;
+    line-height: 1.05;
+  }
+  .masthead .kicker{
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 11px;
+    color: var(--meta);
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    margin: 0 0 6px;
+  }
+  .status{
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 12px;
+    color: var(--ink-soft);
+    text-align: right;
+    line-height: 1.6;
+  }
+  .status .dot-row{
+    display:flex;
+    align-items:center;
+    justify-content:flex-end;
+    gap: 6px;
+  }
+  .dot{
+    width: 7px; height: 7px; border-radius: 50%;
+    background: var(--live);
+    box-shadow: 0 0 0 0 rgba(3,199,90,0.6);
+    animation: pulse 2.2s infinite;
+  }
+  .dot.off{ background: var(--meta); animation: none; }
+  @keyframes pulse{
+    0%{ box-shadow: 0 0 0 0 rgba(3,199,90,0.45); }
+    70%{ box-shadow: 0 0 0 7px rgba(3,199,90,0); }
+    100%{ box-shadow: 0 0 0 0 rgba(3,199,90,0); }
+  }
+
+  .rule-double{
+    border: none;
+    border-top: 2px solid var(--rule-strong);
+    border-bottom: 1px solid var(--rule-strong);
+    height: 3px;
+    margin: 0 0 18px;
+  }
+
+  /* ---------- 섹션 탭 ---------- */
+  .tabs{
+    display:flex;
+    gap: 22px;
+    overflow-x: auto;
+    padding-bottom: 12px;
+    margin-bottom: 6px;
+    border-bottom: 1px solid var(--rule);
+    scrollbar-width: none;
+  }
+  .tabs::-webkit-scrollbar{ display:none; }
+  .tab{
+    font-family: "Noto Sans KR", sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    color: var(--meta);
+    background: none;
+    border: none;
+    padding: 4px 2px 12px;
+    cursor: pointer;
+    white-space: nowrap;
+    position: relative;
+  }
+  .tab[aria-selected="true"]{
+    color: var(--ink);
+  }
+  .tab[aria-selected="true"]::after{
+    content:"";
+    position:absolute;
+    left:0; right:0; bottom:-1px;
+    height: 2px;
+    background: var(--ink);
+  }
+  .tab:focus-visible{ outline: 2px solid var(--live); outline-offset: 3px; }
+  .tab .count{
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 11px;
+    color: var(--meta);
+    margin-left: 4px;
+  }
+
+  /* ---------- 기사 목록 ---------- */
+  .list{ margin-top: 6px; }
+  .item{
+    display:grid;
+    grid-template-columns: 34px 1fr;
+    gap: 14px;
+    padding: 18px 0;
+    border-bottom: 1px solid var(--rule);
+  }
+  .item:hover .headline{ text-decoration: underline; text-decoration-color: var(--rule-strong); }
+  .idx{
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 12px;
+    color: var(--meta);
+    padding-top: 3px;
+  }
+  .headline{
+    font-family: "Noto Serif KR", serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.4;
+    display: block;
+    margin-bottom: 6px;
+  }
+  .desc{
+    font-size: 13.5px;
+    color: var(--ink-soft);
+    line-height: 1.55;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    margin-bottom: 8px;
+  }
+  .meta-line{
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 11.5px;
+    color: var(--meta);
+    display:flex;
+    gap: 10px;
+    align-items: center;
+  }
+  .meta-line .src{
+    color: var(--ink-soft);
+    font-weight: 500;
+  }
+  .meta-line .sep{ color: var(--rule); }
+
+  /* ---------- 빈 상태 ---------- */
+  .empty{
+    margin-top: 40px;
+    padding: 40px 20px;
+    text-align: center;
+    border: 1px dashed var(--rule);
+    background: var(--paper-dim);
+  }
+  .empty .stamp{
+    display:inline-block;
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    color: var(--alert);
+    border: 1px solid var(--alert);
+    padding: 4px 10px;
+    transform: rotate(-2deg);
+    margin-bottom: 14px;
+  }
+  .empty p{
+    font-family: "Noto Serif KR", serif;
+    font-size: 16px;
+    color: var(--ink-soft);
+    max-width: 420px;
+    margin: 0 auto;
+    line-height: 1.6;
+  }
+
+  footer{
+    margin-top: 50px;
+    padding-top: 16px;
+    border-top: 1px solid var(--rule);
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 11px;
+    color: var(--meta);
+    display:flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  @media (max-width: 480px){
+    .masthead{ flex-direction: column; align-items: flex-start; }
+    .status{ text-align: left; }
+    .status .dot-row{ justify-content: flex-start; }
+    .item{ grid-template-columns: 24px 1fr; }
+    .headline{ font-size: 16.5px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="wrap">
+
+  <div class="masthead">
+    <div>
+      <p class="kicker" id="dateLine">—</p>
+      <h1>네이버 뉴스 자동 수집기</h1>
+    </div>
+    <div class="status">
+      <div class="dot-row"><span class="dot" id="liveDot"></span><span id="liveLabel">대기 중</span></div>
+      <div id="updatedAt">마지막 업데이트: -</div>
+    </div>
+  </div>
+  <hr class="rule-double" />
+
+  <nav class="tabs" id="tabs" role="tablist" aria-label="섹션 선택"></nav>
+
+  <main class="list" id="list"></main>
+
+  <div class="empty" id="emptyState" hidden>
+    <span class="stamp">대기 중</span>
+    <p>아직 수집된 뉴스가 없습니다.<br>GitHub Actions가 처음 실행되면 이 화면에 자동으로 채워집니다.</p>
+  </div>
+
+  <footer>
+    <span>데이터 출처: 네이버 뉴스 검색 오픈API</span>
+    <span id="cadenceLine">갱신 주기: 워크플로우 설정값 기준</span>
+  </footer>
+
+</div>
+
+<script>
+  const DATA_URL = "./data/news.json";
+  const REFRESH_MS = 60 * 1000; // 페이지를 열어두면 1분마다 새 데이터 확인
+
+  let state = { categories: [], updated_at: null };
+  let activeTab = "전체";
+
+  function relativeTime(dateLike){
+    if(!dateLike) return "-";
+    const d = new Date(dateLike);
+    if(isNaN(d.getTime())) return "-";
+    const diffSec = Math.floor((Date.now() - d.getTime()) / 1000);
+    if(diffSec < 60) return "방금 전";
+    if(diffSec < 3600) return Math.floor(diffSec/60) + "분 전";
+    if(diffSec < 86400) return Math.floor(diffSec/3600) + "시간 전";
+    if(diffSec < 86400*7) return Math.floor(diffSec/86400) + "일 전";
+    return d.toLocaleDateString("ko-KR", { month:"short", day:"numeric" });
+  }
+
+  function sourceFromLink(link){
+    try{
+      const host = new URL(link).hostname.replace(/^www\./, "");
+      return host;
+    }catch(e){ return "출처 미확인"; }
+  }
+
+  function render(){
+    const tabsEl = document.getElementById("tabs");
+    const listEl = document.getElementById("list");
+    const emptyEl = document.getElementById("emptyState");
+    const cats = state.categories || [];
+    const hasData = cats.some(c => (c.items || []).length > 0);
+
+    // 탭 구성: 전체 + 키워드별
+    const tabNames = ["전체", ...cats.map(c => c.keyword)];
+    tabsEl.innerHTML = "";
+    tabNames.forEach(name => {
+      const count = name === "전체"
+        ? cats.reduce((sum,c)=> sum + (c.items||[]).length, 0)
+        : (cats.find(c=>c.keyword===name)?.items.length || 0);
+      const btn = document.createElement("button");
+      btn.className = "tab";
+      btn.setAttribute("role","tab");
+      btn.setAttribute("aria-selected", String(name === activeTab));
+      btn.innerHTML = `${name}<span class="count">${count}</span>`;
+      btn.addEventListener("click", () => { activeTab = name; render(); });
+      tabsEl.appendChild(btn);
+    });
+
+    // 목록 구성
+    let items = [];
+    if(activeTab === "전체"){
+      cats.forEach(c => (c.items||[]).forEach(it => items.push(it)));
+      items.sort((a,b) => new Date(b.pub_date) - new Date(a.pub_date));
+    } else {
+      const cat = cats.find(c => c.keyword === activeTab);
+      items = cat ? cat.items.slice() : [];
+    }
+
+    listEl.innerHTML = "";
+    if(!hasData || items.length === 0){
+      emptyEl.hidden = false;
+      listEl.hidden = true;
+    } else {
+      emptyEl.hidden = true;
+      listEl.hidden = false;
+      items.forEach((it, i) => {
+        const row = document.createElement("article");
+        row.className = "item";
+        row.innerHTML = `
+          <div class="idx">${String(i+1).padStart(2,"0")}</div>
+          <div>
+            <a class="headline" href="${it.link || it.naver_link || '#'}" target="_blank" rel="noopener noreferrer">${it.title}</a>
+            ${it.description ? `<div class="desc">${it.description}</div>` : ""}
+            <div class="meta-line">
+              <span class="src">${sourceFromLink(it.link || it.naver_link || "")}</span>
+              <span class="sep">·</span>
+              <span title="${it.pub_date || ''}">${relativeTime(it.pub_date)}</span>
+            </div>
+          </div>
+        `;
+        listEl.appendChild(row);
+      });
+    }
+
+    // 상태 표시
+    document.getElementById("dateLine").textContent =
+      new Date().toLocaleDateString("ko-KR", { year:"numeric", month:"long", day:"numeric", weekday:"long" });
+    document.getElementById("updatedAt").textContent =
+      "마지막 업데이트: " + (state.updated_at ? relativeTime(state.updated_at) : "-");
+    const dot = document.getElementById("liveDot");
+    const label = document.getElementById("liveLabel");
+    if(hasData){
+      dot.classList.remove("off");
+      label.textContent = "자동 갱신 중";
+    } else {
+      dot.classList.add("off");
+      label.textContent = "대기 중";
+    }
+  }
+
+  async function load(){
+    try{
+      const res = await fetch(DATA_URL + "?_=" + Date.now(), { cache: "no-store" });
+      if(!res.ok) throw new Error("data fetch failed");
+      state = await res.json();
+    }catch(e){
+      console.warn("뉴스 데이터를 불러오지 못했습니다:", e);
+    }
+    render();
+  }
+
+  load();
+  setInterval(load, REFRESH_MS);
+  setInterval(render, 30 * 1000); // 상대 시간(n분 전) 표시를 주기적으로 갱신
+</script>
+
+</body>
+</html>
