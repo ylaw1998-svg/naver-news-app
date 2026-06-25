@@ -9,7 +9,14 @@ on:
     - cron: "0 * * * *"
 
   # 2) Actions 탭에서 "Run workflow" 버튼으로 수동 실행도 가능하게 함
-  workflow_dispatch: {}
+  #    force_run을 true로 보내면 갱신 주기를 무시하고 즉시 수집합니다.
+  workflow_dispatch:
+    inputs:
+      force_run:
+        description: "갱신 주기를 무시하고 즉시 수집"
+        required: false
+        default: "false"
+        type: boolean
 
 permissions:
   contents: write
@@ -30,6 +37,7 @@ jobs:
         env:
           NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
           NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
+          FORCE_RUN: ${{ github.event.inputs.force_run }}
         run: python scripts/fetch_news.py
 
       - name: 변경사항 커밋 및 푸시
