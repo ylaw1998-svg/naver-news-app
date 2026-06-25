@@ -1,13 +1,21 @@
 """
-네이버 뉴스 검색 오픈API를 호출해서 keywords.txt에 적힌 검색어별로
+네이버 뉴스 검색 오픈API를 호출해서 config.json에 적힌 검색어별로
 최신 뉴스 제목을 가져와 data/news.json 파일로 저장하는 스크립트입니다.
+
+config.json 형식:
+  {
+    "keywords": ["경제", "AI", "부동산"],
+    "interval_hours": 1
+  }
+
+웹페이지의 설정 패널에서 이 config.json을 직접 수정할 수 있습니다.
+GitHub Actions는 항상 매시간 이 스크립트를 실행하지만, interval_hours에
+설정된 시간이 아직 지나지 않았으면 이 스크립트는 아무 일도 하지 않고
+조용히 종료합니다. (예: interval_hours=24 면, 실제로는 24번 중 1번만 수집)
 
 필요한 환경변수:
   NAVER_CLIENT_ID      - 네이버 개발자센터에서 발급받은 Client ID
   NAVER_CLIENT_SECRET  - 네이버 개발자센터에서 발급받은 Client Secret
-
-GitHub Actions에서 이 스크립트를 실행하면, 그 결과로 data/news.json이
-갱신되고, 워크플로우가 그 변경 사항을 저장소에 커밋합니다.
 """
 
 import html
@@ -23,16 +31,46 @@ NAVER_NEWS_API_URL = "https://openapi.naver.com/v1/search/news.json"
 DISPLAY_PER_KEYWORD = 10  # 검색어 하나당 가져올 기사 수 (최대 100)
 KST = timezone(timedelta(hours=9))
 
+DEFAULT_CONFIG = {
+    "keywords": ["경제", "AI", "부동산"],
+    "interval_hours": 1,
+}
 
-def load_keywords(path: str) -> list[str]:
-    keywords = []
+
+def load_config(base_dir: str) -> dict:
+    path = os.path.join(base_dir, "config.json")
+    if not os.path.exists(path):
+        print("[INFO] config.json이 없어 기본값을 사용합니다.")
+        return dict(DEFAULT_CONFIG)
     with open(path, "r", encoding="utf-8") as f:
-        for line in f:
-            line = line.strip()
-            if not line or line.startswith("#"):
-                continue
-            keywords.append(line)
-    return keywords
+        cfg = json.load(f)
+    cfg.setdefault("keywords", DEFAULT_CONFIG["keywords"])
+    cfg.setdefault("interval_hours", DEFAULT_CONFIG["interval_hours"])
+    return cfg
+
+
+def load_previous_output(base_dir: str) -> dict | None:
+    path = os.path.join(base_dir, "data", "news.json")
+    if not os.path.exists(path):
+        return None
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except (json.JSONDecodeError, OSError):
+        return None
+
+
+def should_skip(previous: dict | None, interval_hours: float) -> bool:
+    """설정된 갱신 주기가 아직 지나지 않았으면 True를 반환합니다."""
+    if not previous or not previous.get("updated_at"):
+        return False
+    try:
+        last_updated = datetime.fromisoformat(previous["updated_at"])
+    except ValueError:
+        return False
+    elapsed_hours = (datetime.now(KST) - last_updated).total_seconds() / 3600
+    # 워크플로우는 매시간 실행되므로, 약간의 여유(5분)를 두고 비교합니다.
+    return elapsed_hours < (interval_hours - (5 / 60))
 
 
 def clean_text(raw: str) -> str:
@@ -81,8 +119,18 @@ def main() -> None:
         sys.exit(1)
 
     base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    keywords = load_keywords(os.path.join(base_dir, "keywords.txt"))
+    config = load_config(base_dir)
+    previous = load_previous_output(base_dir)
+    interval_hours = float(config.get("interval_hours", 1))
 
+    if should_skip(previous, interval_hours):
+        print(
+            f"[SKIP] 설정된 갱신 주기({interval_hours}시간)가 아직 지나지 않아 "
+            "이번 실행은 건너뜁니다."
+        )
+        return
+
+    keywords = config.get("keywords", [])
     categories = []
     for keyword in keywords:
         try:
@@ -95,6 +143,7 @@ def main() -> None:
 
     output = {
         "updated_at": datetime.now(KST).isoformat(),
+        "interval_hours": interval_hours,
         "categories": categories,
     }
 
