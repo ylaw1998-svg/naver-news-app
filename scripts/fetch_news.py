@@ -122,8 +122,11 @@ def main() -> None:
     config = load_config(base_dir)
     previous = load_previous_output(base_dir)
     interval_hours = float(config.get("interval_hours", 1))
+    force_run = os.environ.get("FORCE_RUN", "").strip().lower() == "true"
 
-    if should_skip(previous, interval_hours):
+    if force_run:
+        print("[INFO] 강제 실행 요청 — 갱신 주기를 무시하고 즉시 수집합니다.")
+    elif should_skip(previous, interval_hours):
         print(
             f"[SKIP] 설정된 갱신 주기({interval_hours}시간)가 아직 지나지 않아 "
             "이번 실행은 건너뜁니다."
