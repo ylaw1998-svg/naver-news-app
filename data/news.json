@@ -1,72 +1,79 @@
 {
-  "updated_at": "2026-07-20T04:58:38.279011+09:00",
+  "updated_at": "2026-07-20T07:36:51.162758+09:00",
   "interval_hours": 1.0,
   "categories": [
     {
       "keyword": "축구",
       "items": [
         {
-          "title": "메시-야말 모두 침묵… 아르헨티나-스페인, 결승 전반 0-0 마무리",
-          "description": "국제축구연맹(FIFA) 북중미 월드컵 결승전 전반전을 0-0으로 마쳤다. 아르헨티나는 현재 메이저 대회 3연패를... 아르헨티나의 선봉장은 '축구의 신' 메시다. 스페인은 2010 남아공 월드컵 이후 16년 만에 월드컵 정상 탈환을...",
-          "link": "https://sports.hankooki.com/news/articleView.html?idxno=6936649",
-          "naver_link": "https://sports.hankooki.com/news/articleView.html?idxno=6936649",
-          "pub_date": "Mon, 20 Jul 2026 04:56:00 +0900"
+          "title": "[월드컵 결승 POINT] 호날두? 음바페? 메시? 어쩌라고...스페인, 8경기 1...",
+          "description": "스페인은 20일 오전 4시(이하 한국시간) 미국 뉴저지주 이스트 러더퍼드의 뉴욕·뉴저지 스타디움에서 열린 2026 국제축구연맹(FIFA) 북중미 월드컵 결승전에서 아르헨티나에 1-0 승리를 거뒀다. 스페인은 2010 남아공 월드컵...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=690872",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000221192",
+          "pub_date": "Mon, 20 Jul 2026 07:35:00 +0900"
         },
         {
-          "title": "\"'유소년은 기본기'가 한국 축구 망친다\" 구자철 작심 발언, 이강인도 '...",
-          "description": "이강인(25)이 한국 유소년 축구 육성 방식에 문제를 제기한 구자철(37)의 발언을 공유했다. 별도의 설명은... 이강인은 18일 자신의 소셜 미디어에 구자철이 방송에서 한국 유소년 축구를 언급한 영상을 게시했다. 구자철은...",
-          "link": "http://www.osen.co.kr/article/G1112842460",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/109/0005574455",
-          "pub_date": "Mon, 20 Jul 2026 04:44:00 +0900"
+          "title": "'무적함대' 스페인, 아르헨티나 꺾고 16년만에 월드컵 우승",
+          "description": "2024 유럽축구선수권대회(유로 2024)를 제패한 스페인은 2년 뒤 월드컵까지 석권하며 새로운 황금기를 열었다. 루이스 데 라 푸엔테 감독은 스페인은 젊은 선수들의 재능과 노장 선수들의 경험을 조화시키며 스페인을...",
+          "link": "https://www.womennews.co.kr/news/articleView.html?idxno=280074",
+          "naver_link": "https://n.news.naver.com/mnews/article/310/0000138446?sid=104",
+          "pub_date": "Mon, 20 Jul 2026 07:35:00 +0900"
         },
         {
-          "title": "\"트럼프가 탈락시킨 美 국가를 왜 연주해?\" 월드컵 결승전 야유 폭발......",
-          "description": "스페인과 아르헨티나는 20일 오전 4시(한국시간) 미국 뉴저지주 이스트러더퍼드의 뉴욕 뉴저지 스타디움에서 열린 2026 국제축구연맹(FIFA) 북중미 월드컵 결승전에서 맞붙고 있다. 루이스 데 라 푸엔테 감독이 이끄는...",
-          "link": "http://www.osen.co.kr/article/G1112842797",
-          "naver_link": "https://m.sports.naver.com/worldcup2026/article/109/0005574453",
-          "pub_date": "Mon, 20 Jul 2026 04:40:00 +0900"
+          "title": "\"숨 막혀서 떠난다, 오늘부터 대표팀 언급 금지\" 14년 만에 사퇴 이유 밝...",
+          "description": "14년 동안 프랑스 축구의 황금기를 이끌었던 디디에 데샹 감독이 마침내 지휘봉을 내려놓으며 그동안 알리지... 프랑스는 19일 오전 6시(한국시간) 미국 플로리다주 마이애미 스타디움에서 열린 2026 국제축구연맹(FIFA)...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=95033",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/411/0000084665",
+          "pub_date": "Mon, 20 Jul 2026 07:35:00 +0900"
         },
         {
-          "title": "美리그 돌아간 손흥민, 후반기 첫 경기서 골맛",
-          "description": "북중미카리브축구연맹(CONCACAF) 챔피언스컵에서 넣은 2골(7도움)을 포함하면 시즌 3호 골이다. 손흥민은 이날 유효슈팅 3개를 기록한 뒤 후반 21분 교체됐다. 손흥민은 “(리그 첫 골이) 좀 늦게 터진 감이 없지 않지만...",
-          "link": "https://www.donga.com/news/Sports/article/all/20260720/134324606/2",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/020/0003734989",
-          "pub_date": "Mon, 20 Jul 2026 04:35:00 +0900"
+          "title": "[속보] '충격 추태'...아르헨티나 파레데스의 '폭력 사태', 결승 패배 후...",
+          "description": "결국 유럽축구 이적시장 전문가 파브리시오 로마노에 따르면 파레데스는 경기가 끝난 뒤 스페인의 에릭 가르시아와 가비를 가격하는 행위를 했고 이로 인해 퇴장을 당한 것으로 알려졌다. 이번 대회 내내 거친 플레이와...",
+          "link": "https://www.mydaily.co.kr/page/view/2026072007331012756",
+          "naver_link": "https://m.sports.naver.com/worldcup2026/article/117/0004086242",
+          "pub_date": "Mon, 20 Jul 2026 07:34:00 +0900"
         },
         {
-          "title": "결승 못간 한풀이로 골 폭죽… 월드컵 3,4위전 역대 최다 10골",
-          "description": "음바페는 이날 2골을 넣어 월드컵 통산 22골로 ‘축구의 신’ 리오넬 메시(39·아르헨티나·21골)를 제치고 이 부문 역대 1위에 올랐다. 22경기에서 평균 1골씩 22골을 터뜨렸다. 동시에 이번 대회 10골로 역시 메시(8골)...",
-          "link": "https://www.donga.com/news/Sports/article/all/20260720/134324602/2",
-          "naver_link": "https://n.news.naver.com/mnews/article/020/0003734981?sid=104",
-          "pub_date": "Mon, 20 Jul 2026 04:34:00 +0900"
+          "title": "‘16년 만에 우승’ 스페인, 야말과 함께 다시 찾아온 전성기",
+          "description": "스페인은 20일(한국시각) 미국 뉴욕 뉴저지 스타디움에서 열린 ‘2026 국제축구연맹(FIFA) 북중미월드컵’ 결승전에서 연장 승부 끝에 아르헨티나를 1-0으로 물리쳤다. 이로써 스페인은 2010년 남아프리카공화국 대회 이후...",
+          "link": "https://www.dailian.co.kr/news/view/1668491/?sc=Naver",
+          "naver_link": "https://n.news.naver.com/mnews/article/119/0003112695?sid=104",
+          "pub_date": "Mon, 20 Jul 2026 07:34:00 +0900"
         },
         {
-          "title": "쿠팡 물류센터 화재 40시간만에… “반경 116m 주민들 대피하라”",
-          "description": "축구장 42개 넓이인 물류센터에는 가연성 생활용품이 가득 쌓여 불길이 거세고, 내부 구조물 균열 우려 등으로 소방대원이 건물 진입에 난항을 겪고 있다. 화재 당시 건물에 있던 직원 등 121명은 신속히 대피했지만...",
-          "link": "https://www.donga.com/news/Society/article/all/20260720/134325153/2",
-          "naver_link": "https://n.news.naver.com/mnews/article/020/0003734955?sid=102",
-          "pub_date": "Mon, 20 Jul 2026 04:33:00 +0900"
+          "title": "'무적함대' 스페인, 아르헨 꺾고 월드컵 우승…16년 만 정상 탈환",
+          "description": "'무적함대' 스페인 축구 국가대표팀이 아르헨티나를 꺾고 2026 국제축구연맹(FIFA) 북중미 월드컵 우승을 차지했다. 스페인은 20일(한국시간) 미국 뉴욕 뉴저지 스타디움에서 열린 북중미 월드컵 결승에서 아르헨티나와...",
+          "link": "https://www.mt.co.kr/world/2026/07/20/2026072007090483697",
+          "naver_link": "https://n.news.naver.com/mnews/article/008/0005387786?sid=104",
+          "pub_date": "Mon, 20 Jul 2026 07:34:00 +0900"
         },
         {
-          "title": "축구장 14개 크기 숲… 음성 봉학골, 충북 ‘1호 지방정원’",
-          "description": "충북 음성군 ‘봉학골 정원’이 충북 첫 지방정원이 됐다. 19일 음성군에 따르면 음성읍 용산리의 10만4167m2 규모의 이 정원은 최근 충북도내 ‘제1호 지방정원’에 등록됐다. 지방정원은 지방자치단체가 직접 조성하고...",
-          "link": "https://www.donga.com/news/Society/article/all/20260719/134323570/2",
-          "naver_link": "https://n.news.naver.com/mnews/article/020/0003734949?sid=102",
-          "pub_date": "Mon, 20 Jul 2026 04:33:00 +0900"
+          "title": "트럼프 美 대통령, 월드컵 결승전 시상식 참석",
+          "description": "= 도널드 트럼프 미국 대통령과 인판티노 국제축구연맹(FIFA) 회장이 20일(한국시간) 미국 뉴저지주 이스트 러더퍼드의 뉴욕/뉴저지 스타디움에서 열린 스페인과 아르헨티나의 2026 국제축구연맹(FIFA) 북중미 월드컵...",
+          "link": "https://www.news1.kr/photos/8015268",
+          "naver_link": "https://n.news.naver.com/mnews/article/421/0009067343?sid=104",
+          "pub_date": "Mon, 20 Jul 2026 07:33:00 +0900"
         },
         {
-          "title": "정호연, 월드컵 결승전 깜짝 등장…금빛 트로피 공개",
-          "description": "세계 축구 팬들의 이목을 집중시켰다. 두 사람은 월드컵 우승 트로피가 담긴 루이비통 트로피 트렁크... 아울러 \"축구는 말 없이도 통하는 언어\"라며 \"사람들을 하나로 모으고 낯선 이를 친구로 바꾸는 우리에게 공통점이...",
-          "link": "https://www.hankyung.com/article/202607203139H",
-          "naver_link": "https://n.news.naver.com/mnews/article/015/0005311469?sid=104",
-          "pub_date": "Mon, 20 Jul 2026 04:31:00 +0900"
+          "title": "[속보]토레스, 메시 울렸다…무적함대 스페인, 16년만에 월드컵 우승",
+          "description": "세계 축구 최강국의 자리를 공고하게 했다. 반면 2022 카타르 월드컵 우승에 이어 2024 코파 아메리카... ‘축구의 신’ 리오넬 메시의 개인 6번째 월드컵이자 라스트 댄스도 준우승으로 막을 내렸다. 아르헨티나는...",
+          "link": "https://www.donga.com/news/Sports/article/all/20260720/134325512/1",
+          "naver_link": "https://n.news.naver.com/mnews/article/020/0003734998?sid=104",
+          "pub_date": "Mon, 20 Jul 2026 07:32:00 +0900"
         },
         {
-          "title": "\"제 몸값이 내려갔으면 좋겠어요\" 일본 국대 공격수의 고백…왜? \"이적...",
-          "description": "일본 축구 국가대표팀 공격수 마에다 다이젠은 자신의 시장 가치가 오르길 바라지 않는다. 원활한 이적을 위해서다. 일본 '스포니치 아넥스'는 19일(한국시간) \"일본 축구 국가대표 마에다가 자신의 시장가치에 대한...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=690860",
-          "naver_link": "https://m.sports.naver.com/worldcup2026/article/413/0000221184",
-          "pub_date": "Mon, 20 Jul 2026 04:30:00 +0900"
+          "title": "메시 찾아 포옹한 야말... 전설과 신성의 아름다운 순간[스페인 우승]",
+          "description": "국제축구연맹(FIFA) 북중미 월드컵 결승전 아르헨티나와 맞대결서 연장 승부 끝에 1-0으로 이겼다. 스페인은... 엄청난 왼발을 가진 바르셀로나와 세계 축구의 전설과 신성. 그리고 이날 월드컵 결승전에 모든 걸 쏟아부은...",
+          "link": "https://sports.hankooki.com/news/articleView.html?idxno=6936664",
+          "naver_link": "https://sports.hankooki.com/news/articleView.html?idxno=6936664",
+          "pub_date": "Mon, 20 Jul 2026 07:32:00 +0900"
+        },
+        {
+          "title": "'무적함대' 스페인, 16년 만에 월드컵 우승···아르헨과 연장 끝 1-0",
+          "description": "우승을 기뻐하는 스페인 축구 팬들. 사진제공/AFP통신 스페인이 2026 국제축구연맹(FIFA) 북중미 월드컵 결승에서 연장전까지 가는 접전 끝에 아르헨티나를 꺾고  정상에 올랐다. 스페인은 20일(한국시간) 미국 뉴욕...",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3639867",
+          "naver_link": "https://www.gukjenews.com/news/articleView.html?idxno=3639867",
+          "pub_date": "Mon, 20 Jul 2026 07:32:00 +0900"
         }
       ]
     }
