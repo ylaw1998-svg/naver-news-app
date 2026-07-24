@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-07-25T04:19:27.812320+09:00",
+  "updated_at": "2026-07-25T05:58:25.349756+09:00",
   "interval_hours": 1.0,
   "categories": [
     {
       "keyword": "축구",
       "items": [
         {
-          "title": "'꼴지 해도 남는 장사' 키움과 KBO 드래프트의 딜레마",
-          "description": "축구처럼 강등 제도가 있는 것도 아니다. 성적을 포기해도 수입은 꾸준히 들어오고, 여기에 상위 지명권까지 챙기니 투자를 적게 할수록 오히려 이익이 되는 구조다. 급기야 이를 악용하는 사례가 증가하고 리그...",
-          "link": "http://weekly.chosun.com/news/articleView.html?idxno=53720",
-          "naver_link": "https://m.sports.naver.com/general/article/053/0000060197",
-          "pub_date": "Sat, 25 Jul 2026 04:00:00 +0900"
+          "title": "[오피셜] '한국인은 0명인데' 日 프리미어리거 또 탄생...월드컵 탈락 아...",
+          "description": "앞서 유럽 축구 이적시장 전문가 파브리시오 로마노 기자도 23일 자신의 SNS를 통해 \"모리타가 스포르팅을... 지난 시즌에도 소속팀의 핵심으로 활약하며 팀의 유럽축구연맹(UEFA) 챔피언스리그(UCL) 8강 진출과 리그...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=95291",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/411/0000084886",
+          "pub_date": "Sat, 25 Jul 2026 05:55:00 +0900"
         },
         {
-          "title": "\"홍명보 뒤 이을 유력 후보\" 차기 사령탑 가능성 급부상...르나르, 2년 만...",
-          "description": "에르베 르나르(58) 감독이 다시 한번 대한민국 축구대표팀과 연결되고 있다. 여러 국가의 러브콜을 받고 있는... 한국 축구도 빠지지 않았다. 매체는 \"일부 한국 소식통에 따르면, 그는 2026 월드컵 조별리그 탈락 이후...",
-          "link": "http://www.osen.co.kr/article/G1112845678",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/109/0005577610",
-          "pub_date": "Sat, 25 Jul 2026 03:55:00 +0900"
+          "title": "西 독점 보도 ‘발롱도르+월드컵 우승’ 로드리, 레알 마드리드 이적? ...",
+          "description": "유럽 축구 이적시장 전문가 파브리지오 로마노는 지난 6월 자신의 사회관계망서비스(SNS)를 통해 “레알... 심지어 최근 축구 선수 최고의 명예 발롱도르 위너다. 또 맨시티 시절 ‘유럽 트레블’에 스페인 대표팀으로...",
+          "link": "https://sports.khan.co.kr/article/202607250553003?pt=nv",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/144/0001128028",
+          "pub_date": "Sat, 25 Jul 2026 05:54:00 +0900"
         },
         {
-          "title": "[오피셜] “가족 사생활 침해할 경우, 그 즉시 사임하겠다” 獨 새 사령...",
-          "description": "독일축구협회(DFB)는 24일(한국시간) 공식 홈페이지를 통해 “클롭 감독이 새로운 독일 사령탑으로 선임됐다. 계약기간은 4년으로, 2028 유럽축구선수권대회(유로 2028)와 2030 월드컵을 이끌게 될 것”이라며 “앞서 이사회와...",
-          "link": "https://www.goal.com/kr/뉴스/a/blt37fb868e099cec14",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/216/0000141836",
-          "pub_date": "Sat, 25 Jul 2026 03:51:00 +0900"
+          "title": "이탈리아 4연속 월드컵 불발 되겠다...'유벤투스서 대실패' 피를로 \"아주...",
+          "description": "안드레아 피를로 감독이 이탈리아 축구 국가대표팀 감독직을 맡을 가능성이 높아졌다. 영국 '스카이 스포츠... '스카이 스포츠'는 \"과르디올라 감독의 결정은 축구와 무관한 개인적인 이유 때문\"이라고 알렸다. 안첼로티...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=691204",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000221421",
+          "pub_date": "Sat, 25 Jul 2026 05:50:00 +0900"
         },
         {
-          "title": "이강인, PSG 떠나 아틀레티코 마드리드 이적 확정... 2031년까지 5년 계...",
-          "description": "대한민국 축구 국가대표팀의 핵심 미드필더 이강인이 스페인 라리가의 명문 아틀레티코 마드리드로 이적하며 새로운 도전에 나섰다. 스페인 축구 소식에 정통한 마테오 모레토 기자는 25일 이강인이 아틀레티코...",
-          "link": "https://www.ftimes.kr/news/articleView.html?idxno=38673",
-          "naver_link": "https://www.ftimes.kr/news/articleView.html?idxno=38673",
-          "pub_date": "Sat, 25 Jul 2026 03:40:00 +0900"
+          "title": "“뭘 안다고 말을 함부로 하는지…정몽규 회장은 13년 희생” 막말 논란...",
+          "description": "최근 ‘K-축구 혁신위원회’ 박지성 위원장과 이영표 위원을 두고 “뭘 안다고 말을 함부로 하는지 모르겠다”고 지적했다가 거센 비판을 받았던 서강일 전북특별자치도축구협회 회장이 오는 30일 예정된 대한축구협회...",
+          "link": "https://www.goal.com/kr/뉴스/a/blt64160b25b4aec373",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/216/0000141837",
+          "pub_date": "Sat, 25 Jul 2026 05:37:00 +0900"
         },
         {
-          "title": "\"정말 아름답다\" 최고 미녀 축구선수…호날두와 훈련 화제, 십자인대 악...",
-          "description": "'세계에서 가장 아름다운 축구 선수'라는 수식어는 여전하지만, 그 뒤에는 긴 시련의 시간이 숨어 있었다. 크로아티아 여자 국가대표 공격수 아나 마르코비치가 잇따른 부상과 부진을 뒤로하고 고국 무대로 돌아와 새로운...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=830486",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/477/0000620015",
-          "pub_date": "Sat, 25 Jul 2026 03:34:00 +0900"
+          "title": "어게인 김상식 매직! '디펜딩 챔피언' 베트남, '동남아 월드컵' 현대컵...",
+          "description": "김상식 감독의 베트남 축구 국가대표팀이 동티모르를 상대로 무려 7골을 몰아치는 막강한 화력을 과시하며 '디펜딩 챔피언'다운 압도적인 개막전 대승을 거두었다. 김상식 감독이 이끄는 베트남 축구 국가대표팀은 24일...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=95290",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/411/0000084885",
+          "pub_date": "Sat, 25 Jul 2026 05:35:00 +0900"
         },
         {
-          "title": "아스널 파격 결단! PL 검증 MF 위해 1370억 지불 결심…\"뉴캐슬이 받을지...",
-          "description": "또한, 아쉽게 준우승에 머물렀지만, 20년 만에 유럽축구연맹(UEFA) 챔피언스리그(UCL) 결승까지 진출했다. 아스널은 올 시즌 전력 보강을 위해 힘을 쏟고 있다. 피에로 인카피에를 완전 영입했다. 크리스토스 촐리스를...",
-          "link": "https://www.mydaily.co.kr/page/view/2026072416204196697",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/117/0004088224",
-          "pub_date": "Sat, 25 Jul 2026 03:34:00 +0900"
+          "title": "일본도 감독 선임 논란…“기술위 배제한 깜깜이 인선”",
+          "description": "홍명보 전 한국 축구대표팀 감독에 대한 감독 선임 논란이 끊이지 않는 가운데 일본 축구계도 대표팀 감독 논의 과정과 의사결정 절차가 매우 불투명했다는 지적이 나오고 있다. 닛칸스포츠와 아사히신문 등 일본 언론은...",
+          "link": "https://www.sedaily.com/article/20071606?ref=naver",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/011/0004645007",
+          "pub_date": "Sat, 25 Jul 2026 05:31:00 +0900"
         },
         {
-          "title": "대한민국보다 심각하다, 2030년 월드컵도 나갈 생각 없나...HERE WE GO 깜짝...",
-          "description": "유럽축구 이적시장 전문가 파브리치오 로마노 기자는 25일(한국시각) '피를로가 구두 제안을 수락하며, 이탈리아의 새 감독으로 부임할 예정이다'고 보도했다. 로마노는 '피를로는 파올로 말디니와 레오나르도 측에서...",
-          "link": "https://www.sportschosun.com/football/2026-07-25/202607250100153020009806",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/076/0004428890",
-          "pub_date": "Sat, 25 Jul 2026 03:26:00 +0900"
+          "title": "이게 가능해? 맨유, 레알 마드리드 주전 미드필더 노린다…BBC \"긍정적인...",
+          "description": "최근 맨유는 첼시에서 브라질 축구 국가대표 안드레이 산투스를 영입했다. 이어서 벨기에 축구 국가대표 미드필더 유리 틸레만스까지 품었다. 그럼에도 불구하고 맨유는 만족하지 않았다. 또 다른 미드필더를 영입할...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=691201",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000221420",
+          "pub_date": "Sat, 25 Jul 2026 05:30:00 +0900"
         },
         {
-          "title": "어머니는 위대하다! 임신 7개월, 그러나 훈련 쉼 없다…크리스털 팰리스...",
-          "description": "축구종가 여자축구 최상위 리그인 잉글리시 위민스 슈퍼리그(WSL)의 크리스털 팰리스 위민스 소속이자 벨기에 국가대표로 활약 중인 저스틴 판하브마르트의 사연이 화제가 되고 있다. 판하브마르트가 임신 7개월 차임에도...",
-          "link": "https://www.xportsnews.com/article/2175836",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/311/0002037515",
-          "pub_date": "Sat, 25 Jul 2026 03:25:00 +0900"
+          "title": "韓 축구 초대형 희소식! '월드컵 0분' 배준호, 마침내 빅리그 이적 성사...",
+          "description": "배준호는 한국 축구 미래를 기대케 하는 최고의 재능 중 한 명이다. 2022년 대전하나시티즌에서 프로 무대를 밟은 그는 2023년 아르헨티나에서 열린 20세 이하(U-20) 월드컵에서 한국의 4강 진출을 이끌며 본격적으로 이름을...",
+          "link": "https://www.sportschosun.com/football/2026-07-25/202607250100153100009808",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/076/0004428893",
+          "pub_date": "Sat, 25 Jul 2026 05:26:00 +0900"
         },
         {
-          "title": "한국 초비상!…中 \"20년간 최고 전력, AG 이번엔 결승 넘어 금메달\" 우승...",
-          "description": "오는 9월 일본에서 열리는 2026 아이치·나고야 아시안게임을 향한 중국 축구계의 기대가 상당하다. 지난 1월 2026 아시아축구연맹(AFC) 23세 이하(U-23) 아시안컵에서 준우승을 차지하며 아시아 U-23 레벨의 강자로 떠오른...",
-          "link": "https://www.xportsnews.com/article/2175853",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/311/0002037514",
-          "pub_date": "Sat, 25 Jul 2026 03:24:00 +0900"
+          "title": "'홍명보 감독 연봉 4배 이상' 월드컵 사령탑 급여 '1위' 안첼로티, 조국...",
+          "description": "매체에 따르면 이탈리아의 접촉 사실은 이탈리아축구연맹(FIGC)의 파올로 말디니 신임 국가대표팀 디렉터를 통해 수면 위로 드러났다. 이탈리아 측은 브라질이 2026 국제축구연맹(FIFA) 북중미 월드컵 노르웨이와의...",
+          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553403762",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/139/0002250714",
+          "pub_date": "Sat, 25 Jul 2026 05:21:00 +0900"
         },
         {
-          "title": "드디어 이적설 끝! 이강인, 아틀레티코 마드리드와 계약 체결…스페인 ...",
-          "description": "스페인 축구 소식을 잘 아는 마테오 모레토 감독은 25일(한국시간) \"이강인이 아틀레티코 마드리드로 간다\"라며 \"서명 완료\"라고 전했다. 이강인은 지난 2023-24시즌 PSG에 합류해 유럽축구연맹(UEFA) 챔피언스리그(UCL) 2연패...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=691198",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000221417",
-          "pub_date": "Sat, 25 Jul 2026 03:10:00 +0900"
+          "title": "자존심도 내려 놓았다...로드리, '2024 발롱 시상식 불참' 레알 이적 확...",
+          "description": "스페인 축구 국가대표로서 전경기에 출전해 우승을 이끌고 골든볼까지 수상해 압도적인 존재감을 뽐냈다. 계약 기간이 1년 남아 있는데, 레알이 로드리를 원한다. 매체는 \"구단 간 협상이 아직 진행되지 않았지만, 레알은...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=691203",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000221419",
+          "pub_date": "Sat, 25 Jul 2026 05:19:00 +0900"
         }
       ]
     }
