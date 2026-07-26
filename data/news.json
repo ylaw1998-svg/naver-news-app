@@ -1,10 +1,66 @@
 {
-  "updated_at": "2026-07-27T01:55:03.325332+09:00",
+  "updated_at": "2026-07-27T02:59:09.096798+09:00",
   "interval_hours": 1.0,
   "categories": [
     {
       "keyword": "축구",
       "items": [
+        {
+          "title": "타마요·켐바오의 나라 필리핀, ‘마줄스호’와 亞 게임 대비 평가전 치...",
+          "description": "이번 아시안게임은 축구가 아닌 농구가 대회의 시작을 알리게 된다. 아시안게임 개막은 19일이지만 농구는 10일부터 시작된다. 그렇기에 모든 나라가 비교적 일찍 대회를 준비하게 된다. 대한민국과 필리핀의...",
+          "link": "https://www.mk.co.kr/article/12107885",
+          "naver_link": "https://m.sports.naver.com/basketball/article/410/0001134121",
+          "pub_date": "Mon, 27 Jul 2026 02:51:00 +0900"
+        },
+        {
+          "title": "'韓 축구 에이스' 이강인, 마침내 이적 '오피셜' 떴는데...\"한 달 동안 경...",
+          "description": "이강인의 아틀레티코 마드리드 활약에 변수가 될 수 있는 요소가 있다. 스페인의 마르카는 26일(한국시각) '이강인은 엄청난 핸디캡이 있다'고 보도했다. 마침내 나온 공식발표, 이강인은 아틀레티코 이적을 확정했다....",
+          "link": "https://www.sportschosun.com/football/2026-07-27/202607270100164410010623",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/076/0004429532",
+          "pub_date": "Mon, 27 Jul 2026 02:47:00 +0900"
+        },
+        {
+          "title": "안양, 9경기 무패행진의 강원 꺾고 5위로 상승...인천과 부천은 무승부",
+          "description": "사진=한국프로축구연맹 FC안양이 9경기 무패행진의 강원FC를 꺾고 5위로 한 계단 상승했다. 안양은 26일 안양종합운동장에서 열린 하나은행 K리그1 2026 20라운드 홈경기서 강원을 2-1로 물리쳤다. 이로써 안양은 4경기...",
+          "link": "https://www.joongboo.com/news/articleView.html?idxno=363732380",
+          "naver_link": "https://www.joongboo.com/news/articleView.html?idxno=363732380",
+          "pub_date": "Mon, 27 Jul 2026 02:42:00 +0900"
+        },
+        {
+          "title": "'대어; 서울 잡고 후반기 첫 승…김현석 울산 감독 \"선수단과 허심탄회...",
+          "description": "대해선 선수들이 모든 걸 내게 쏟아냈다\"면서 \"나도 선수들에게 필요한 얘기, 해줄 얘기했는데 굉장히 유익한 시간이었다. 그게 선수들이 모든 걸 내려놓고 경기력으로 이어진 것 같다\"고 설명했다. 사진=한국프로축구연맹",
+          "link": "https://www.xportsnews.com/article/2176404",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/311/0002038062",
+          "pub_date": "Mon, 27 Jul 2026 02:35:00 +0900"
+        },
+        {
+          "title": "“누구라고요?” 신현준, 해탈한 웃음…축구장 갔더니 ‘중계진도 헷갈...",
+          "description": "배우 신현준이 가족과 함께 프로축구 K리그1 경기를 보러 갔다가 재밌는 상황이 연출됐다. 신현준은 지난... 사실 신현준은 스웨덴의 축구선수 즐라탄과 닮은꼴로 예전부터 유명했다. 그는 지난 2022년 SBS 파워FM 라디오...",
+          "link": "https://www.sportsseoul.com/news/read/1624722?ref=naver",
+          "naver_link": "https://m.entertain.naver.com/article/468/0001255904",
+          "pub_date": "Mon, 27 Jul 2026 02:17:00 +0900"
+        },
+        {
+          "title": "“허심탄회한 소통” 울산 김현석 감독이 전한 반등 요인··· “서울전...",
+          "description": "2026 국제축구연맹(FIFA) 북중미 월드컵 휴식기 이후 첫 승리다. 리그에선 굴곡이 있었다. 1위 서울을 잡아내면 상승세로 돌아설 것으로 봤다. 오늘 보인 경기력을 이어간다면 더 좋은 모습이 나올 것이라고 본다. Q. 이동경...",
+          "link": "https://www.mk.co.kr/article/12107881",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/410/0001134119",
+          "pub_date": "Mon, 27 Jul 2026 02:01:00 +0900"
+        },
+        {
+          "title": "이강인, ‘강인한 축구’ 새판짜기 중심에 선다…빈자리 채울 해결사로...",
+          "description": "ATM 공식 입단 3년 만에 스페인 무대로 팀 간판 그리즈만 MLS로 떠나 저무는 한국축구 손흥민 시대 대체할... 2026 북중미 월드컵에서 큰 실망을 안긴 한국 축구에서도 이강인의 시대는 예고됐다. 국제축구연맹(FIFA)은...",
+          "link": "https://sports.khan.co.kr/article/202607270200006?pt=nv",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/144/0001128271",
+          "pub_date": "Mon, 27 Jul 2026 02:00:00 +0900"
+        },
+        {
+          "title": "59세 4개월 29일에 득점포! \"메시도 못해\" 日 미우라 골에 프랑스 유력지...",
+          "description": "프로축구가 춘추제에서 추춘제로 전환을 추진하는 가운데, 미우라는 60대에 접어들어서도 프로 선수로서 플레이를 지속하며 축구 역사상 손꼽히는 장수 커리어에 새로운 한 장을 쓰게 될 것\"이라고 했다. 그의 보도에...",
+          "link": "https://www.xportsnews.com/article/2176431",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/311/0002038061",
+          "pub_date": "Mon, 27 Jul 2026 02:00:00 +0900"
+        },
         {
           "title": "日축구 내분 조짐? \"우승 목표 안 세우면 어쩌나\" 혼다, 일본축구협회 ...",
           "description": "일본축구협회가 월드컵 목표를 우승에서 8강으로 사실상 낮춘 가운데, 일본 축구의 전설 혼다 케이스케가 협회의 현실론과는 상반된 소신을 밝혔다. 일본 매체 '사커다이제스트'는 26일(한국시간) \"혼다가 자신의 SNS를 통해...",
@@ -18,62 +74,6 @@
           "link": "http://www.osen.co.kr/article/G1112846978",
           "naver_link": "https://m.sports.naver.com/kfootball/article/109/0005578706",
           "pub_date": "Mon, 27 Jul 2026 01:42:00 +0900"
-        },
-        {
-          "title": "西 월드컵 우승 이끌고 뜨거운 감자 등극! '2024 발롱' 로드리 \"PSG 수뇌...",
-          "description": "로드리는 스페인 축구 국가대표 수비형 미드필더다. 비야 레알, 아틀레티코 마드리드를 거쳐 2019-20시즌 맨시티로 팀을 옮겼다. 펩 과르디올라 감독 아래서 세계 최고 수준의 미드필더로 성장했고, 2024년에는...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=691292",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000221499",
-          "pub_date": "Mon, 27 Jul 2026 01:30:00 +0900"
-        },
-        {
-          "title": "\"쏘니!!\" LAFC 주장, 손흥민 이름 크게 외쳤다…\"3경기 연속골, 시간문제...",
-          "description": "손흥민은 2026 국제축구연맹(FIFA) 북중미 월드컵(캐나다·미국·멕시코 공동개최) 휴식기 이후 재개된 리그 경기에서 3경기 연속 골을 터뜨리며 떨어졌던 득점력을 다시 끌어올렸다. 손흥민은 지난 18일 LA갤럭시와 '엘...",
-          "link": "https://www.xportsnews.com/article/2176231",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/311/0002038057",
-          "pub_date": "Mon, 27 Jul 2026 01:15:00 +0900"
-        },
-        {
-          "title": "\"손흥민 떠난 자리, 이제 이강인\"...오스마르 \"한국에 아틀레티코 유니...",
-          "description": "오스마르는 2014년 FC서울에서 K리그 무대에 데뷔한 뒤 10년 넘게 한국 축구를 경험했다. 누구보다 한국 축구 문화와 팬들의 성향을 잘 아는 인물이다. 오스마르는 \"이강인의 아틀레티코 이적은 한국에서 엄청난 화제가 될...",
-          "link": "http://www.osen.co.kr/article/G1112846929",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/109/0005578702",
-          "pub_date": "Mon, 27 Jul 2026 01:12:00 +0900"
-        },
-        {
-          "title": "PSG 떠난 이강인, AT마드리드 ‘강인한 창’ 노린다",
-          "description": "이강인은 PSG에서 세 시즌을 보내며 매년 리그 정상에 올랐고, 유럽축구연맹(UEFA) 챔피언스리그 우승도 두... 이번 이적은 한국 축구에도 의미가 크다. 국제축구연맹(FIFA)은 2026 북중미월드컵을 돌아보면서 “손흥민...",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=1785050600&code=12120000&cp=nv",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/005/0001863204",
-          "pub_date": "Mon, 27 Jul 2026 01:12:00 +0900"
-        },
-        {
-          "title": "'멀티골로 제대로 눈도장 찍었는데 떠날 수도!' 지로나 김민수 \"더 좋은...",
-          "description": "라리가 3경기를 비롯해 코파 델 레이 2경기, 유럽축구연맹(UEFA) 챔피언스리그 1경기에 출전하며 유럽 최고 수준의 무대를 경험했다. 이후 더 많은 출전 시간을 위해 안도라로 임대를 떠났다. 선택은 성공적이었다. 지난...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=95395",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/411/0000084968",
-          "pub_date": "Mon, 27 Jul 2026 01:10:00 +0900"
-        },
-        {
-          "title": "\"서울 우승·MVP 수상이 목표\" 정승원 당찬 포부…이강인과 재회엔 \"바쁜...",
-          "description": "그때 알았다\"며 이강인이 경기장에 온 사실도 처음에는 몰랐다고 밝혔다. 정승원과 이강인은 김학범 감독이 이끌던 2020 도쿄 올림픽 대표팀에서 한솥밥을 먹으며 인연을 쌓았다. 사진=서울월드컵경기장, / 한국프로축구연맹",
-          "link": "https://www.xportsnews.com/article/2176432",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/311/0002038056",
-          "pub_date": "Mon, 27 Jul 2026 01:10:00 +0900"
-        },
-        {
-          "title": "월드컵 아쉬움 털어낸 손흥민, MLS 3경기 연속골…\"부담 벗어나 활력 되...",
-          "description": "2026 국제축구연맹(FIFA) 북중미 월드컵의 아쉬움은 오래가지 않았다. 손흥민(LAFC)이 미국 메이저리그사커... 북중미카리브해축구연맹(CONCACAF) 챔피언스컵까지 포함하면 공식전 5골 17도움을 기록 중이다. 이번 활약은...",
-          "link": "http://www.stoo.com/article.php?aid=107935553173",
-          "naver_link": "http://www.stoo.com/article.php?aid=107935553173",
-          "pub_date": "Mon, 27 Jul 2026 01:08:00 +0900"
-        },
-        {
-          "title": "\"카세미루는 해내지 못한 역할\" 맨체스터 유나이티드 '1000억 신입생' 존...",
-          "description": "마운트는 압박 타이밍을 읽는 능력이 뛰어나며, 공을 탈취한 뒤에는 두 선수 모두 뛰어난 기술을 바탕으로 캐릭 감독이 원하는 축구를 구현하는 데 큰 역할을 하고 있다\"고 평가했다. 또한 \"마운트는 다음 시즌에도 맨유에...",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1469265",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/445/0000441678",
-          "pub_date": "Mon, 27 Jul 2026 01:01:00 +0900"
         }
       ]
     }
