@@ -1,72 +1,79 @@
 {
-  "updated_at": "2026-07-27T09:03:46.875639+09:00",
+  "updated_at": "2026-07-27T13:33:28.896399+09:00",
   "interval_hours": 1.0,
   "categories": [
     {
       "keyword": "축구",
       "items": [
         {
-          "title": "\"씁쓸하다\" '러 베팅업체 연루 의혹' 伊 국대감독 무산 위기...피를로 입...",
-          "description": "이탈리아 축구연맹(FIGC)이 러시아 베팅 회사와의 상업적 관계 조사에 착수함에 따라 취임 결정에 의문이... 기관과 축구연맹, 그리고 관련된 모든 사람에 대한 예의로 지금까지는 침묵을 지켜왔다. 그러나 몇 가지 점은...",
-          "link": "https://www.sportschosun.com/football/2026-07-27/202607270100165220010687",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/076/0004429600",
-          "pub_date": "Mon, 27 Jul 2026 09:02:00 +0900"
+          "title": "박지성 \"축구협회장 선거인단 1만명으로 확대\"...K-축구혁신위 4번째 회...",
+          "description": "대한축구협회 차기 회장 선거인단이 기존 300명 이내에서 1만 명 이상으로 대폭 확대된다. K-축구 혁신위원회(이하 혁신위)는 27일 오전 국립현대미술관 서울관 대회의실에서 박지성 공동위원장 주재로 4차 회의를 열고...",
+          "link": "https://www.slist.kr/news/articleView.html?idxno=754501",
+          "naver_link": "https://www.slist.kr/news/articleView.html?idxno=754501",
+          "pub_date": "Mon, 27 Jul 2026 13:32:00 +0900"
         },
         {
-          "title": "가상세계에서 만 번을 넘어지며 연습하다",
-          "description": "보스턴다이내믹스 연구진은 먼저 축구선수와 연구자의 움직임을 모션캡처로 기록하고, 인간과 신체 구조가 다른 아틀라스에 맞게 동작을 변환했다. 그다음 강화학습을 이용해 아틀라스가 자신의 몸으로 균형을 잡고...",
-          "link": "https://www.kyosu.net/news/articleView.html?idxno=208176",
-          "naver_link": "https://www.kyosu.net/news/articleView.html?idxno=208176",
-          "pub_date": "Mon, 27 Jul 2026 09:02:00 +0900"
+          "title": "코드쿤스트, 8년 열애 결별설 속 '환골탈태'…'뼈말라→성난 근육' 본격...",
+          "description": "그는 50kg대였던 몸무게를 70kg까지 증량했다고 밝히며 개인 PT뿐만 아니라 필라테스, 축구, 러닝 등 운동과 식단을 병행했다고. 지난 30일 코드 쿤스트 8년 만난 비연예인 연인과 헤어졌다는 결별설이 불거졌다. 그러나 그는...",
+          "link": "https://www.tvreport.co.kr/entertainment/article/1064033/",
+          "naver_link": "https://m.entertain.naver.com/article/213/0001395676",
+          "pub_date": "Mon, 27 Jul 2026 13:31:00 +0900"
         },
         {
-          "title": "이강인이 이런 선수 후계자라니…MLS 입성하자마자 미친 존재감 \"애초에...",
-          "description": "공격을 조율하는 능력만큼은 현재 축구계에서 그리즈만보다 뛰어난 선수를 찾기 어려울 정도다. 그는 기본기에 충실하면서도 결정적인 순간에는 창의성을 더할 줄 아는 선수\"라며 찬사를 아끼지 않았다. 한편...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=95407",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/411/0000084978",
-          "pub_date": "Mon, 27 Jul 2026 09:01:00 +0900"
+          "title": "난투극 말리다 그라운드에 쓰러졌다' 26세 여성 심판, 뇌진탕 증세로 하...",
+          "description": "프랑스 프로축구 메스와 네덜란드 포르튀나 시타르트의 친선 경기 도중 여성 심판이 부상으로 교체되는 일이 벌어졌다. 27일(한국시간) 영국 BBC 방송에 따르면 마틸드 데몽세(26) 심판은 25일 경기 중 선수들의 난투극을...",
+          "link": "http://www.maniareport.com/view.php?ud=2026072710220097886cf2d78c68_19",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/425/0000199533",
+          "pub_date": "Mon, 27 Jul 2026 13:31:00 +0900"
         },
         {
-          "title": "보은군, 유소년 축구 왕중왕전 1000여 명 참가… 지역경제 활기",
-          "description": "충북 보은군에서 열린 유소년 축구대회에 참가한 선수단과 가족, 학부모 등 방문객들로 지역이 활기를 띠었다. 지난 24일부터 26일까지 보은 스포츠파크에서 진행된 2026 보은컵 유소년 축구 왕중왕전에는 국내외 60개 팀과...",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3646799",
-          "naver_link": "https://www.gukjenews.com/news/articleView.html?idxno=3646799",
-          "pub_date": "Mon, 27 Jul 2026 09:00:00 +0900"
+          "title": "스포츠로 건강 키우고 특별한 추억 더했다… 스포츠토토, ‘스포츠드림...",
+          "description": "프로축구 경기 관람 등을 진행하며 1차 활동을 성공적으로 마쳤으며, 오는 8월에는 제주로 자리를 옮겨 제주도박문제예방치유센터와 연계한 예방교육과 프로축구 경기 관람 프로그램을 중심으로 3차 활동을 진행할...",
+          "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=03247206645518784",
+          "naver_link": "https://m.sports.naver.com/general/article/018/0006337522",
+          "pub_date": "Mon, 27 Jul 2026 13:31:00 +0900"
         },
         {
-          "title": "칠리즈, 세계 첫 대학 스포츠 팬토큰 출시…미국 시장 진출 본격화",
-          "description": "칠리즈는 이미 FC 바르셀로나, 파리 생제르맹(PSG), 맨체스터 시티, AC 밀란 등 세계 최정상급 축구 클럽은... 알렉산드레 드레이푸스(Alexandre Dreyfus) 칠리즈 CEO는 \"이미 세계적인 프로 축구 및 스포츠 구단들과 함께...",
-          "link": "https://www.tokenpost.kr/news/blockchain/381488",
-          "naver_link": "https://www.tokenpost.kr/news/blockchain/381488",
-          "pub_date": "Mon, 27 Jul 2026 08:56:00 +0900"
+          "title": "박지성 K-축구 혁신위원장 \"회장 선거인단 1만명 이상 권고\"",
+          "description": "2026 북중미 월드컵 조별리그 탈락 후 구성된 K-축구 혁신위원회가 네 번째 회의를 열고 대한축구협회장 선거인단을 1만명 이상으로 늘리는 방안을 권고할 거라고 밝혔다. 박지성 K-축구 혁신위원회 위원장은 27일 서울...",
+          "link": "https://www.newsis.com/view/NISX20260727_0003724502",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/003/0014090407",
+          "pub_date": "Mon, 27 Jul 2026 13:30:00 +0900"
         },
         {
-          "title": "한국인 EPL 이적설 터졌다!…'전멸' 위기, 오현규가 마지막 희망되나? 튀...",
-          "description": "한국 축구가 20여 년 만에 잉글리시 프리미어리그(EPL)에서 사실상 한국인 선수가 사라질 위기에 놓인 가운데... 매체에 따르면, 최근 2026 국제축구연맹(FIFA) 북중미 월드컵 도중 한국 대표팀에서 보여준 활약 역시 관심을...",
-          "link": "https://www.xportsnews.com/article/2176454",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/311/0002038112",
-          "pub_date": "Mon, 27 Jul 2026 08:56:00 +0900"
+          "title": "K-축구혁신 박지성 위원장 \"축구협회장 선거인단 1만명 이상 확대 권고...",
+          "description": "박지성 K-축구혁신위원장이 대한축구협회장 선거인단을 1만명 이상으로 구성할 계획이라고 밝혔다. K-축구혁신위원회는 27일 서울 종로구의 국립현대미술관에서 열린 혁신위 4차 회의를 진행했다. 회의가 끝난 뒤 박지성...",
+          "link": "http://www.stoo.com/article.php?aid=107941864548",
+          "naver_link": "http://www.stoo.com/article.php?aid=107941864548",
+          "pub_date": "Mon, 27 Jul 2026 13:30:00 +0900"
         },
         {
-          "title": "[제주 24시] 8월 제주는 한중일 여자배구 탑클럽 슈퍼매치·바이에른뮌...",
-          "description": "프로축구단인 제주 SK FC와 독일 분데스리가 명문 구단인 FC 바이에른뮌헨 간의 친선경기가 제주월드컵경기장에서 개최된다. 이번 친선경기는 세계 정상급 클럽이 제주를 찾는 드문 기회인 만큼, 축구팬들의 기대감을...",
-          "link": "https://www.sisajournal.com/news/articleView.html?idxno=381169",
-          "naver_link": "https://n.news.naver.com/mnews/article/586/0000134554?sid=102",
-          "pub_date": "Mon, 27 Jul 2026 08:52:00 +0900"
+          "title": "박지성 K-축구 혁신위원장 “축구협회장 선거인단 1만명 이상 권고”",
+          "description": "한국축구 쇄신을 논의하는 K-축구 혁신위원회가 대한축구협회장 선거인단 규모를 1만명 이상으로 크게 늘리기로 했다. 박지성 혁신위원장은 27일 서울 종로구 국립현대미술관에서 열린 4차회의 결과 “대한체육회 기준에...",
+          "link": "https://www.dailian.co.kr/news/view/1671265/?sc=Naver",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/119/0003115249",
+          "pub_date": "Mon, 27 Jul 2026 13:30:00 +0900"
         },
         {
-          "title": "이한범, EPL 관심 받고 있지만…동료 부상에 이적 영향",
-          "description": "그는 덴마크 무대와 함께 유럽축구연맹(UEFA) 유로파리그에서도 준수한 경기력을 선보이며 자신을 알렸다. 여기에 2026 국제축구연맹(FIFA) 북중미 월드컵에서 3경기 모두 출전해 안정적인 수비를 선보여 여러 구단의...",
-          "link": "https://www.news1.kr/sports/overseas-soccer/6239584",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/421/0009080026",
-          "pub_date": "Mon, 27 Jul 2026 08:49:00 +0900"
+          "title": "환갑 앞둔 최고령 프로축구선수 미우라, 4년 만에 공식전 득점포",
+          "description": "이투데이=박상군 기자 | 세계 최고령 프로축구 선수인 미우라 가즈요시(59ㆍ후쿠시마 유나이티드)가 약... 1967년 2월생인 미우라는 ‘킹 가즈’라는 별명으로 잘 알려진 일본 축구의 상징적인 선수다. 15세였던 1982년...",
+          "link": "https://www.etoday.co.kr/news/view/2607795",
+          "naver_link": "https://www.etoday.co.kr/news/view/2607795",
+          "pub_date": "Mon, 27 Jul 2026 13:28:00 +0900"
         },
         {
-          "title": "이강인·하무스 이어 바르콜라까지? PSG 교체 자원 연쇄 이탈 위기…재...",
-          "description": "유럽축구 이적시장 전문가 파브리지오 로마노 기자는 27일(한국시간) \"바르콜라는 리버풀 이적에 열려 있다.... 바르콜라는 프랑스 대표팀 소속으로 2026 국제축구연맹(FIFA) 북중미 월드컵에 출전해 8경기에서 3골 1도움을...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=691307",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000221511",
-          "pub_date": "Mon, 27 Jul 2026 08:48:00 +0900"
+          "title": "韓 축구 악재! \"토트넘 재앙 같은 결정\" 양민혁, 1군 합류 또 물건너가나...",
+          "description": "축구 통계 매체 스쿼카는 '양민혁은 코번트리에서 1군 자리를 확보하지 못했다. 램파드 감독 체제에서 교체 출전은 단 3회, 토트넘의 이적은 재앙과도 같은 결정이었다'고 평가했다. 다시 찾아온 여름의 기회, 양민혁이...",
+          "link": "https://www.sportschosun.com/football/2026-07-27/202607270100167530010853",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/076/0004429707",
+          "pub_date": "Mon, 27 Jul 2026 13:27:00 +0900"
+        },
+        {
+          "title": "1조1천643억원 투입 '한국새빛가속기' 착공…2029년 말 구축 목표",
+          "description": "새빛가속기는 청주시 오창읍 후기리 오창테크노폴리스 내 54만㎡ 부지에 들어서며, 이는 축구장 약 75개 규모에 해당한다. 신승환 한국기초과학지원연구원 새빛가속기구축사업단장은 \"둘레 800m 규모의 원형...",
+          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=592123",
+          "naver_link": "https://www.cbci.co.kr/news/articleView.html?idxno=592123",
+          "pub_date": "Mon, 27 Jul 2026 13:26:00 +0900"
         }
       ]
     }
