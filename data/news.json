@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-08-01T03:17:05.803046+09:00",
+  "updated_at": "2026-08-01T05:17:01.482824+09:00",
   "interval_hours": 1.0,
   "categories": [
     {
       "keyword": "축구",
       "items": [
         {
-          "title": "[비즈 트레블] 월드컵 열기 이어 슈퍼볼·올림픽으로\"… 글로벌 스포츠...",
-          "description": "한 달여 동안 도시 전체를 축구의 열기로 뜨겁게 달궜던 'FIFA 월드컵 2026™'이 성공적으로 막을 내린 가운데, LA는 이제 2027년 슈퍼볼 LXI와 2028년 하계 올림픽 및 패럴림픽(LA28)을 향해 다시 한번 커다란 도약의...",
-          "link": "http://www.bizwnews.com/news/articleView.html?idxno=142098",
-          "naver_link": "http://www.bizwnews.com/news/articleView.html?idxno=142098",
-          "pub_date": "Sat, 01 Aug 2026 03:10:00 +0900"
+          "title": "[오피셜] 프로축구 충남아산, ‘공격의 중심’ 은고이와 재계약…“더 ...",
+          "description": "프로축구 K리그2 충남아산FC가 팀 내 존재감을 높이 평가하면서 외국인 공격수 은고이와 재계약을 체결했다. 은고이는 지난해 여름 이적시장을 통해 합류한 뒤 빠르게 팀에 녹아들며 공격의 중심축 역할을 해왔다. 실제...",
+          "link": "https://www.goal.com/kr/뉴스/a/blt00120d20b3c06bac",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/216/0000141943",
+          "pub_date": "Sat, 01 Aug 2026 04:48:00 +0900"
         },
         {
-          "title": "맨체스터 유나이티드 미친 집착! 레알 마드리드 MF 포기 없다…\"개인 합...",
-          "description": "올 시즌 유럽축구연맹(UEFA) 챔피언스리그(UCL)에 출전하는 맨유는 이적시장에서 전력 보강을 위해 적극적으로 움직이고 있다. 맨유의 최우선 과제는 중앙 미드필더 영입이었다. 안드레이 산투스, 유리 틸레만스를 데려오며...",
-          "link": "https://www.mydaily.co.kr/page/view/2026073115502415051",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/117/0004090698",
-          "pub_date": "Sat, 01 Aug 2026 03:04:00 +0900"
+          "title": "[MLS] '올스타전 멀티골 폭발' 손흥민, 이번엔 리그 4경기 연속골 정조준",
+          "description": "반대편에는 또 다른 세계적인 축구 스타가 기다리고 있다. 독일 축구의 살아있는 전설 토마스 뮐러는 이번 시즌 밴쿠버 유니폼을 입고 리그 13경기에서 4골 4도움을 기록하며 여전한 클래스를 과시하고 있다. 풍부한...",
+          "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=544464",
+          "naver_link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=544464",
+          "pub_date": "Sat, 01 Aug 2026 04:32:00 +0900"
         },
         {
-          "title": "맨유 대형 호재! '로드리 영입 혈안' 레알 마드리드 \"영입 자금 마련 위...",
-          "description": "2000년생의 추아메니는 프랑스 축구 국가대표 수비형 미드필더다. 지롱댕 보르도, AS 모나코를 거쳐 2022-23시즌 레알 유니폼을 입었다. 2024-25시즌부터 센터백과 미드필더를 오가며 선발로서 입지를 굳혔다. 레알 통산...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=691632",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000221722",
-          "pub_date": "Sat, 01 Aug 2026 03:00:00 +0900"
+          "title": "[K리그] 선두가 바뀔 수도 있다! 운명의 주말…전북-서울 '빅뱅', 울산-안...",
+          "description": "올 시즌 두 팀 모두 탄탄한 조직력과 강한 압박 축구를 앞세워 상위권을 이끌어온 만큼 치열한 중원 싸움과... K리그1 상위권 팀들의 자존심을 건 승부가 축구 팬들을 기다리고 있다. 쿠팡플레이 시리즈 대망의 1경기, 올...",
+          "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=544467",
+          "naver_link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=544467",
+          "pub_date": "Sat, 01 Aug 2026 04:32:00 +0900"
         },
         {
-          "title": "\"한국에 복수한다\" 日 감독 AG 우승 공언, 이민성호 이기려고 칼 갈았다...",
-          "description": "차기 일본 축구 국가대표팀의 사령탑으로 내정된 일본 21세 이하(U-21) 대표팀의 오이와 고 감독이 자국에서... 그는 \"이번 대회는 국제축구연맹(FIFA) A매치 브레이크와 겹쳐 해외파도 몇 명 부를 수 있었다\"며 \"차출 제한을...",
-          "link": "https://www.xportsnews.com/article/2178957",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/311/0002040545",
-          "pub_date": "Sat, 01 Aug 2026 02:50:00 +0900"
+          "title": "'한 시즌 만에 레알, PSG, 리버풀이 붙었다!' 본머스 '19세 브라질 특급...",
+          "description": "하양은 브라질 축구가 미래를 책임질 재목으로 꾸준히 육성한 선수였고, 어린 나이에 월드컵 무대까지 경험하며 국제 무대 경험도 쌓았다. 세계 최고의 선수들과 경쟁하며 한 단계 더 성장했고, 브라질 축구가 기대하는...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=95630",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/411/0000085182",
+          "pub_date": "Sat, 01 Aug 2026 04:30:00 +0900"
         },
         {
-          "title": "직 던졌다! \"월드컵 민영화 강력 반대\"…FIFA 회장의 수석 고문 '충격 사...",
-          "description": "국제축구연맹(FIFA)이 월드컵 등 FIFA 주관대회를 운영하는 별도 자회사를 설립한 뒤 지분 20% 정도를 미국 등 글로벌 사모 펀드에 팔아치우려는 움직임을 드러내자 전세계 축구인 및 행정가들이 강력 반대 움직임을...",
-          "link": "https://www.xportsnews.com/article/2178963",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/311/0002040544",
-          "pub_date": "Sat, 01 Aug 2026 02:46:00 +0900"
+          "title": "[K리그] 이강인 기다리는 '2026 쿠팡플레이 시리즈'…오픈 트레이닝으로...",
+          "description": "무작위 공과 신발로 승부를 겨루는 '복불복 PK', 골대 빙고를 맞히는 '축구공 빙고', 예측하기 어려운... 여기에 걸그룹 리센느(RESCENE)의 하프타임 쇼와 더현대 서울 및 경기장 일대에서 운영되는 팬존까지 더해져 축구와...",
+          "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=544462",
+          "naver_link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=544462",
+          "pub_date": "Sat, 01 Aug 2026 04:30:00 +0900"
         },
         {
-          "title": "[오피셜]'韓 축구 에이스' 이강인, 결국 명단에 이름 없었다...'병역 문...",
-          "description": "아틀레티코 마드리드의 프리시즌 두 번째 친선 경기 소집 명단에 이강인의 이름은 없었다. 아틀레티코는 31일(한국시각) 구단 홈페이지를 통해 '맨체스터 유나이티드와의 경기 출전을 위해 소집된 선수 명단'이라고 선수...",
-          "link": "https://www.sportschosun.com/football/2026-08-01/202608010100001910000016",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/076/0004431932",
-          "pub_date": "Sat, 01 Aug 2026 02:26:00 +0900"
+          "title": "세계 22위 세룬돌로도 쩔쩔맨 아르튀르 제아는 누구?",
+          "description": "아버지는 축구를 하시거든요. 우연히 라켓을 보고 그걸 갖고 싶다고 떼를 쓰면서 시작하게 됐죠.\" 여름 훈련 캠프에 참가했다. 그리고 르퐁테에 있는 알랭 바레르 아카데미에 들어가 7살부터 13살까지 그곳에서...",
+          "link": "http://www.tennispeople.kr/news/articleView.html?idxno=19160",
+          "naver_link": "http://www.tennispeople.kr/news/articleView.html?idxno=19160",
+          "pub_date": "Sat, 01 Aug 2026 04:24:00 +0900"
         },
         {
-          "title": "'충격! 홀란드 제외' 英 레전드 공격수, 디니가 뽑은 EPL 역대 공격수 T...",
-          "description": "잉글랜드 축구를 대표했던 공격수 중 하나였다. 왓퍼드에서 활약하며 프리미어리그 무대를 누볐고, 특히 왓퍼드의 주장으로 승격과 잔류를 이끌며 구단의 상징적인 선수로 자리매김했다. 은퇴 후에는 방송 패널과 축구...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=95628",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/411/0000085180",
-          "pub_date": "Sat, 01 Aug 2026 02:10:00 +0900"
+          "title": "‘22년 만의 EPL 우승’ 아르테타 아스널 감독 “우리의 도전은 이제 시...",
+          "description": "아스널은 지난 시즌 유럽축구연맹(UEFA) 챔피언스리그(UCL)에서도 결승에 올랐다. 아스널은 결승에서 디펜딩 챔피언 파리 생제르맹(PSG)과 승부차기까지 가는 접전을 벌였지만, 마지막 고비를 넘지 못했다. 아르테타...",
+          "link": "https://www.mk.co.kr/article/12114091",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/410/0001134813",
+          "pub_date": "Sat, 01 Aug 2026 04:16:00 +0900"
         },
         {
-          "title": "바르셀로나 전설 테어 슈테겐, 아약스 1년 임대 임박···선수단 작별 ...",
-          "description": "테어 슈테겐은 바르셀로나에서 스페인 프리메라리가 우승 7회, 코파 델 레이 우승 6회, 유럽축구연맹(UEFA) 챔피언스리그(UCL) 우승 1회, 국제축구연맹(FIFA) 클럽 월드컵 우승 1회, UEFA 슈퍼컵 우승 1회 등을 경험했다. 테어...",
-          "link": "https://www.mk.co.kr/article/12114062",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/410/0001134811",
-          "pub_date": "Sat, 01 Aug 2026 02:01:00 +0900"
+          "title": "[오피셜] ‘1700억 영입→4년 출전 정지’ 대충격 도핑 징계 받았던 선수...",
+          "description": "유럽 축구 이적시장 전문가 파브리지오 로마노는 1일(한국시간) 자신의 사회관계망서비스(SNS)를 통해... 잉글랜드축구협회(FA)는 이 문제를 심각하게 보고 무드리크에게 4년 출전 정지를 내렸다. 최고 수위의 중징계다....",
+          "link": "https://sports.khan.co.kr/article/202608010404003?pt=nv",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/144/0001129316",
+          "pub_date": "Sat, 01 Aug 2026 04:04:00 +0900"
         },
         {
-          "title": "'와, 새빨갛다' 아시아에 이런 축구장 생긴다?…키르기스 5만1000석 규모...",
-          "description": "중앙아시아 키르기스스탄이 공들여 지은 5만석 규모의 대형 경기장이 공개를 앞두면서 아시아 축구장의... 아시아축구연맹(AFC) 아시안컵 결승전 장소로 활용하기 위해 규모를 늘린 것으로 알려졌다. 비슈케크...",
-          "link": "https://www.xportsnews.com/article/2178928",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/311/0002040543",
-          "pub_date": "Sat, 01 Aug 2026 02:00:00 +0900"
+          "title": "\"마지막 제안 거절하면 매각할 것\"...레알, 질질 끄는 비니시우스에게 ...",
+          "description": "비니시우스는 브라질 축구 국가대표 윙포워드다. 플라멩구에서 성장해 레알로 이적한 후 에이스로 자리 잡았다. 계약 기간이 1년 남아 있는데, 아직 재계약 소식이 들려오지 않고 있다. 아스널이 비니시우스 영입에 관심을...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=691630",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000221723",
+          "pub_date": "Sat, 01 Aug 2026 04:00:00 +0900"
         },
         {
-          "title": "'여성 들이받았는데'…日 슈퍼스타, 신호 위반 교통사고 '불기소 처분'→...",
-          "description": "신호위반 교통사고를 낸 일본 축구 국가대표 미토마 가오루(브라이턴 앤드 호브 앨비언)가 과실운전치상... 미토마는 일본을 대표하는 축구 스타 중 한 명이다. 미토마는 잉글리시 프리미어리그의 중위권 클럽 브라이턴...",
-          "link": "https://www.xportsnews.com/article/2178961",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/311/0002040542",
-          "pub_date": "Sat, 01 Aug 2026 01:55:00 +0900"
+          "title": "[오피셜] ‘미쳤다’ 韓 축구 역사상 최초의 일…‘2008년생 특급 유망...",
+          "description": "한국 축구 역사상 최초로 골키퍼가 빅리그로 직행했다. 주인공은 ‘2008년생 특급 유망주’ 허재원이다.... 한국 축구 역사상 두 번째로 유럽 무대에 진출한 골키퍼가 됐다. 한국 축구 역사상 빅리그로 직행한 골키퍼는...",
+          "link": "https://www.goal.com/kr/뉴스/a/entry/blt713e10dee67298f1",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/216/0000141942",
+          "pub_date": "Sat, 01 Aug 2026 03:30:00 +0900"
         }
       ]
     }
