@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-07-31T23:03:09.927544+09:00",
+  "updated_at": "2026-08-01T01:42:34.493928+09:00",
   "interval_hours": 1.0,
   "categories": [
     {
       "keyword": "축구",
       "items": [
         {
-          "title": "제주SK FC 허재원, 김민재와 한솥밥…바이에른 뮌헨 임대 이적, 완전 이...",
-          "description": "한국 축구사에 의미 있는 이정표가 될 전망이다. 이번 이적은 2025년 9월 체결된 제주SK-R&G(Red & Gold Football)... 허재원은 \"제주에서 축구를 시작하고 R&G를 통해 뮌헨에서 훈련하며 꿈을 키워왔다. 다음 달 4일 제주 팬들...",
-          "link": "https://www.sportsworldi.com/newsView/20260731520545",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/396/0000751159",
-          "pub_date": "Fri, 31 Jul 2026 23:02:00 +0900"
+          "title": "유럽축구연맹 “월드컵 등 FIFA주관대회 안 간다”",
+          "description": "유럽축구연맹(UEFA)이 국제축구연맹(FIFA)의 수익 사업 담당 자회사 설립과 지분 매각 계획에 반대하며 월드컵을 비롯한 FIFA 주관 대회 ‘보이콧’을 선언했다. UEFA는 31일 “UEFA와 55개 회원협회는 월드컵 등 주요...",
+          "link": "https://www.donga.com/news/Sports/article/all/20260801/134404302/2",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/020/0003738085",
+          "pub_date": "Sat, 01 Aug 2026 01:41:00 +0900"
         },
         {
-          "title": "서울 이랜드, J리그 팀과 유소년 ‘교류’ 확대…국제 경험으로 미래 ‘...",
-          "description": "서울 이랜드 유소년 선수들은 이번 교류전을 통해 서로 다른 플레이 스타일과 축구 문화를 직접 경험하며 국제 경쟁력을 끌어올렸다. U-18 박원홍 감독은 “경기에 앞서 선수들에게 득점하든 실점하든 100%로 임하자고...",
-          "link": "https://www.sportsseoul.com/news/read/1625974?ref=naver",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/468/0001257166",
-          "pub_date": "Fri, 31 Jul 2026 23:00:00 +0900"
+          "title": "[공식발표] “이루 말할 수 없이 힘든 일” 슬픔에 빠진 축구계…伊·AC...",
+          "description": "현대 축구 전술에선 이제 볼 수 없는 리베로를 대표하는 선수였다. 수비수치고는 키가 176cm로 작고 왜소했지만 초월적인 운동 능력과 뛰어난 축구 지능을 앞세워 그야말로 한 시대를 풍미했다. 실제 당대 최고의...",
+          "link": "https://www.goal.com/kr/뉴스/a/bltb361d7a0af1c51a5",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/216/0000141941",
+          "pub_date": "Sat, 01 Aug 2026 01:28:00 +0900"
         },
         {
-          "title": "'네이마르만 끝난 게 아니다' 안첼로티 감독, 카세미루, 다닐루까지 브...",
-          "description": "브라질 축구가 한 시대와 작별한다. 네이마르의 대표팀 은퇴에 이어 카세미루와 다닐루까지 더 이상 브라질 대표팀에서 볼 수 없게 됐다. 카를로 안첼로티 감독은 \"새로운 주기를 시작해야 할 때\"라며 세대교체를 공식...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=95622",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/411/0000085175",
-          "pub_date": "Fri, 31 Jul 2026 22:55:00 +0900"
+          "title": "\"듣고 싶지 않은 소식\" 日 축구, 또 비극...'2번째 십자인대 파열' 女 대...",
+          "description": "일본 축구로선 청천벽력 같은 소식이다. 일본 여자대표팀의 허리를 책임지던 엔도 준(26, 엔젤 시티 FC)이... 엔도의 소속팀인 미국 여자축구리그(NWSL) 엔젤 시티는 30일 그가 우측 ACL을 다치는 심각한 부상을 입었으며...",
+          "link": "http://www.osen.co.kr/article/G1112849997",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/109/0005582034",
+          "pub_date": "Sat, 01 Aug 2026 01:26:00 +0900"
         },
         {
-          "title": "3년 만에 ‘방한’ 맨시티 “홀란 ‘제외’ 통제할 수 없는 부분, 한국...",
-          "description": "상당한 팬심을 보유한 홀란의 불참은 국내 축구 팬에도 아쉬운 대목이다. 월드컵을 치른 만큼 3주 간의 휴식이 필요하다. 타레는 “홀란과 로드리가 빠져 우리도 너무 아쉽지만, 굉장히 뛰어난 선수들이 투어에 동행한다”...",
-          "link": "https://www.sportsseoul.com/news/read/1625973?ref=naver",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/468/0001257165",
-          "pub_date": "Fri, 31 Jul 2026 22:55:00 +0900"
+          "title": "FIFA 고문 사임…‘월드컵 지분 매각 추진’에 반발 확산",
+          "description": "국제축구연맹(FIFA)의 선임 고문인 카를로스 코르데이로가 31일, FIFA의 월드컵 지분 매각 추진 계획에... 협회에도, 축구에도, 그리고 축구의 장기적인 미래에도 모두 나쁜 거래\"라고 말했습니다. FIFA가 현재...",
+          "link": "https://www.voakorea.com/a/fifa-investors-073126/8181240.html",
+          "naver_link": "https://www.voakorea.com/a/fifa-investors-073126/8181240.html",
+          "pub_date": "Sat, 01 Aug 2026 01:08:00 +0900"
         },
         {
-          "title": "K리그 제주 골키퍼 허재원, 바이에른 뮌헨 임대 이적",
-          "description": "프로축구 제주의 허재원이 우리나라 골키퍼로는 처음으로 유럽 빅리그 직행에 성공했습니다. 제주는 구단 산하 유소년 출신 골키퍼 허재원이 독일 분데스리가 바이에른 뮌헨으로 임대 이적한다고 밝혔습니다. 그러면서...",
-          "link": "https://www.ytn.co.kr/_ln/0107_202607312252576198",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/052/0002387373",
-          "pub_date": "Fri, 31 Jul 2026 22:52:00 +0900"
+          "title": "비바람 막고 사람 품었네…세월이 만든 녹색지대",
+          "description": "축구장 10개 정도의 규모다. 백사장과 강물을 붉게 물들이는 노을빛이 솔숲 사이로 부서져 들어오는 해질녘 풍경은 장관이다. 담양관방제림이나 하동송림은 모두 백성의 살림살이를 보살피려는 어질고 슬기로운 관리들이...",
+          "link": "https://www.joongang.co.kr/article/25449987",
+          "naver_link": "https://n.news.naver.com/mnews/article/353/0000056216?sid=103",
+          "pub_date": "Sat, 01 Aug 2026 01:07:00 +0900"
         },
         {
-          "title": "‘다채로운 이벤트 진행’ 화성FC, 코리아컵 3라운드 단체응원 ‘마스 ...",
-          "description": "프로축구 K리그2 화성FC가 지난 29일 화성종합경기타운과 제휴가맹점 황철수피자에서 ‘마스 뷰잉파티’를 개최하고 팬들과 함께 코리아컵 3라운드 경기를 관람하는 행사를 성황리에 마쳤다. 이번 행사는 지리적·시간적...",
-          "link": "https://www.goal.com/kr/뉴스/a/blta6197d5ea37709a0",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/216/0000141939",
-          "pub_date": "Fri, 31 Jul 2026 22:51:00 +0900"
+          "title": "[오피셜] 첼시, 로저스 2,256억에 데려오고 못 쓸 뻔했다...\"FA로부터 벌...",
+          "description": "영국 '스카이 스포츠'는 31일(한국시간) \"첼시는 잉글랜드 축구협회(FA)로부터 벌금 1천만 파운드(약 192억 원)와 두 번의 이적시장 동안의 선수 영입 금지(집행유예) 처분을 받았다\"라고 보도했다. 로만 아브라모비치 전...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=691631",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000221721",
+          "pub_date": "Sat, 01 Aug 2026 01:00:00 +0900"
         },
         {
-          "title": "[단독] ‘벨기에 이적 눈앞’ 이한범, 조기 빅리그 도전···“브뤼허와...",
-          "description": "한국 축구대표팀 수비수 이한범(24·미트윌란)의 벨기에 명문 클뤼프 브뤼허 이적이 초읽기에 들어갔다.... 브뤼허에서 유럽축구연맹(UEFA) 챔피언스리그를 비롯한 큰 무대를 경험하며 팀의 핵심 수비수로 자리 잡은 뒤...",
-          "link": "https://sports.khan.co.kr/article/202607312248003?pt=nv",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/144/0001129303",
-          "pub_date": "Fri, 31 Jul 2026 22:49:00 +0900"
+          "title": "태국 절반도 못 번 7.383점…中 슈퍼리그, ACL 완전 퇴출 ‘기치대욕’...",
+          "description": "과거 성적으로 버티던 누적 점수마저 사라지면 아시아축구연맹(AFC) 챔피언스리그 엘리트(ACLE) 출전권을... 중국 매체 ‘축구보’는 31일 이 수치를 짚으며 앞으로 ACLE 출전권을 완전히 잃는 ‘기치대욕’, 즉...",
+          "link": "http://www.osen.co.kr/article/G1112850055",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/109/0005582028",
+          "pub_date": "Sat, 01 Aug 2026 01:00:00 +0900"
         },
         {
-          "title": "강미나, '내일도 출근' 윤노아와 밤거리 투샷…'기리고'까지 활약",
-          "description": "또한 전북 현대 모터스를 응원하며 축구 경기 직관과 시축, 관련 행사에 참여하는 등 팀에 대한 팬심을 자주 드러내 왔다. 한편, 강미나는 tvN 월화드라마 '내일도 출근!'에서 새움전자 DA사업부 상품기획1팀 사원...",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16151412",
-          "naver_link": "https://www.topstarnews.net/news/articleView.html?idxno=16151412",
-          "pub_date": "Fri, 31 Jul 2026 22:46:00 +0900"
+          "title": "'도핑 악몽 끝!' 첼시 잃어버린 1,722억 윙어 돌아온다...무드리크, 복귀...",
+          "description": "영국 '더 선'은 1일(한국시간) \"무드리크가 다시 축구를 할 수 있도록 허가를 받았으며, 곧바로 첼시 선수단에 합류할 예정이다. 현재 진행 중인 프리시즌 일정에도 합류할 것으로 예상된다\"고 보도했다. 무드리크는 2024년...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=95627",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/411/0000085179",
+          "pub_date": "Sat, 01 Aug 2026 01:00:00 +0900"
         },
         {
-          "title": "이민성호 호재?…일본, 와일드카드 없이 아시안게임 나선다",
-          "description": "2026 아이치·나고야 아시안게임에서 남자축구 4회 연속 금메달에 도전하는 한국에 반가운 소식이 전해졌다.... 한국은 2014 인천, 2018 자카르타·팔렘방, 2022 항저우 대회까지 아시안게임 남자축구 3회 연속 금메달을...",
-          "link": "https://www.mt.co.kr/sports/2026/07/31/2026073122220431801",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/008/0005394163",
-          "pub_date": "Fri, 31 Jul 2026 22:45:00 +0900"
+          "title": "\"홍명보 아들 병역 면탈 논란도 지적\"…청문회 본 日 매체 '놀란 이유'",
+          "description": "국회 문화체육관광위원회 대한축구협회 현안 관련 청문회를 지켜본 일본 언론이 이례적인 광경에 놀랐다. 특히 청문회에서 홍명보 전 축구 국가대표팀 감독의 두 아들의 병역 문제까지 지적된 것을 주목하고 있다. 일본...",
+          "link": "https://www.xportsnews.com/article/2178949",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/311/0002040537",
+          "pub_date": "Sat, 01 Aug 2026 00:55:00 +0900"
         },
         {
-          "title": "배윤정, '연하 남편'과 알콩달콩 결혼생활 공개…\"좋아하다 보니 11살 차...",
-          "description": "배윤정은 2020년 11세 연하 축구 코치와 결혼했으며 2021년 아들을 품에 안았다. 지난 23일 채널 '슬리피맞아요'에서 배윤정은 출산 후 우울증을 겪었던 일화를 공개하기도 했다. 그는 \"25㎏ 찌다 보니 거울 보기도 싫었고...",
-          "link": "https://www.tvreport.co.kr/entertainment/article/1065456/",
-          "naver_link": "https://m.entertain.naver.com/article/213/0001396368",
-          "pub_date": "Fri, 31 Jul 2026 22:45:00 +0900"
+          "title": "“심각한 우려 표명” 韓 속한 AFC도 ‘오피셜’ 공식입장 발표, FIFA ‘...",
+          "description": "국제축구연맹(FIFA)이 월드컵을 비롯한 주요 메이저 대회의 상업적 권리를 민간 투자자에게 매각하는 방안을 추진하자 유럽축구연맹(UEFA)과 북중미카리브축구연맹(CONCACAF)에 이어 아시아축구연맹(AFC)까지 반발하고...",
+          "link": "https://www.goal.com/kr/뉴스/a/blt3cc11684ad77dd86",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/216/0000141940",
+          "pub_date": "Sat, 01 Aug 2026 00:48:00 +0900"
         }
       ]
     }
