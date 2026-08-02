@@ -1,10 +1,66 @@
 {
-  "updated_at": "2026-08-03T02:59:10.271825+09:00",
+  "updated_at": "2026-08-03T04:20:39.789890+09:00",
   "interval_hours": 1.0,
   "categories": [
     {
       "keyword": "축구",
       "items": [
+        {
+          "title": "김병지 \"강원FC 홍보효과 700억\" 정면 반박에도 팬들은 싸늘했다",
+          "description": "김병지 대한축구협회 부회장이자 강원FC 대표이사가 국회 문화체육관광위원회 대한축구협회 현안 청문회 이후 불거진 시·도민구단의 세금 의존 논란에 대해 직접 반박에 나섰다. 청문회에서 충분히 설명하지 못했던...",
+          "link": "https://www.ftimes.kr/news/articleView.html?idxno=38814",
+          "naver_link": "https://www.ftimes.kr/news/articleView.html?idxno=38814",
+          "pub_date": "Mon, 03 Aug 2026 04:18:00 +0900"
+        },
+        {
+          "title": "\"김민재 움직이려면 경호원 5명 더 필요\" 韓팬 환대에 뮌헨도 깜짝... 케...",
+          "description": "독일 명문 바이에른 뮌헨이 한국 축구 팬들의 뜨거운 환대 속에 아시아 투어를 시작했다. 이 가운데 '괴물... 뮌헨은 오는 4일 오후 8시 제주월드컵경기장에서 프로축구 K리그1 제주SK와 프리시즌 친선경기를 치른다. 이번...",
+          "link": "https://www.starnewskorea.com/sports/2026/08/03/2026080300182228310",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/108/0003458755",
+          "pub_date": "Mon, 03 Aug 2026 04:10:00 +0900"
+        },
+        {
+          "title": "[현장 인터뷰] 'B팀·임대 거쳐 주전까지' 송준석, 강원과 잠시 이별... ...",
+          "description": "축구적인 부분에서도 정말 많은 것을 배웠다\"고 밝혔다. 이어 \"군대에 가서도 감독님께 배운 것들이 큰 도움이 될 것 같다. 앞으로도 자주 연락드려야 할 것 같다\"고 웃었다. 송준석은 상무 입대를 단순한 공백으로 여기지...",
+          "link": "https://www.starnewskorea.com/sports/2026/08/03/2026080303580635976",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/108/0003458754",
+          "pub_date": "Mon, 03 Aug 2026 04:08:00 +0900"
+        },
+        {
+          "title": "HERE WE GO 확인! '맨유 초대형 유망주', 자리 못 잡고 결국 떠나나...\"에...",
+          "description": "영국 '커트오프사이드'는 2일(한국시간) 유럽 축구 이적시장 전문가 파브리시오 로마노 기자의 발언을 인용해 \"에버턴은 맨유 내부에서도 높은 평가를 받는 유망주인 휘틀리 영입을 위해 공식 제안을 준비 중이다\"라고...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=691738",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000221823",
+          "pub_date": "Mon, 03 Aug 2026 03:35:00 +0900"
+        },
+        {
+          "title": "‘아, 아쉽다!’ 새 시즌 오현규와 한솥밥 먹으면서 공격 이끄는 듯했지...",
+          "description": "유럽 축구 이적시장 전문가 산티 아우나 기자는 2일(한국시간) 자신의 소셜미디어(SNS)를 통해... 한국 축구 팬들도 현재 베식타시에서 뛰고 있는 오현규가 살라와 함께 호흡을 맞추는 그림을 볼 가능성이 커지자 기대감이...",
+          "link": "https://www.goal.com/kr/뉴스/a/bltb677cf0ce9e05492",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/216/0000141988",
+          "pub_date": "Mon, 03 Aug 2026 03:26:00 +0900"
+        },
+        {
+          "title": "손흥민 이 정도야? \"xG 0.21, 골로 만들었다\" MLS 4경기 연속골에 외신도...",
+          "description": "축구 통계 전문 매체 '소파스코어'는 2일(한국시간) 밴쿠버 화이트캡스와 LAFC의 2026시즌 MLS 경기 내용을 분석하며 \"손흥민의 날카로운 마무리가 LAFC에 귀중한 승점 1점을 안겼다\"고 조명했다. 이날 LAFC는 캐나다...",
+          "link": "https://www.xportsnews.com/article/2179300",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/311/0002041056",
+          "pub_date": "Mon, 03 Aug 2026 03:24:00 +0900"
+        },
+        {
+          "title": "'기적의 GK' 보지냐, 비자 문제 해결→칠레로 이동...콜로-콜로 이적 'HE...",
+          "description": "유럽 축구 이적시장 전문가 파브리시오 로마노 기자는 지난 달 25일(한국시간) 자신의 SNS를 통해 \"보지냐의... 비록 연장 접전 끝에 2-3으로 아쉽게 패배하며 여정을 마무리했지만, 그의 눈부신 활약은 전 세계 축구...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=95740",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/411/0000085279",
+          "pub_date": "Mon, 03 Aug 2026 03:15:00 +0900"
+        },
+        {
+          "title": "[오피셜] 수비수에 밀려 벤치 '토트넘 강등 위기' 주범…'30경기 1골' 최...",
+          "description": "콜로 무아니는 유벤투스에서 22경기 10골 3도움을 기록하며 반등에 성공했고, 팀의 세리에A 4위와 유럽축구연맹(UEFA) 챔피언스리그 진출에 힘을 보탰다. 그러나 유벤투스와 PSG는 완전 이적을 두고 합의점을 찾지...",
+          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553426002",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/139/0002251152",
+          "pub_date": "Mon, 03 Aug 2026 03:11:00 +0900"
+        },
         {
           "title": "인판티노 4연임 물 건너가나...FIFA 새판짜기 본격화",
           "description": "4연임을 노리는 잔니 인판티노 국제축구연맹, FIFA 회장이 '월드컵 자회사' 설립 논란에 역풍을 맞으면서... 북중미카리브축구연맹 회장, 2016년 경선에서 인판티노와 맞붙어 떨어진 알칼리파 아시아축구연맹 회장이...",
@@ -18,62 +74,6 @@
           "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=95749",
           "naver_link": "https://m.sports.naver.com/wfootball/article/411/0000085278",
           "pub_date": "Mon, 03 Aug 2026 02:45:00 +0900"
-        },
-        {
-          "title": "이임생 청문회 불출석 후폭풍…대한축구협회 감독 선임 논란 끝나지 않...",
-          "description": "2026 국제축구연맹(FIFA) 북중미 월드컵 조별리그 탈락 이후 열린 국회 문화체육관광위원회의 대한축구협회 현안 청문회가 마무리됐지만 축구협회를 둘러싼 책임론은 쉽게 가라앉지 않았다. 이번 청문회는 대표팀 감독 선임...",
-          "link": "https://www.ftimes.kr/news/articleView.html?idxno=38809",
-          "naver_link": "https://www.ftimes.kr/news/articleView.html?idxno=38809",
-          "pub_date": "Mon, 03 Aug 2026 02:42:00 +0900"
-        },
-        {
-          "title": "“대표팀 이끌고 4년 뒤 월드컵 참가가 최우선 목표” 이강인과 ‘사제...",
-          "description": "다만 대한축구협회가 오는 9월부터 11월까지 예정된 A매치 일정(총 6경기)을 임시 사령탑 체제를 택한데다, 임시 사령탑에서 정식 사령탑 전환 여부가 불확실한 터라 아기레 감독이 실제로 한국 차기 사령탑직에...",
-          "link": "https://www.goal.com/kr/뉴스/a/blt1507fb85b557dcf3",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/216/0000141987",
-          "pub_date": "Mon, 03 Aug 2026 02:39:00 +0900"
-        },
-        {
-          "title": "루이스 한 방, 승점은 하나... 김포, 경남과 1-1 무승부 속 3경기 무패",
-          "description": "김포는 2일 김포솔터축구장에서 열린 하나은행 K리그2 2026 20라운드 홈경기에서 경남FC와 1-1로 비겼다. 승점... 김포는 오는 7일 오후 7시 30분 김포솔터축구장에서 충북청주FC를 상대로 올 시즌 첫 평일 홈경기를 치른다.",
-          "link": "https://www.stnsports.co.kr/news/articleView.html?idxno=320239",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/450/0000152971",
-          "pub_date": "Mon, 03 Aug 2026 02:26:00 +0900"
-        },
-        {
-          "title": "김병지 강원FC 대표 \"시·도민구단은 공공재…연간 700억 강원도 홍보효...",
-          "description": "김병지 강원FC 대표 겸 대한축구협회 부회장이 프로축구단이 공공재라고 주장했다. 김병지 대표는 지난달 31일 자신의 인스타그램에 대한축구협회 청문회에서 미처 다 하지 못했다고 추가 설명을 했다. 앞서 그는 30일...",
-          "link": "https://www.xportsnews.com/article/2179466",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/311/0002041055",
-          "pub_date": "Mon, 03 Aug 2026 02:24:00 +0900"
-        },
-        {
-          "title": "EPL 이적설보다 감독 신뢰가 먼저였다…오현규 베식타스 잔류 무게",
-          "description": "최근 유럽축구연맹(UEFA) 유로파리그 무대에서 보여준 경기력이 현지의 긍정적인 평가를 이끌어냈고, 빈첸초... 축구 통계 전문 매체 팟몹도 오현규에게 평점 7.1점을 부여하며 준수한 활약을 인정했다. 오현규의 가장 큰...",
-          "link": "https://www.ftimes.kr/news/articleView.html?idxno=38805",
-          "naver_link": "https://www.ftimes.kr/news/articleView.html?idxno=38805",
-          "pub_date": "Mon, 03 Aug 2026 02:22:00 +0900"
-        },
-        {
-          "title": "한경국립대, 안성 청소년 드론캠프…조립·코딩·자율비행 체험",
-          "description": "장애물 통과, 드론 축구, 촬영 미션 등 체험 프로그램도 함께 편성됐다. 캠프에는 현직 드론 전문가들이 멘토로 참여해 실습을 지도한다. 이들은 드론 산업 분야 직업과 진로를 소개하는 상담 프로그램도 맡아 학생들의...",
-          "link": "https://www.etnews.com/20260803000004",
-          "naver_link": "https://n.news.naver.com/mnews/article/030/0003453421?sid=102",
-          "pub_date": "Mon, 03 Aug 2026 02:14:00 +0900"
-        },
-        {
-          "title": "'월드컵 불만 폭발' 카스트로프, 부상으로 인해 출전 불발...\"무릎 부상...",
-          "description": "옌스는 지난 2026 국제축구연맹(FIFA) 북중미 월드컵을 앞두고 대한축구협회(KFA)가 야심차게 발탁한 신예다. 독일인 아버지와 한국인 어머니 사이에서 태어난 그는 독일 연령별 대표를 거친 카스트로프는 지난해 9월...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=95735",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/411/0000085277",
-          "pub_date": "Mon, 03 Aug 2026 02:10:00 +0900"
-        },
-        {
-          "title": "로마노 깜짝 단독! 이강인 떠나자 PSG 일본인 채운다…국가대표 스즈키...",
-          "description": "유럽축구 이적시장 전문가 파브리지오 로마노는 3일(한국시각) 사회관계망서비스(SNS)를 통해 \"PSG가 스즈키 영입을 위해 파르마에 총 3300만유로(약 570억원) 규모의 패키지 제안을 보냈다\"고 단독으로 전했다. 로마노는...",
-          "link": "https://www.sportschosun.com/football/2026-08-03/202608030100011230000660",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/076/0004432394",
-          "pub_date": "Mon, 03 Aug 2026 02:02:00 +0900"
         }
       ]
     }
