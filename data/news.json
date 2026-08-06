@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-08-06T14:45:09.470697+09:00",
+  "updated_at": "2026-08-06T17:29:05.563846+09:00",
   "interval_hours": 1.0,
   "categories": [
     {
       "keyword": "축구",
       "items": [
         {
+          "title": "임실군, 생활체육공원 예초작업 실시… 쾌적하고 안전한 체육환경 조성",
+          "description": "임실군 종합경기장은 축구장, 테니스장, 풋살장, 씨름장, 수영장 등 다양한 체육시설을 갖춘 생활체육의 중심시설로, 연중 군민과 체육동호인들의 이용이 활발한 곳이다. 시설사업소는 계절별 환경정비 계획에 따라...",
+          "link": "https://www.thepowernews.co.kr/view.php?ud=2026080617232592583dfcd109a8_7",
+          "naver_link": "https://www.thepowernews.co.kr/view.php?ud=2026080617232592583dfcd109a8_7",
+          "pub_date": "Thu, 06 Aug 2026 17:28:00 +0900"
+        },
+        {
+          "title": "조이시티, 2026년 2분기 영업익 전년比 81% 하락",
+          "description": "오는 8월 13일 농구게임 '프리스타일' IP를 신규 엔진으로 재구성한 '프리스타일: 리부트'를 출시한다. 축구게임 신작 '프리스타일 풋볼 2'는 내달 4일 오픈베타 테스트를 통해 완성도를 보강할 예정이다.",
+          "link": "https://www.gamemeca.com/mv.php?inflow=naver&gid=1778807",
+          "naver_link": "https://n.news.naver.com/mnews/article/356/0000084780?sid=004",
+          "pub_date": "Thu, 06 Aug 2026 17:28:00 +0900"
+        },
+        {
+          "title": "EPL 뉴캐슬, 유럽 넘어 아시아 제패 야이슬레 감독 영입",
+          "description": "|중앙이코노미뉴스 김영진 기자|출처=연합뉴스 잉글랜드 프로축구 프리미어리그(EPL) 뉴캐슬 유나이티드가... 구단은 \"유럽 축구계에서 가장 촉망받는 젊은 감독을 새 사령탑으로 선임하게 돼 기쁘다\"고 전했다....",
+          "link": "https://www.joongangenews.com/news/articleView.html?idxno=538352",
+          "naver_link": "https://www.joongangenews.com/news/articleView.html?idxno=538352",
+          "pub_date": "Thu, 06 Aug 2026 17:28:00 +0900"
+        },
+        {
+          "title": "'또 일본이다' 한국인은 사라졌는데…도미야스까지 크리스털 팰리스 이...",
+          "description": "시간이 흐른 지금, 프리미어리그에서의 아시아 축구 판도가 달라졌다. 한국 축구가 차세대 프리미어리거 배출에 실패한 사이 일본 선수들이 줄지어 진출하고 있다. 일본은 또 한 명의 선수를 잉글랜드로 보내며 한국...",
+          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=833293",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/477/0000622323",
+          "pub_date": "Thu, 06 Aug 2026 17:28:00 +0900"
+        },
+        {
+          "title": "한채아, 제주 바다에서 전한 여름방학 일상…휴식 속 활발한 활동 이어...",
+          "description": "시아버지로는 축구 명문가의 상징인 차범근이, 시누이로는 차하나, 시숙으로는 차두리가 언급돼 가족관계에서도 축구와 인연을 이어가고 있다. 수상 이력도 눈에 띈다. 2010년 SBS 연기대상에서 드라마 '이웃집 웬수'로...",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16156583",
+          "naver_link": "https://www.topstarnews.net/news/articleView.html?idxno=16156583",
+          "pub_date": "Thu, 06 Aug 2026 17:26:00 +0900"
+        },
+        {
+          "title": "\"전지훈련 오세요\"… 지자체 스포츠 유치전",
+          "description": "괴산군에서는 13개 팀, 500여 명의 축구 선수단이 전지훈련을 하고 있다. 일본 야마가타현 선발팀과... 상주시는 전국 중등부 축구 20개 팀, 900여 명이 참가한 15세 이하 축구 하계 스토브리그와 전국 21개 초등학교, 200여...",
+          "link": "https://www.mk.co.kr/article/12119395",
+          "naver_link": "https://n.news.naver.com/mnews/article/009/0005717640?sid=102",
+          "pub_date": "Thu, 06 Aug 2026 17:26:00 +0900"
+        },
+        {
           "title": "경찰, '홍명보 감독 선임 의혹' 축구협회 압수수색",
-          "description": "대한축구협회의 축구 국가대표팀 감독 선임 과정을 수사하는 경찰이 협회 사무실 등에 대해 압수수색에 나섰다. 서울경찰청 광역수사단 금융범죄수사대는 6일 오전부터 충남 천안에 있는 대한축구협회 사무실과 서울...",
-          "link": "https://www.womennews.co.kr/news/articleView.html?idxno=280717",
-          "naver_link": "https://n.news.naver.com/mnews/article/310/0000138924?sid=102",
-          "pub_date": "Thu, 06 Aug 2026 14:44:00 +0900"
+          "description": "경찰이 6일 오전부터 충남 천안에 있는 대한축구협회 사무실과 서울 종로구 축구회관(구 대한축구협회 사무실) 등에 대한 압수수색 영장을 집행하고 있다. 사진은 이날 압수수색이 진행 중인 충남 천안시 서북구...",
+          "link": "https://www.news1.kr/photos/8044910",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/421/0009101432",
+          "pub_date": "Thu, 06 Aug 2026 17:24:00 +0900"
         },
         {
-          "title": "'돌려차기' 망언 서범수·진종오…국힘, 윤리위 징계 절차 착수",
-          "description": "탈당으로 이것이 피해지기보다는 윤리위의 징계 절차로 결정되는 것이 맞다라는 논의까지 있었습니다.] 친한계에선 윤용근 의원이 앞서 대한축구협회 청문회에서 정몽규 전 축구협회장에 \"더 잘 배려해 드려야 하는데...",
-          "link": "https://news.jtbc.co.kr/article/NB12312024?influxDiv=NAVER",
-          "naver_link": "https://n.news.naver.com/mnews/article/437/0000504865?sid=100",
-          "pub_date": "Thu, 06 Aug 2026 14:43:00 +0900"
+          "title": "경찰, '홍명보 감독 선임 의혹' 축구협회 압수수색",
+          "description": "경찰이 6일 오전부터 충남 천안에 있는 대한축구협회 사무실과 서울 종로구 축구회관(구 대한축구협회 사무실) 등에 대한 압수수색 영장을 집행하고 있다. 사진은 이날 압수수색이 진행 중인 충남 천안시 서북구...",
+          "link": "https://www.news1.kr/photos/8044913",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/421/0009101429",
+          "pub_date": "Thu, 06 Aug 2026 17:24:00 +0900"
         },
         {
-          "title": "AT마드리드 한국 도착",
-          "description": "스페인 프로축구 명문 클럽 아틀레티코 마드리드(AT마드리드) 선수들이 6일 인천국제공항을 통해 입국하고 있다. 2026.8.6",
-          "link": "https://www.yna.co.kr/view/PYH20260806115600013?input=1196m",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/001/0016237541",
-          "pub_date": "Thu, 06 Aug 2026 14:42:00 +0900"
+          "title": "소시오스닷컴, FIFA 42억달러 자금조달에 ‘토큰화 지분’ 제안…“팬도...",
+          "description": "글로벌 스포츠 팬 참여 플랫폼 소시오스닷컴(Socios.com)이 국제축구연맹(FIFA)의 42억달러 규모 자금조달... 소시오스닷컴은 축구의 상업적 가치가 전 세계 수십억 명의 팬을 기반으로 형성됐지만, 팬들이 축구 산업의...",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/386257",
+          "naver_link": "https://www.tokenpost.kr/news/cryptocurrency/386257",
+          "pub_date": "Thu, 06 Aug 2026 17:24:00 +0900"
         },
         {
-          "title": "텅텅 빈 상암벌, 맨시티 방한에도 흥행 실패…이강인 효과 나올까",
-          "description": "이는 2026 국제축구연맹(FIFA) 북중미 월드컵에서 8강 이상 진출한 선수들에 부여한 휴식 때문이다. 필 포든, 앙투안 세메뇨, 잔루이지 돈나룸마 등 다른 주축 선수들은 함께했고 선발로 나서 수준급 경기력을 보였으나...",
-          "link": "https://sports.khan.co.kr/article/202608061440003?pt=nv",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/144/0001130316",
-          "pub_date": "Thu, 06 Aug 2026 14:41:00 +0900"
-        },
-        {
-          "title": "한국 도착한 AT마드리드 코케",
-          "description": "스페인 프로축구 명문 클럽 아틀레티코 마드리드(AT마드리드)의 코케가 6일 인천국제공항을 통해 입국하고 있다. 2026.8.6",
-          "link": "https://www.yna.co.kr/view/PYH20260806115200013?input=1196m",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/001/0016237537",
-          "pub_date": "Thu, 06 Aug 2026 14:41:00 +0900"
-        },
-        {
-          "title": "한국 도착한 AT마드리드 코케",
-          "description": "스페인 프로축구 명문 클럽 아틀레티코 마드리드(AT마드리드)의 코케가 6일 인천국제공항을 통해 입국해 팬들에게 사인을 해주고 있다. 2026.8.6",
-          "link": "https://www.yna.co.kr/view/PYH20260806114800013?input=1196m",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/001/0016237538",
-          "pub_date": "Thu, 06 Aug 2026 14:41:00 +0900"
-        },
-        {
-          "title": "한국 도착한 AT마드리드 코케",
-          "description": "스페인 프로축구 명문 클럽 아틀레티코 마드리드(AT마드리드)의 코케가 6일 인천국제공항을 통해 입국하고 있다. 2026.8.6",
-          "link": "https://www.yna.co.kr/view/PYH20260806115400013?input=1196m",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/001/0016237539",
-          "pub_date": "Thu, 06 Aug 2026 14:41:00 +0900"
-        },
-        {
-          "title": "광주FC, 부천 잡고 반격 노린다…\"최하위 탈출 분수령\"",
-          "description": "결국 이번 경기의 핵심 과제는 분위기 반전이다. 광주FC 특유의 '한 발 더 뛰는 조직 축구'를 살아나게 만들어 부천 원정에서 반드시 승점 3점을 가져와야만 최하위 탈출의 기틀을 마련할 수 있다.",
-          "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000054999",
-          "naver_link": "https://www.jnilbo.com/news/articleView.html?idxno=90000054999",
-          "pub_date": "Thu, 06 Aug 2026 14:40:00 +0900"
-        },
-        {
-          "title": "'손흥민 이제야 웃다' 월드컵서 韓 축구 좌절시킨 그 선수, 승부차기 실...",
-          "description": "로모는 2026 국제축구연맹(FIFA) 북중미 월드컵에서 한국을 좌절시킨 장본인이다. 멕시코 국가대표로 조별리그 A조 2차전에서 한국과 맞붙었는데, 후반 5분 김승규가 공을 잡으려다 치명적인 실수로 놓친 공을 골문...",
-          "link": "http://www.footballist.co.kr/news/articleView.html?idxno=213248",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/436/0000112098",
-          "pub_date": "Thu, 06 Aug 2026 14:40:00 +0900"
-        },
-        {
-          "title": "\"HERE WE GO\" 日 역대급 기적 또 썼다...48시간 내 프리미어리그 복귀 임...",
-          "description": "유럽 축구 이적시장 전문가 파브리시오 로마노 기자는 6일(한국시간) 자신의 SNS를 통해 \"토미야스가... 이후 후반기 동안 9경기 1도움을 기록하며 기량을 회복한 그는 2026 국제축구연맹(FIFA) 북중미 월드컵 일본 대표팀에...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=95945",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/411/0000085465",
-          "pub_date": "Thu, 06 Aug 2026 14:39:00 +0900"
+          "title": "대한축구협회 압수수색",
+          "description": "경찰이 6일 오전부터 충남 천안에 있는 대한축구협회 사무실과 서울 종로구 축구회관(구 대한축구협회 사무실) 등에 대한 압수수색 영장을 집행하고 있다. 사진은 이날 압수수색이 진행 중인 충남 천안시 서북구...",
+          "link": "https://www.news1.kr/photos/8044915",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/421/0009101425",
+          "pub_date": "Thu, 06 Aug 2026 17:24:00 +0900"
         }
       ]
     }
