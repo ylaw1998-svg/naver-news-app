@@ -1,10 +1,52 @@
 {
-  "updated_at": "2026-08-08T02:45:50.608292+09:00",
+  "updated_at": "2026-08-08T03:50:43.401569+09:00",
   "interval_hours": 1.0,
   "categories": [
     {
       "keyword": "축구",
       "items": [
+        {
+          "title": "[오피셜] ‘탄탄한 유스 시스템 자랑하는’ FC서울, 두 마리 토끼 잡는...",
+          "description": "프로축구 K리그1 FC서울이 산하 유스(오산고)에서 활약 중인 김강준, 신지섭, 이서현, 정현웅(이상 3학년)... 당장 올해만 봐도 기량이 출중한 어린 선수들이 맹활약을 펼치면서 백운기 전국 고등학교 축구대회...",
+          "link": "https://www.goal.com/kr/뉴스/a/blt71d6bcfb096f0252",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/216/0000142083",
+          "pub_date": "Sat, 08 Aug 2026 03:35:00 +0900"
+        },
+        {
+          "title": "아틀레티코의 진심...이강인 '그리즈만 후계자' 낙점! 西 매체도 기대감...",
+          "description": "이어 \"아틀레티코에 입단했을 당시 레알 소시에다드 출신 측면 공격수였던 그리즈만을 변화시켰던 것처럼 디에고 시메오네 감독은 이강인의 뛰어난 재능과 영리한 축구 지능을 활용해 그를 벌써부터 세컨드...",
+          "link": "https://www.mydaily.co.kr/page/view/2026080723221135270",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/117/0004092847",
+          "pub_date": "Sat, 08 Aug 2026 03:27:00 +0900"
+        },
+        {
+          "title": "'유로파리그 챔피언' 상대로 제대로 증명했다! 김민재, 선제골+패스 성...",
+          "description": "축구 통계 매체 '풋몹'에 따르면 김민재는 패스 65회 중 62회를 성공시키며 95%의 높은 패스 성공률을 기록했다. 긴 패스 역시 5회 중 4회를 정확하게 연결해 성공률 80%를 기록했다. 여기에 태클 2회, 차단 2회, 걷어내기 2회...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692091",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000222082",
+          "pub_date": "Sat, 08 Aug 2026 03:10:00 +0900"
+        },
+        {
+          "title": "[오피셜] “8년이 순식간에 지나갔고, 앞으로 6년 더 함께한다!” 비니...",
+          "description": "스페인 라리가 3회, 유럽축구연맹(UEFA) 챔피언스리그(UCL) 2회, 국제축구연맹(FIFA) 인터컨티넨탈컵 2회, 코파 델 레이(스페인 국왕컵) 1회, 수페르코파 데 에스파냐(스페인 슈퍼컵) 3회 등 우승했다. 사진 = 게티이미지...",
+          "link": "https://www.goal.com/kr/뉴스/a/blt3f0741fb175193eb",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/216/0000142082",
+          "pub_date": "Sat, 08 Aug 2026 02:54:00 +0900"
+        },
+        {
+          "title": "'이강인 이어 떠난다!' PSG 줄줄이 이탈…'1억 2800만 유로' 브래들리 바...",
+          "description": "프랑스 리그1, 쿠프 드 프랑스(프랑스컵), 트로페 데 샹피온(프랑스 슈퍼컵), 유럽챔피언스리그(UCL), 유럽축구연맹(UEFA) 슈퍼컵, 국제축구연맹(FIFA) 인터콘티넨털컵에서 우승을 차지했다. 한 해에 6관왕을 달성한...",
+          "link": "https://www.sportschosun.com/football/2026-08-07/202608070100044050002725",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/076/0004433967",
+          "pub_date": "Sat, 08 Aug 2026 02:46:00 +0900"
+        },
+        {
+          "title": "韓 축구 '국제 망신'→프랑스도 KFA 심판 성접대 보도…\"빼앗긴 이탈리...",
+          "description": "아시아는 물론 유럽 주요국가에서도 대한축구협회의 심판 성 접대 소식이 보도됐다. 프랑스 유력지 '레키프'도 장문의 기사를 냈다. 신문은 7일(한국시간) 대한민국에서 벌어진 외국인 축구 심판진 향한...",
+          "link": "https://www.xportsnews.com/article/2181233",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/311/0002042822",
+          "pub_date": "Sat, 08 Aug 2026 02:45:00 +0900"
+        },
         {
           "title": "'어쩌나' 韓 테크니션 '빅리그 이적+UCL 출전' 무산 위기...올림피크 리...",
           "description": "특히 2023 아시아축구연맹(AFC) U-23 아시안컵과 20세 이하 월드컵에서 맹활약을 펼쳤고 2023-24시즌에 200만... 비록 부상으로 출전을 하지는 못했지만 이러한 활약을 바탕으로 대한민국 축구대표팀에 이름을 올리며 2026...",
@@ -32,48 +74,6 @@
           "link": "https://news.monsterzym.com/index.php?mid=sports_asia&type=main&document_srl=10455857",
           "naver_link": "https://m.sports.naver.com/kfootball/article/409/0000022910",
           "pub_date": "Sat, 08 Aug 2026 02:16:00 +0900"
-        },
-        {
-          "title": "'케인 후계자도, 레반도프스키 후계자도 안 된다!' 맨유, 세슈코 향한 뮌...",
-          "description": "세슈코는 유럽 축구가 가장 높게 평가하는 차세대 스트라이커 가운데 한 명이다. RB 잘츠부르크와... 후계자도 아닌 맨유의 미래로 선택받은 그가 이번 시즌 어떤 활약을 펼치게 될지 축구 팬들의 관심이 집중되고 있다.",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96010",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/411/0000085523",
-          "pub_date": "Sat, 08 Aug 2026 02:10:00 +0900"
-        },
-        {
-          "title": "카타르·아르헨·멕시코·모로코·인도네시아 vs 잉글랜드·독일·크로아...",
-          "description": "국제축구연맹(FIFA)이 분열의 길로 가고 있다. 잔니 인판티노 FIFA 회장을 지지하는 쪽과 반대하는 쪽이... 각국 축구협회에 분배금으로 주겠다는 파격적인 구상을 제시했다. FIFA는 FFE의 가치를 200억 달러로 산정하고...",
-          "link": "https://www.xportsnews.com/article/2181290",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/311/0002042820",
-          "pub_date": "Sat, 08 Aug 2026 02:10:00 +0900"
-        },
-        {
-          "title": "'홀란-아구에로-케인 바로 다음'…손흥민, 최근 10시즌 EPL 해트트릭 최...",
-          "description": "축구 통계 매체 '후스코어드'는 5일(한국시간) 최근 10시즌 동안 잉글랜드 프리미어리그(PL)에서 가장 많은 해트트릭을 기록한 선수들을 공개했다. 1위는 엘링 홀란드였다. 홀란드는 무려 8차례 해트트릭을 작성하며 가장...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692090",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000222081",
-          "pub_date": "Sat, 08 Aug 2026 02:00:00 +0900"
-        },
-        {
-          "title": "‘충격의 남아공전 패배’ 김민재 솔직고백 “남아공전, 선수들도 못하...",
-          "description": "홍명보 감독이 이끌었던 축구대표팀은 2026 FIFA 북중미월드컵에서 1승2패의 성적으로 조별리그서 탈락했다.... 김민재는 “이번에 많은 기대를 갖고 대한민국 축구대표팀을 응원 해주셨는데 좋지 않은 성적으로 아픔을...",
-          "link": "http://www.osen.co.kr/article/G1112853685",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/109/0005585105",
-          "pub_date": "Sat, 08 Aug 2026 01:54:00 +0900"
-        },
-        {
-          "title": "[공식발표] '불안불안' 이민성호에 호재 될까...일본 아시안게임 핵심,...",
-          "description": "일본 축구의 기대주 오구라 고세이(21, 파지아노 오카야마)가 무릎을 크게 다치며 약 6개월 동안 그라운드를... 더욱 안타까운 것은 오구라가 이제 막 일본 축구의 새로운 기대주로 떠오르던 선수라는 점이다. 2005년생인...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=833505",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/477/0000622484",
-          "pub_date": "Sat, 08 Aug 2026 01:46:00 +0900"
-        },
-        {
-          "title": "“리그 정상 탈환” 레알 마드리드 폭풍 질주… 이적료 2289억 디오망데...",
-          "description": "스페인 프로축구 ‘거함’ 레알 마드리드가 3년 만의 라리가 정상 탈환을 위해 폭풍 질주를 하고 있다. 팀... 라이프치히 팬들에게 감사하며 언젠가 유럽축구연맹(UEFA) 챔피언스리그에서 다시 만나고 싶다”는...",
-          "link": "https://www.donga.com/news/Sports/article/all/20260807/134440377/2",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/020/0003739410",
-          "pub_date": "Sat, 08 Aug 2026 01:41:00 +0900"
         }
       ]
     }
