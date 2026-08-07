@@ -1,10 +1,66 @@
 {
-  "updated_at": "2026-08-08T03:50:43.401569+09:00",
+  "updated_at": "2026-08-08T04:50:14.663455+09:00",
   "interval_hours": 1.0,
   "categories": [
     {
       "keyword": "축구",
       "items": [
+        {
+          "title": "\"신체 상해 초래한 폭행 혐의\" 국가대표 공격수가 법원 출석이라니...英...",
+          "description": "영국 '텔레그래프'는 7일(한국시간) \"국가대표 축구 선수 아이반 토니가 런던 소호에 위치한 특정... 앞서 토니는 이미 여러 차례 축구 외적인 이슈로 언론에 주목을 받은 바 있다. 특히 2023년 브렌트포드 소속으로...",
+          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553441867",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/139/0002251412",
+          "pub_date": "Sat, 08 Aug 2026 04:41:00 +0900"
+        },
+        {
+          "title": "김민재 헤더골 폭발! \"3만 8000명이 열광했다\"... 현지 집중조명, 뮌헨도...",
+          "description": "한국 축구대표팀의 '괴물 수비수' 김민재(바이에른 뮌헨)가 이번에는 환상적인 헤더골로 존재감을 뽐냈다.... 애스턴 빌라는 2025~2026시즌 유럽축구연맹(UEFA) 유로파리그(UEL) 우승을 차지한 강팀이다. 잉글랜드...",
+          "link": "https://www.starnewskorea.com/sports/2026/08/08/2026080801421515803",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/108/0003460183",
+          "pub_date": "Sat, 08 Aug 2026 04:34:00 +0900"
+        },
+        {
+          "title": "“한국에서 공식 입단식 없다” 이강인 데뷔전 기대한 팬들 아쉬움···...",
+          "description": "이제 남은 건 데뷔전이다. 9일 맨체스터 시티전 수많은 축구 팬들의 관심이 집중되고 있다. 경기 하루 전, 이강인은 목동종합운동장에서 프리 기자회견, 오픈 트레이닝을 일정을 소화할 예정이다.",
+          "link": "https://sports.khan.co.kr/article/202608080428003?pt=nv",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/144/0001130637",
+          "pub_date": "Sat, 08 Aug 2026 04:29:00 +0900"
+        },
+        {
+          "title": "축구협회 과거 비위 줄줄이 드러나…심판 성 접대 드러나며 일파만파·...",
+          "description": "축구협회를 둘러싼 전방위적 수사와 논란 속에 과거 외국인 심판 성 접대 의혹이 수면 위로 떠오르면서, 15년 전 발생했던 협회의 부적절한 예산 집행 사례들이 다시 주목받고 있다. 7일 진선미 의원실이 제공한 '축구...",
+          "link": "http://www.thesportstimes.co.kr/news/articleView.html?idxno=374748",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/472/0000041097",
+          "pub_date": "Sat, 08 Aug 2026 04:21:00 +0900"
+        },
+        {
+          "title": "나이트클럽 폭행 혐의 기소! \"며칠만에 SNS로 휴가 사진 올려\"…반성 따...",
+          "description": "이는 잉글랜드가 스페인과 유럽축구연맹(UEFA) 네이션스리그 경기를 치르기 불과 3일 전이다. 폭행 혐의로 기소되면서 언론과 팬들의 입방아에 오르내리고 있음에도 불구하고, 토니는 반성하는 모습을 보이지 않았다....",
+          "link": "https://www.sportschosun.com/football/2026-08-08/202608080100044090002727",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/076/0004433968",
+          "pub_date": "Sat, 08 Aug 2026 04:15:00 +0900"
+        },
+        {
+          "title": "\"대륙에서 가장 위협적인 공격 듀오\"…손흥민 향한 MLS의 극찬 \"한국의 ...",
+          "description": "MLS는 \"2026 국제축구연맹(FIFA) 월드컵에서 한국 대표팀 주장으로 활약했던 '한국의 전설' 손흥민이 스타 선수들로 가득한 LAFC 공격진의 중심에 있다\"고 소개했다. 손흥민은 월드컵 이후 LAFC로 돌아와 가파른 상승세를...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692088",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000222083",
+          "pub_date": "Sat, 08 Aug 2026 04:05:00 +0900"
+        },
+        {
+          "title": "‘성접대 증거 고스란히 다 있었는데…’ 검찰, 2011년 축구협회 성접대...",
+          "description": "검찰이 축구협회의 ‘성접대 사건’을 알면서도 제대로 처벌하지 않은 정황이 드러났다. 대한축구협회가 2011년 3월부터 2012년 3월까지 7차례에 걸쳐 외국인 심판 20여 명에게 성접대를 제공했다는 폭로가 나왔다....",
+          "link": "http://www.osen.co.kr/article/G1112853627",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/109/0005585107",
+          "pub_date": "Sat, 08 Aug 2026 04:03:00 +0900"
+        },
+        {
+          "title": "\"한국 왔으니 제가 쏩니다\" 이강인 클래스가 다르네, 80명 저녁 대접 '통...",
+          "description": "한국 축구대표팀의 핵심 미드필더 이강인(25)이 새로운 소속팀 아틀레티코 마드리드(스페인) 합류 직후부터... PSG에서 리그 우승을 비롯해 여러 트로피를 들어 올렸고, 두 차례 유럽축구연맹(UEFA) 챔피언스리그(UCL)...",
+          "link": "https://www.starnewskorea.com/sports/2026/08/08/2026080803161319452",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/108/0003460182",
+          "pub_date": "Sat, 08 Aug 2026 04:02:00 +0900"
+        },
         {
           "title": "[오피셜] ‘탄탄한 유스 시스템 자랑하는’ FC서울, 두 마리 토끼 잡는...",
           "description": "프로축구 K리그1 FC서울이 산하 유스(오산고)에서 활약 중인 김강준, 신지섭, 이서현, 정현웅(이상 3학년)... 당장 올해만 봐도 기량이 출중한 어린 선수들이 맹활약을 펼치면서 백운기 전국 고등학교 축구대회...",
@@ -18,62 +74,6 @@
           "link": "https://www.mydaily.co.kr/page/view/2026080723221135270",
           "naver_link": "https://m.sports.naver.com/wfootball/article/117/0004092847",
           "pub_date": "Sat, 08 Aug 2026 03:27:00 +0900"
-        },
-        {
-          "title": "'유로파리그 챔피언' 상대로 제대로 증명했다! 김민재, 선제골+패스 성...",
-          "description": "축구 통계 매체 '풋몹'에 따르면 김민재는 패스 65회 중 62회를 성공시키며 95%의 높은 패스 성공률을 기록했다. 긴 패스 역시 5회 중 4회를 정확하게 연결해 성공률 80%를 기록했다. 여기에 태클 2회, 차단 2회, 걷어내기 2회...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692091",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000222082",
-          "pub_date": "Sat, 08 Aug 2026 03:10:00 +0900"
-        },
-        {
-          "title": "[오피셜] “8년이 순식간에 지나갔고, 앞으로 6년 더 함께한다!” 비니...",
-          "description": "스페인 라리가 3회, 유럽축구연맹(UEFA) 챔피언스리그(UCL) 2회, 국제축구연맹(FIFA) 인터컨티넨탈컵 2회, 코파 델 레이(스페인 국왕컵) 1회, 수페르코파 데 에스파냐(스페인 슈퍼컵) 3회 등 우승했다. 사진 = 게티이미지...",
-          "link": "https://www.goal.com/kr/뉴스/a/blt3f0741fb175193eb",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/216/0000142082",
-          "pub_date": "Sat, 08 Aug 2026 02:54:00 +0900"
-        },
-        {
-          "title": "'이강인 이어 떠난다!' PSG 줄줄이 이탈…'1억 2800만 유로' 브래들리 바...",
-          "description": "프랑스 리그1, 쿠프 드 프랑스(프랑스컵), 트로페 데 샹피온(프랑스 슈퍼컵), 유럽챔피언스리그(UCL), 유럽축구연맹(UEFA) 슈퍼컵, 국제축구연맹(FIFA) 인터콘티넨털컵에서 우승을 차지했다. 한 해에 6관왕을 달성한...",
-          "link": "https://www.sportschosun.com/football/2026-08-07/202608070100044050002725",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/076/0004433967",
-          "pub_date": "Sat, 08 Aug 2026 02:46:00 +0900"
-        },
-        {
-          "title": "韓 축구 '국제 망신'→프랑스도 KFA 심판 성접대 보도…\"빼앗긴 이탈리...",
-          "description": "아시아는 물론 유럽 주요국가에서도 대한축구협회의 심판 성 접대 소식이 보도됐다. 프랑스 유력지 '레키프'도 장문의 기사를 냈다. 신문은 7일(한국시간) 대한민국에서 벌어진 외국인 축구 심판진 향한...",
-          "link": "https://www.xportsnews.com/article/2181233",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/311/0002042822",
-          "pub_date": "Sat, 08 Aug 2026 02:45:00 +0900"
-        },
-        {
-          "title": "'어쩌나' 韓 테크니션 '빅리그 이적+UCL 출전' 무산 위기...올림피크 리...",
-          "description": "특히 2023 아시아축구연맹(AFC) U-23 아시안컵과 20세 이하 월드컵에서 맹활약을 펼쳤고 2023-24시즌에 200만... 비록 부상으로 출전을 하지는 못했지만 이러한 활약을 바탕으로 대한민국 축구대표팀에 이름을 올리며 2026...",
-          "link": "https://www.mydaily.co.kr/page/view/2026080714095313769",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/117/0004092844",
-          "pub_date": "Sat, 08 Aug 2026 02:32:00 +0900"
-        },
-        {
-          "title": "김민재는 치킨, 이강인은? AT 마드리드 합류하자마자 통 크게 쐈다! 'K-바...",
-          "description": "스페인의 마르카는 '이강인은 첫 훈련 세션에서부터 이미 드러난 축구 재능 외에도, 그의 인성, 헌신적인 자세, 구단에 대한 깊은 이해, 그리고 빠른 적응을 위한 열정으로 아틀레티코 관계자 모두의 마음을 사로잡고 있다...",
-          "link": "https://www.sportschosun.com/football/2026-08-08/202608080100044350002744",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/076/0004433965",
-          "pub_date": "Sat, 08 Aug 2026 02:27:00 +0900"
-        },
-        {
-          "title": "'韓 축구 에이스' 이강인 파격 변신, 포지션 바꾼다... 측면 아닌 '최전...",
-          "description": "PSG나 대한민국 축구 국가대표팀에선 주로 오른쪽 측면에 포진했다면, AT 마드리드에선 4-4-2 전형의 최전방... 물론 지난 2019 국제축구연맹(FIFA) 20세 이하(U20) 월드컵 준우승 신화 당시 오세훈과 함께 투톱에 배치돼 좋은...",
-          "link": "https://www.starnewskorea.com/sports/2026/08/08/2026080722121046436",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/108/0003460180",
-          "pub_date": "Sat, 08 Aug 2026 02:25:00 +0900"
-        },
-        {
-          "title": "승점 3점보다 빛난 '세심한 배려'… 폭염 속 빅버드를 지켜낸 수원 삼성...",
-          "description": "이에 한국프로축구연맹은 8일과 9일 열리는 경기의 킥오프 시간을 오후 7시 30분에서 8시로 30분 늦추는... 무엇보다 눈길을 끄는 대목은 최근 프로축구연맹이 8월 한시적으로 허용한 얼음물 반입 조치의 출발점이 바로 수원...",
-          "link": "https://news.monsterzym.com/index.php?mid=sports_asia&type=main&document_srl=10455857",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/409/0000022910",
-          "pub_date": "Sat, 08 Aug 2026 02:16:00 +0900"
         }
       ]
     }
