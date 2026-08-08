@@ -1,11 +1,81 @@
 {
-  "updated_at": "2026-08-08T18:33:39.677366+09:00",
+  "updated_at": "2026-08-08T20:24:07.376819+09:00",
   "interval_hours": 1.0,
   "categories": [
     {
       "keyword": "축구",
-      "items": [],
-      "error": "<urlopen error timed out>"
+      "items": [
+        {
+          "title": "[IN PRESS] \"과르디올라-마레스카 차이? 축구는 큰 틀에서 비슷해\"….맨...",
+          "description": "맨체스터 시티 리코 루이스가 엔조 마레스카 감독과 새로운 축구에 대해 이야기를 전했다. 맨시티 수비수... 마레스카 감독 축구와 펩 과르디올라 감독 축구의 차이를 묻자 \"큰 틀에선 비슷하다. 마레스카 감독님이 오시고...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692129",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000222117",
+          "pub_date": "Sat, 08 Aug 2026 20:22:00 +0900"
+        },
+        {
+          "title": "[속보] 아르헨 매체, \"리오넬 메시 부친상\"...평생 아들 곁 지킨 호르헤...",
+          "description": "특히 메시가 세계 최고의 축구선수로 성장하는 과정에서 가장 중요한 조력자 중 한 명이었다. 메시는 어린... 메시가 어린 시절 축구를 계속할 수 있도록 치료 방법을 찾아 나섰고, 13세 아들과 함께 바르셀로나로 건너가...",
+          "link": "http://www.osen.co.kr/article/G1112853901",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/109/0005585319",
+          "pub_date": "Sat, 08 Aug 2026 20:21:00 +0900"
+        },
+        {
+          "title": "\"한국 이미지 추락\" 나라 망신에 결국…일본도 지목되자",
+          "description": "과거 외국인 심판들에게 '성 접대'를 했다는 의혹이 일파만파 하자 대한축구협회가 사과문을 내고 고개를 숙였습니다. 해외 주요 언론까지 이번 파문을 집중 조명하면서 한국 축구의 명예는 곤두박질치고 있습니다....",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008696222&plink=ORI&cooper=NAVER",
+          "naver_link": "https://n.news.naver.com/mnews/article/055/0001379133?sid=103",
+          "pub_date": "Sat, 08 Aug 2026 20:19:00 +0900"
+        },
+        {
+          "title": "대한축구협회, 과거 '심판 성접대' 등 논란에 공식 사과문",
+          "description": "대한축구협회가 '외국인 심판 성접대 보도' 등 최근 불거진 각종 잡음에 대해 팬들께 큰 실망을 안겨드려 죄송하다며 사과문을 발표했습니다. 축구협회는 \"다수의 구성원조차 제대로 몰랐던 십수 년 전 일에 대한 보도...",
+          "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6843365_37004.html",
+          "naver_link": "https://m.sports.naver.com/general/article/214/0001516714",
+          "pub_date": "Sat, 08 Aug 2026 20:17:00 +0900"
+        },
+        {
+          "title": "[단독] \"정몽규, 32강 탈락 이후 휴대전화 교체\"",
+          "description": "◀ 앵커 ▶ 이번 월드컵 32강 진출 실패 이후, 정몽규 전 대한축구협회장이 자신의 휴대전화를 전격 교체한... [홍명보/전 축구대표팀 감독 (지난 6월 29일)] \"저는 오늘 대표팀 감독이라는 자리를 내려놓습니다.\" 기대 이하의...",
+          "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6843364_37004.html",
+          "naver_link": "https://n.news.naver.com/mnews/article/214/0001516713?sid=102",
+          "pub_date": "Sat, 08 Aug 2026 20:16:00 +0900"
+        },
+        {
+          "title": "[핌in안양] 유병훈 감독 \"안양 500경기는 구단·선수와 팬들이 함께 만든...",
+          "description": "프로축구 K리그1 FC안양 유병훈 감독이 구단 500경기를 앞두고 승리에 대한 각오를 밝혔다. 유 감독은 8일... [사진=한국프로축구연맹] 2026.08.08 football1229@newspim.com 한편 계속된 폭염에 유 감독 역시 안양 선수단 운영에...",
+          "link": "https://www.newspim.com/news/view/20260808000140",
+          "naver_link": "https://www.newspim.com/news/view/20260808000140",
+          "pub_date": "Sat, 08 Aug 2026 20:16:00 +0900"
+        },
+        {
+          "title": "韓 축구 대박 터졌다 \"정말 믿기 어려울 정도\"…특급 데뷔전 이한범, MO...",
+          "description": "이번 경기도 좋았지만, 더 나아지고 싶다\"며 \"유럽축구연맹(UEFA) 챔피언스리그를 비롯해 더 강한 상대를 만날... 2026 국제축구연맹(FIFA) 북중미 월드컵을 통해 한국 축구 수비의 미래에서 현재로 급부상한 이한범은 올여름...",
+          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=833585",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/477/0000622539",
+          "pub_date": "Sat, 08 Aug 2026 20:16:00 +0900"
+        },
+        {
+          "title": "\"이강인의 새 출발 응원\"…아틀레티코 훈련 달군 뜨거운 팬심",
+          "description": "맨시티와 친선경기 앞두고 공개 훈련…유창한 스페인어로 새 팀 적응 스페인 프로축구 명문 아틀레티코... 한편, 이날 훈련장에는 스페인 축구의 '전설'이자 현재 AT마드리드 이사회 고문으로 활동 중인 다비드 비야도...",
+          "link": "https://www.yna.co.kr/view/AKR20260808049400007?input=1195m",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/001/0016240304",
+          "pub_date": "Sat, 08 Aug 2026 20:13:00 +0900"
+        },
+        {
+          "title": "대한축구협회, 각종 비위에 사과...'쇄신 약속'",
+          "description": "대한축구협회가 사과문을 발표했습니다. 반성과 쇄신을 약속했는데, 얼마나 변화할지 지켜볼 대목입니다. 이경재 기자입니다. [기자] 북중미 월드컵 조별 예선 탈락 이후 대한축구협회는 하루도 쉬운 날이 없었습니다....",
+          "link": "https://www.ytn.co.kr/_ln/0107_202608082013387555",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/052/0002390672",
+          "pub_date": "Sat, 08 Aug 2026 20:13:00 +0900"
+        },
+        {
+          "title": "[오피셜] 아스널 중원 더 무서워졌다...'뉴캐슬 주장' 브루노 기마랑이...",
+          "description": "브루노는 브라질 축구 국가대표 미드필더다. 올림피크 리옹을 떠나 2022-23시즌 뉴캐슬에 합류해 줄곧 핵심으로 활약했다. 뉴캐슬 통산 195경기에 출전해 31골 32도움을 기록했다. 산드로 토날리와 앤서니 고든, 에디 하우...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692127",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000222116",
+          "pub_date": "Sat, 08 Aug 2026 20:11:00 +0900"
+        }
+      ]
     }
   ]
 }
