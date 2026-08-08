@@ -1,10 +1,52 @@
 {
-  "updated_at": "2026-08-09T02:25:52.276828+09:00",
+  "updated_at": "2026-08-09T03:31:38.489110+09:00",
   "interval_hours": 1.0,
   "categories": [
     {
       "keyword": "축구",
       "items": [
+        {
+          "title": "이런 환경에서 축구 어떻게 했나...\"메시, 월드컵 기간 동안 자살 폭탄...",
+          "description": "2026 FIFA 북중미 월드컵 기간 동안 여러 선수들이 테러 위협을 받았다. 스페인 '마르카'는 8일(한국시간) \"미국 경찰 보고서에 따르면 월드컵 기간 동안 선수들을 향한 여러 차례의 위협이 있었던 것으로 드러났다\"라고...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692139",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000222130",
+          "pub_date": "Sun, 09 Aug 2026 03:30:00 +0900"
+        },
+        {
+          "title": "같은 유니폼 입은 24명... 충북청주FC 통합축구단, 10월 제천으로 뛴다",
+          "description": "류승우 기자┃충북청주FC 통합축구 선수 24명이 새 유니폼을 지원받았다. 충북청주FC 통합축구 선수단이다. 청주김안과가 홈·원정 유니폼과 축구공을 지원했고, 선수들은 새 장비로 격주 훈련에 들어간다. 선수단은 격주...",
+          "link": "https://www.stnsports.co.kr/news/articleView.html?idxno=320597",
+          "naver_link": "https://m.sports.naver.com/general/article/450/0000153143",
+          "pub_date": "Sun, 09 Aug 2026 03:04:00 +0900"
+        },
+        {
+          "title": "\"정몽규 전 회장, 월드컵 32강 실패 뒤 휴대전화 교체…출국금지 조치도...",
+          "description": "정몽규 전 대한축구협회장이 대한민국 축구대표팀의 2026 북중미 월드컵 조별리그 탈락 확정 직후 휴대전화를 교체했다는 주장이 나왔다. MBC는 8일 \"축구대표팀이 32강 진출에 실패한 뒤, 정몽규 전 회장이 기존 사용하던...",
+          "link": "https://www.xportsnews.com/article/2181507",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/311/0002043038",
+          "pub_date": "Sun, 09 Aug 2026 03:01:00 +0900"
+        },
+        {
+          "title": "[오피셜]韓 축구 날벼락! '국가대표 혼혈 선수' 카스트로프, 결국 최악의...",
+          "description": "옌스 카스트로프가 부상으로 인해 수술을 받을 예정이다. 보루시아 묀헨글라트바흐는 8일(한국시각) 구단 홈페이지를 통해 '카스트로프는 몇 달 동안 팀에 합류할 수 없을 것이다'고 공식 발표했다. 묀헨글라트바흐는...",
+          "link": "https://www.sportschosun.com/football/2026-08-09/202608090100047540002957",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/076/0004434139",
+          "pub_date": "Sun, 09 Aug 2026 02:36:00 +0900"
+        },
+        {
+          "title": "'아스널 이적' 브루노가 39번을 택한 이유...\"아버지의 택시 번호가 39번...",
+          "description": "브루노는 브라질 축구 국가대표 미드필더다. 아스널에 오기 전까지 아틀레치쿠 파라나엔시, 올림피크 리옹, 뉴캐슬에서 활약했다. 특히 뉴캐슬에서 주장을 맡았고, 통산 195경기 31골 32도움을 올리며 핵심 역할을 맡았다.",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692138",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000222129",
+          "pub_date": "Sun, 09 Aug 2026 02:30:00 +0900"
+        },
+        {
+          "title": "16분이면 충분했다…'국가대표 공격수' 이호재, 분데스리가 데뷔전 데뷔...",
+          "description": "축구 통계 매체 '풋몹'에 따르면 이호재는 1골을 비롯해 패스 성공률 75%(3/4), 볼 터치 8회, 기회 창출 1회, 슈팅 1회(유효 슈팅 1회), 지상 경합 성공 1회 등을 기록하며 짧은 시간 동안 확실한 존재감을 드러냈다. 플로리안...",
+          "link": "https://www.goal.com/kr/뉴스/a/bltaadc4c9ea9d20c2c",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/216/0000142109",
+          "pub_date": "Sun, 09 Aug 2026 02:30:00 +0900"
+        },
         {
           "title": "'HERE WE GO!' 디오만데, 드디어 프리미어리그 입성!...노팅엄과 극적 합...",
           "description": "유럽 축구 이적시장 전문가인 파브리시오 로마노는 9일(한국시간) \"노팅엄 포레스트가 스포르팅 CP의 중앙... 또한 국제축구연맹(FIFA) 2026 북중미 월드컵 무대까지 밟으며 경험을 쌓았다. 이런 가운데 노팅엄...",
@@ -32,48 +74,6 @@
           "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=314784",
           "naver_link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=314784",
           "pub_date": "Sun, 09 Aug 2026 02:00:00 +0900"
-        },
-        {
-          "title": "‘축구의 신’ 메시 키워낸 조력자 부친 별세…20여년 간 스타 뒷받침",
-          "description": "‘축구의 신’으로 불리는 리오넬 메시(39)의 선수 생활과 사업을 20여년 간 조용하게 뒷받침해온 부친 호르헤... 특히, 호르헤는 메시가 경기장 밖의 복잡한 문제보다 축구와 가족에게 집중할 수 있도록 주변을 잘 정리하는...",
-          "link": "https://www.dt.co.kr/article/12077160?ref=naver",
-          "naver_link": "https://n.news.naver.com/mnews/article/029/0003041285?sid=102",
-          "pub_date": "Sun, 09 Aug 2026 01:52:00 +0900"
-        },
-        {
-          "title": "'아모림은 밀어냈지만 캐릭은 품는다!' 래쉬포드, 캐릭과 직접 연락까지...",
-          "description": "이런 활약을 바탕으로 래쉬포드는 2026 국제축구연맹(FIFA) 북중미 월드컵에서 잉글랜드 대표팀의 일원으로 활약했다. 그는 이번 대회 6경기에 출전해1골 1도움을 기록했다. 한때는 바르셀로나 완전 이적이 유력한...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96063",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/411/0000085569",
-          "pub_date": "Sun, 09 Aug 2026 01:40:00 +0900"
-        },
-        {
-          "title": "\"그러면 홍명보 감독으로 하라\"...이임생, '빵집 회동' 전말 공개→정몽...",
-          "description": "홍명보 전 축구대표팀 감독 선임 과정의 핵심 인물로 꼽히는 이임생 전 대한축구협회 기술총괄이사가 입을 열었다. 8일 연합뉴스에 따르면 이 전 이사는 지난 4일 문화체육관광부와 대한축구협회 간 분쟁을 심리 중인...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=833600",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/477/0000622555",
-          "pub_date": "Sun, 09 Aug 2026 01:38:00 +0900"
-        },
-        {
-          "title": "\"내가 울 때 아버지도 몰래 울었다\" '축신' 메시 만든 아버지 호르헤, 6...",
-          "description": "아르헨티나 축구협회는 8일(한국시간) 호르헤 메시의 사망 소식을 발표했다. 지병을 앓던 호르헤는 고향인... 바르셀로나 최다 출전과 최다 득점 기록을 갈아치웠고, 축구 선수 최고의 영예인 발롱도르를 8차례나 품었다....",
-          "link": "http://www.spochoo.com/news/articleView.html?idxno=128568",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/529/0000078125",
-          "pub_date": "Sun, 09 Aug 2026 01:37:00 +0900"
-        },
-        {
-          "title": "\"KIM 태클 강했고, 수비 실수 없었다\"...'프리시즌 첫 골' 김민재의 미친...",
-          "description": "축구 통계 매체 '풋몹'은 김민재에게 양 팀 통틀어 두 번째로 높은 평점 8.1점을 주었다. 김민재는 63분 동안 1골, 패스 성공률 95%, 태클 2회, 차단 2회, 걷어내기 2회를 기록했다. 독일 'FCB인사이드'는 \"헤딩으로 뮌헨의...",
-          "link": "https://www.mydaily.co.kr/page/view/2026080813495354681",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/117/0004093002",
-          "pub_date": "Sun, 09 Aug 2026 01:35:00 +0900"
-        },
-        {
-          "title": "\"우리도 못했다\" 김민재의 솔직 고백, 반등의 출발점 될까…\"선수들부터...",
-          "description": "2026 국제축구연맹(FIFA) 북중미 월드컵 조별리그 탈락이라는 참담한 성적에 대한 비판이 거세지자 나온 발언이다. 김민재는 \"이번에 많은 기대를 가지고 대한민국 축구대표팀을 응원해 주셨을 텐데, 좋지 않은 성적으로 팬...",
-          "link": "https://www.xportsnews.com/article/2181255",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/311/0002043036",
-          "pub_date": "Sun, 09 Aug 2026 01:35:00 +0900"
         }
       ]
     }
