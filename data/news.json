@@ -1,81 +1,11 @@
 {
-  "updated_at": "2026-08-08T16:45:37.427301+09:00",
+  "updated_at": "2026-08-08T18:33:39.677366+09:00",
   "interval_hours": 1.0,
   "categories": [
     {
       "keyword": "축구",
-      "items": [
-        {
-          "title": "'2부 강등' 울버햄튼 황희찬, 새 시즌 첫 경기서 명단 제외",
-          "description": "잉글랜드 프로축구 챔피언십(2부 리그)으로 강등된 울버햄튼 공격수 황희찬이 시즌 첫 경기에서 명단... 울버햄튼은 지난 시즌 잉글랜드 프로축구 프리미어리그(EPL)에서 3승 11무 24패에 그쳐 최하위인 20위로 강등됐다....",
-          "link": "https://www.newsis.com/view/NISX20260808_0003741396",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/003/0014115615",
-          "pub_date": "Sat, 08 Aug 2026 16:42:00 +0900"
-        },
-        {
-          "title": "\"제 강점은 공중볼과 헤더, 발밑 능력입니다\"…'데뷔전부터 MOM' 이한범...",
-          "description": "축구 통계 매체 '풋몹'은 이한범에게 평점 8.6점을 부여하며 경기 최우수 선수(MOM)로 선정했다. 패스 성공률 95%(122/128), 볼 터치 146회, 걷어내기 8회, 헤더 클리어 6회, 리커버리 7회를 기록했다. 지상 경합은 5차례 중 4차례...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692113",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000222105",
-          "pub_date": "Sat, 08 Aug 2026 16:35:00 +0900"
-        },
-        {
-          "title": "카스트로프 이어 백승호까지⋯시즌 앞둔 유럽파 부상 변수",
-          "description": "이투데이=전아현 기자 | 유럽 프로축구 새 시즌을 앞두고 한국 유럽파 선수들의 부상 소식이 이어지고 있다.... 묀헨글라트바흐는 23일 독일축구협회(DFB) 포칼 1라운드로 시즌 공식 일정을 시작할 예정이다. 잉글랜드 2부...",
-          "link": "https://www.etoday.co.kr/news/view/2612389",
-          "naver_link": "https://www.etoday.co.kr/news/view/2612389",
-          "pub_date": "Sat, 08 Aug 2026 16:32:00 +0900"
-        },
-        {
-          "title": "'韓 축구' 국제적 망신...사상 초유의 '성접대 파문' 외신도 집중 조명,...",
-          "description": "대한축구협회(KFA)의 심판 성접대 논란을 외신에서도 조명하고 있다. 7일(이하 한국시각) 공개된 2016년... 홍명보 전 대한민국 축구대표팀 감독 선임 과정의 불공정성 논란으로 국회 청문회가 개최됐고, 최근에는 홍...",
-          "link": "https://www.mydaily.co.kr/page/view/2026080813304352819",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/117/0004092940",
-          "pub_date": "Sat, 08 Aug 2026 16:30:00 +0900"
-        },
-        {
-          "title": "'EPL 우승 경쟁이 이적시장에서도!' 아스널-리버풀, 잉글랜드 국대 CB 콘...",
-          "description": "빌라는 그의 활약을 앞세워 프리미어리그 4위를 차지했고, 유럽축구연맹(UEFA) 유로파리그에서는 우승 트로피까지 들어 올렸다. 꾸준함과 안정성을 동시에 보여주며 자신의 가치를 한 단계 더 끌어올렸다. 잉글랜드...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96033",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/411/0000085548",
-          "pub_date": "Sat, 08 Aug 2026 16:30:00 +0900"
-        },
-        {
-          "title": "'역대급 데뷔전' 韓 24세 국대 센터백, 유럽 명문 완벽히 사로잡았다 \"단...",
-          "description": "이어 \"유럽축구연맹(UEFA) 챔피언스리그(UCL) 무대 등 앞으로 마주할 더 강력한 상대들과 대결에 대비해 몸... 축구 통계 매체 '풋몹'과 '소파스코어'는 이한범에게 양 팀 통틀어 최고 평점인 8.6점과 8.9점을 부여하며 경기...",
-          "link": "https://www.starnewskorea.com/sports/2026/08/08/2026080815205438211",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/108/0003460255",
-          "pub_date": "Sat, 08 Aug 2026 16:30:00 +0900"
-        },
-        {
-          "title": "\"유럽 개막 앞두고 부상 악재\"카스트로프·백승호, 출발부터 제동",
-          "description": "독일 프로축구 분데스리가와 잉글랜드 챔피언십이 새 시즌을 시작하거나 개막을 앞둔 가운데, 유럽에서 뛰는... 묀헨글라트바흐는 23일 독일축구협회(DFB) 포칼 1라운드로 2024-2025시즌 공식 일정을 출발하며, 분데스리가 첫...",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16158419",
-          "naver_link": "https://www.topstarnews.net/news/articleView.html?idxno=16158419",
-          "pub_date": "Sat, 08 Aug 2026 16:24:00 +0900"
-        },
-        {
-          "title": "\"일본인 심판도 포함\" 대한축구협회 심판 성접대 의혹에 일본 축구도 '발...",
-          "description": "일본 매체가 대한축구협회(KFA)의 사과문을 조명했다. 일본 일간 '스포니치'는 8일, 'KFA가 공식 웹사이트를... 한편, 한 축구계 관계자에 따르면, 일본축구협회(JFA)는 일본인 심판이 연루된 것으로 알려진 심판 성접대...",
-          "link": "https://www.sportschosun.com/football/2026-08-08/202608080100046100002856",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/076/0004434058",
-          "pub_date": "Sat, 08 Aug 2026 16:22:00 +0900"
-        },
-        {
-          "title": "'스스로 투명하게 홍명보 뽑았다더니'…2년 만에 말 바꾼 이임생",
-          "description": "\"회장으로부터 권한과 책임을 위임받아 절차상 문제없이 감독 결정은 스스로 투명하게 결정했다.\" 2024년 7월, 홍명보 전 축구대표팀 감독 선임 배경을 설명하던 이임생 전 대한축구협회 기술총괄이사는 모든 책임을...",
-          "link": "https://www.news1.kr/society/general-society/6253127",
-          "naver_link": "https://n.news.naver.com/mnews/article/421/0009103618?sid=102",
-          "pub_date": "Sat, 08 Aug 2026 16:21:00 +0900"
-        },
-        {
-          "title": "대한축구협회 '심판 성접대' 등 논란에 사과하며 쇄신 약속…이미 흠집...",
-          "description": "2026 북중미 월드컵 부진 후폭풍 속에 최근 경찰 압수수색을 받고 각종 과거 비위 의혹까지 드러나며 추락하고 있는 대한축구협회가 팬과 축구 관계자에게 사과하며 쇄신을 약속했다. 대한축구협회는 8일 '축구 팬 및 축구...",
-          "link": "http://www.thesportstimes.co.kr/news/articleView.html?idxno=374769",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/472/0000041108",
-          "pub_date": "Sat, 08 Aug 2026 16:18:00 +0900"
-        }
-      ]
+      "items": [],
+      "error": "<urlopen error timed out>"
     }
   ]
 }
