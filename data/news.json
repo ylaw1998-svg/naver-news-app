@@ -1,10 +1,66 @@
 {
-  "updated_at": "2026-08-12T00:57:34.228021+09:00",
+  "updated_at": "2026-08-12T01:58:32.646194+09:00",
   "interval_hours": 1.0,
   "categories": [
     {
       "keyword": "축구",
       "items": [
+        {
+          "title": "韓 축구 대형 악재! '대표팀 유망주' 양민혁, \"토트넘 수준과 거리 멀어...",
+          "description": "한국 축구를 대표할 것이라 기대를 모았던 유망주 양민혁은 토트넘 이적 이후 고전을 면치 못하고 있다. 임대 계획이 꼬이며 성장에 제동이 걸렸다. 2025~2026시즌 당시 포츠머스에서 독보적인 활약은 아니었으나, 꾸준히...",
+          "link": "https://www.sportschosun.com/football/2026-08-12/202608120100067240004186",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/076/0004434994",
+          "pub_date": "Wed, 12 Aug 2026 01:48:00 +0900"
+        },
+        {
+          "title": "\"서울 왕궁보다 더 큰 오프사이드였는데!\" 이강인 울린 韓 심판 오심, 스...",
+          "description": "축구 통계 매체 '풋몹'에 따르면 그는 패스 성공률 91%(10/11), 볼 터치 19회, 슈팅 2회, 공격 지역 패스 2회, 기대득점(xG) 0.20 등을 기록했다. 날카로운 왼발 프리킥으로 골문을 겨냥하기도 했다. 다만 이번 경기에서도 오심...",
+          "link": "http://www.osen.co.kr/article/G1112855021",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/109/0005586939",
+          "pub_date": "Wed, 12 Aug 2026 01:46:00 +0900"
+        },
+        {
+          "title": "'이럴 수가' 맨체스터 유나이티드 오열! '英 초신성 레프트백' 아스날 잔...",
+          "description": "36경기에 나와 4도움을 기록하며 잉글랜드 프리미어리그(EPL) 우승에 기여했고, 유럽축구연맹(UEFA) 챔피언스리그(UCL) 결승 무대도 경험했다. 이 같은 성과로 맨유의 눈길을 끌었다. 맨유는 올여름 좌측 수비 보강을...",
+          "link": "https://www.mydaily.co.kr/page/view/2026081201285617171",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/117/0004093914",
+          "pub_date": "Wed, 12 Aug 2026 01:39:00 +0900"
+        },
+        {
+          "title": "\"아마존 창업자 베이조스, 리버풀 FC 지분 매입 계약 발표 임박\"",
+          "description": "아마존 창업자인 제프 베이조스가 잉글랜드 프리미어 리그(EPL) 축구단 리버풀 지분 매입을 추진하고... 이 거래가 성사되면 세계적으로 손꼽히는 갑부들이 세계에서 가장 성공한 축구단 중 하나로 꼽히는 리버풀...",
+          "link": "https://www.ytn.co.kr/_ln/0104_202608120138248419",
+          "naver_link": "https://n.news.naver.com/mnews/article/052/0002392053?sid=104",
+          "pub_date": "Wed, 12 Aug 2026 01:38:00 +0900"
+        },
+        {
+          "title": "[오피셜]\"무시알라 갈라타사라이 이적\" 충격 결말! 오보 쓴 기자 체포 엔...",
+          "description": "구단은 \"최근 우리 구단과 관련해 의도적으로 유포되고 있는 사실과 다른 보도들로 인해 대중에게 이를 알릴 필요가 있다고 판단했다\"며 \"프로 축구선수 자말 무시알라가 갈라타사라이로 이적할 것이라는 주장은 사실이...",
+          "link": "https://www.sportschosun.com/football/2026-08-12/202608120100067020004171",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/076/0004434993",
+          "pub_date": "Wed, 12 Aug 2026 01:30:00 +0900"
+        },
+        {
+          "title": "[SD 강릉 인터뷰] “감독인 나도 규정을 숙지하고 왔는데…”…정경호 ...",
+          "description": "아시아축구연맹 챔피언스리그 엘리트(ACLE) 플레이오프(PO) 홈경기서 연장승부 끝에 0-1로 패한 뒤 아쉬움을... 경기 후 한국프로축구연맹과 강원 구단 관계자들은 “가바옌 대기심이 연장전 돌입 후 교체 규정을 숙지하지...",
+          "link": "https://sports.donga.com/sports/article/all/20260812/134461409/1",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/382/0001287790",
+          "pub_date": "Wed, 12 Aug 2026 01:14:00 +0900"
+        },
+        {
+          "title": "'韓 월드컵 스타' 오현규 현지에서 황당 대우 받았다…16경기 8골에도 억...",
+          "description": "2026 국제축구연맹(FIFA) 북중미 월드컵에서는 체코를 상대로 결승골을 터뜨리며 한국의 승리를 이끌기도 했다. 그럼에도 세빈칠리는 오현규의 현재 기량이 1,500만 유로에 달하는 몸값에는 미치지 못한다고 주장했다....",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692336",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000222278",
+          "pub_date": "Wed, 12 Aug 2026 01:10:00 +0900"
+        },
+        {
+          "title": "국내 지도자도 지원했지만…축구팬 불신에 자격요건까지 ‘높은 문턱’",
+          "description": "한국 남자 축구대표팀 임시 감독 공개채용이 진행되고 있지만 국내 지도자가 지휘봉을 잡을 가능성은 크지 않다는 전망이 나온다. 국내 지도자에 대한 축구계 안팎 불신뿐 아니라 자격증과 코칭스태프 구성 등 지원...",
+          "link": "https://sports.khan.co.kr/article/202608120100006?pt=nv",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/144/0001131264",
+          "pub_date": "Wed, 12 Aug 2026 01:00:00 +0900"
+        },
         {
           "title": "프로야구 재개됐지만…'그라운드 복사열' 어쩌나",
           "description": "(온열지수는) 사람이 실제 느끼는 열 스트레스를 측정했다, 군대나 스포츠 계열에서 많이 사용하고 있는 지표라고 보시면 되겠고….] 축구 등 일부 스포츠 종목에서는 온열지수가 이미 국제 표준으로 사용되고 있습니다....",
@@ -18,62 +74,6 @@
           "link": "https://www.chosun.com/international/international_general/2026/08/12/5P2YD2QTDRCTLEYJ6HYLO3BTZE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
           "naver_link": "https://n.news.naver.com/mnews/article/023/0003992508?sid=104",
           "pub_date": "Wed, 12 Aug 2026 00:47:00 +0900"
-        },
-        {
-          "title": "\"강바닥 파서 지하수라도\"…논물 찾아 '사투'",
-          "description": "[신오식/경남 밀양시 무안면 : 이대로 비가 안 오게 되면 올해 벼 작물이라든지 밭작물은 아마 수확하기가 굉장히 어려울 것 같은 (상황입니다.)] 경상남도는 현재까지 1천800ha, 축구장 2천500개 면적의 도내 농경지에서 폭염...",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008700881&plink=ORI&cooper=NAVER",
-          "naver_link": "https://n.news.naver.com/mnews/article/055/0001379902?sid=102",
-          "pub_date": "Wed, 12 Aug 2026 00:42:00 +0900"
-        },
-        {
-          "title": "포옛, 축구 대표팀 임시 감독에 도전",
-          "description": "전북에 K리그 우승 안긴 사령탑 펩 보좌한 토렌트도 지원서 제출 홍명보 전 감독의 사퇴로 공석이 된 한국 축구 국가대표팀 임시 감독 공개 채용 서류 접수가 지난 9일 마감됐다. 대한축구협회는 평가위원회를 꾸려 후보자...",
-          "link": "https://www.chosun.com/sports/football/2026/08/12/2NBARTHEMRHZPJUNQI4HUN6S5I/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/023/0003992496",
-          "pub_date": "Wed, 12 Aug 2026 00:41:00 +0900"
-        },
-        {
-          "title": "‘네 손 네 발’ 오르간 이중주… “부딪치며 맞춰 가죠”",
-          "description": "“축구 선수의 태클처럼 고의적 충돌은 아니지만 남편의 손이 제 손보다 훨씬 크고 길고 두껍기 때문에 가끔 제 손이 그의 손 아래 깔리면 통증이 오래 남는다”고도 덧붙였다. 이들의 말을 듣고 있으니 오르간 이중주도...",
-          "link": "https://www.chosun.com/culture-life/culture_general/2026/08/12/4DC7A2RI55CW3IEPTGCN5YAIYQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-          "naver_link": "https://n.news.naver.com/mnews/article/023/0003992489?sid=103",
-          "pub_date": "Wed, 12 Aug 2026 00:40:00 +0900"
-        },
-        {
-          "title": "‘축구대표팀 임시감독은 포옛?’ 박지성 위원장 “좋은 감독 모셔오기...",
-          "description": "거스 포옛 감독이 축구대표팀을 임시로 지휘할까? 대한축구협회는 10일 “남자대표팀 임시 감독 공개채용 서류접수를 9일 마감했다. 금주 중 전력강화위원과 외부위원을 위촉해 평가위원회를 구성할 예정이다. 후보자들의...",
-          "link": "http://www.osen.co.kr/article/G1112855208",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/109/0005586927",
-          "pub_date": "Wed, 12 Aug 2026 00:35:00 +0900"
-        },
-        {
-          "title": "아마존 창업자 베이조스, EPL 명문 리버풀FC 지분 사들이나",
-          "description": "로이터 연합뉴스 세계적인 억만장자 제프 베이조스가 잉글랜드 프로축구 명문 리버풀의 새 주주로 합류할... 거래가 성사되면 축구단 지분 거래 가운데서도 손꼽히는 대형 투자 사례가 된다. 다만 베이조스가 리버풀을...",
-          "link": "https://www.dkilbo.com/news/articleView.html?idxno=551137",
-          "naver_link": "https://www.dkilbo.com/news/articleView.html?idxno=551137",
-          "pub_date": "Wed, 12 Aug 2026 00:26:00 +0900"
-        },
-        {
-          "title": "'침묵의 늪' 손흥민…징크스 깨고 토너먼트 진출 이끌까",
-          "description": "CD 과달라하라가 지난 시즌 리가 MX(LMX) 준우승, 데포르티보 톨루카 FC가 올해 북중미카리브축구연맹(CONCACAF) 챔피언스컵 우승을 차지한 반면 케레타로 FC는 이렇다 할 성과가 없었다. 처음으로 리그스컵에 출전해...",
-          "link": "https://www.kado.net/news/articleView.html?idxno=2066246",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/654/0000194873",
-          "pub_date": "Wed, 12 Aug 2026 00:09:00 +0900"
-        },
-        {
-          "title": "[사설] 강원FC 홈경기 분산, 도 역할 중요",
-          "description": "강원FC 분산 개최는 축구 팬뿐만 아니라 도민들의 관심이 지대한 현안입니다. 도민들의 기대에 부합하는 결과가 조속히 도출되기를 바랍니다. 분산 개최를 위해서는 강원FC와 춘천시의 갈등 해소가 과제로 남아...",
-          "link": "https://www.kado.net/news/articleView.html?idxno=2066238",
-          "naver_link": "https://n.news.naver.com/mnews/article/654/0000194866?sid=110",
-          "pub_date": "Wed, 12 Aug 2026 00:09:00 +0900"
-        },
-        {
-          "title": "금강대기 전국 유소년 축구 페스티벌 1차 리그 마무리",
-          "description": "전국 우수 유소년 축구 클럽이 집결해 차세대 유망주들이 기량을 겨루고 선의의 경쟁을 펼치는 축제의 장인 '2026 금강대기 전국 유소년 축구 페스티벌'이 지난 8일부터 10일까지 횡성생활체육공원과...",
-          "link": "https://www.kado.net/news/articleView.html?idxno=2066244",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/654/0000194871",
-          "pub_date": "Wed, 12 Aug 2026 00:09:00 +0900"
         }
       ]
     }
