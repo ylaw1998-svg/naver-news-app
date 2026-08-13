@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-08-14T03:58:20.441445+09:00",
+  "updated_at": "2026-08-14T04:57:08.002369+09:00",
   "interval_hours": 1.0,
   "categories": [
     {
       "keyword": "축구",
       "items": [
         {
+          "title": "이민성 감독에게 선택받지 못한 '제2의 이강인' 떠나자...아약스, 리옹,...",
+          "description": "김민수는 2025~2026시즌을 거치며 한국 축구를 대표하는 유망주 중 한 명으로 떠올랐다. 이강인처럼 어린 시절 스페인으로 건너가 축구선수의 꿈을 키웠다. 2022년 지로나에 합류한 김민수는 구단의 기대를 받으며...",
+          "link": "https://www.sportschosun.com/football/2026-08-14/202608140100084260005287",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/076/0004435855",
+          "pub_date": "Fri, 14 Aug 2026 04:35:00 +0900"
+        },
+        {
+          "title": "“AI-로봇과 공존하는 도시 만들것… 초지역 ‘펜타 역세권’ 개발”",
+          "description": "지상 철도로 단절됐던 도심에 축구장 100개 규모의 상부 공간을 확보해 녹지·업무·주거·문화가 어우러진 공간으로 바꾸겠다. 초지역은 4호선과 서해선, 수인분당선, KTX, 신안산선이 만나는 ‘펜타 역세권’으로...",
+          "link": "https://www.donga.com/news/Society/article/all/20260813/134475390/2",
+          "naver_link": "https://n.news.naver.com/mnews/article/020/0003740833?sid=102",
+          "pub_date": "Fri, 14 Aug 2026 04:33:00 +0900"
+        },
+        {
+          "title": "메시 “아버지 없이 무엇을 해야 할지 모르겠다”",
+          "description": "앞으로 축구를 계속할 수 있을지 확신이 서지 않는다.” ‘축구의 신’ 리오넬 메시(39·아르헨티나)는 12일 자신의 소셜미디어에 세상을 떠난 아버지에게 보내는 편지를 올렸다. 아버지 호르헤 메시 씨는 투병 끝에 8일...",
+          "link": "https://www.donga.com/news/Sports/article/all/20260814/134475789/2",
+          "naver_link": "https://m.sports.naver.com/general/article/020/0003740820",
+          "pub_date": "Fri, 14 Aug 2026 04:33:00 +0900"
+        },
+        {
+          "title": "MLS, ‘은퇴 리그’서 특급 스타들 ‘핫 리그’로 떠올라",
+          "description": "얼마 전까지만 해도 미국 메이저리그사커(MLS)는 흥행을 위해 은퇴를 앞둔 축구 스타를 영입하는 리그라는... 스타 선수들의 MLS 러시는 2023년 ‘축구의 신’ 리오넬 메시가 파리 생제르맹(프랑스)을 떠나 인터...",
+          "link": "https://www.donga.com/news/Sports/article/all/20260814/134475791/2",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/020/0003740819",
+          "pub_date": "Fri, 14 Aug 2026 04:33:00 +0900"
+        },
+        {
+          "title": "트럼프 사위의 동생, LA 레이커스 18조원에 인수",
+          "description": "국제축구연맹(FIFA) 자회사 지분을 인수하려다 실패한 뒤 NBA 팀 인수에 나선 모양새다. 미국 스포츠 전문... 이 계획은 전 세계 축구계 반발로 백지화된 상태다. 125억 달러는 NBA는 물론이고 프로 스포츠 역사상...",
+          "link": "https://www.donga.com/news/People/article/all/20260813/134475732/2",
+          "naver_link": "https://n.news.naver.com/mnews/article/020/0003740827?sid=102",
+          "pub_date": "Fri, 14 Aug 2026 04:33:00 +0900"
+        },
+        {
+          "title": "'맨유가 조용히 대박 터뜨렸다!' 틸레만스-산투스 '가성비 영입'에 퍼디...",
+          "description": "우가르테는 지난 국제축구연맹(FIFA) 2026 북중미 월드컵에서 부상을 당하며 장기 결장이 확정된 상태다.... 무엇보다 가장 중요한 것은 축구를 정말 잘하는 선수라는 점\"이라고 극찬했다. 특히 퍼디난드는 3,500만 파운드(약...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96328",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/411/0000085807",
+          "pub_date": "Fri, 14 Aug 2026 04:28:00 +0900"
+        },
+        {
+          "title": "역시 알론소와 다르다...무리뉴, '월드컵 7골' 벨링엄 10번 위치에 기용...",
+          "description": "벨링엄은 잉글랜드 축구 국가대표로 미드필더임에도 뛰어난 득점력을 지녔다. 레알에서 데뷔한 2023-24시즌 42경기에 출전해 23골 13도움을 터뜨리며 놀라움을 선사했다. 2025-26시즌은 48경기 9골 6도움에 그쳤는데, 알론소...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692482",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000222384",
+          "pub_date": "Fri, 14 Aug 2026 04:25:00 +0900"
+        },
+        {
+          "title": "[오피셜] '韓 축구 대형 위기' 오현규 주전 자리 뺏기나...베식타스, '세...",
+          "description": "축구 통계 매체 풋몹에 따르면 블라호비치는 지난 시즌 경기당 1.32회의 공중볼 경합 승리를 기록하며 높은 타점과 힘을 앞세운 경쟁력을 보여줬다. 무엇보다 빈첸초 이탈리아노 감독의 역할이 결정적이었다. 앞서...",
+          "link": "https://mhnse.com/news/articleView.html?idxno=1489028",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/445/0000450010",
+          "pub_date": "Fri, 14 Aug 2026 04:01:00 +0900"
+        },
+        {
+          "title": "벤투, 대한민국 끝내 포기하나…홍명보 무너트렸던 '아프리카 그 팀' 노...",
+          "description": "한국 축구대표팀 차기 정식 감독 후보로 꾸준히 거론됐던 파울루 벤투 감독이 이번에는 알제리 대표팀과... 이밖에도 아프리카 현지 매체들에 따르면 알제리축구협회(FAF)는 페트코비치 감독의 후임을 찾는 과정에서...",
+          "link": "https://www.xportsnews.com/article/2183539",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/311/0002045075",
+          "pub_date": "Fri, 14 Aug 2026 04:00:00 +0900"
+        },
+        {
           "title": "[uel.review] '오현규 선발→풀타임 소화' 베식타스, 흐라데츠크랄로베에...",
           "description": "유럽축구연맹(UEFA) 유로파리그 플레이오프 진출에 성공했다. 베식타스는 14일 오전 2시(한국시간) 튀르키예 이스탄불에 위치한 튀프라쉬 스타디움에서 열린 2026-27시즌 유럽축구연맹(UEFA)유로파리그 3차 예선 2차전에서 FC...",
           "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96327",
           "naver_link": "https://m.sports.naver.com/wfootball/article/411/0000085806",
           "pub_date": "Fri, 14 Aug 2026 03:57:00 +0900"
-        },
-        {
-          "title": "HWG 컨펌! 결국 이강인과 '절친 더비' 무산...'월드컵 영웅' 페란 토레스...",
-          "description": "토레스는 스페인 축구 국가대표 공격수다. 발렌시아 유소년 팀에서 성장해 맨체스터 시티를 거쳐 2021-22시즌 바르셀로나로 이적해 꾸준히 기량을 발전시켰다. 바르셀로나 입단 초기에는 득점력이 아쉬웠는데, 최근...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692481",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000222383",
-          "pub_date": "Fri, 14 Aug 2026 03:55:00 +0900"
-        },
-        {
-          "title": "[오피셜] 韓 축구 악재 현실로...베식타스, 오현규 있는데 '세르비아 ST...",
-          "description": "2000년생 블라호비치는 세르비아 축구 국가대표 출신 스트라이커다. 파르티잔에서 성장한 뒤 2018-19시즌... 베식타스의 전체 전력은 상승할 수 있겠으나, 한국 축구 국가대표인 오현규에게는 악재다. 오현규는 지난 겨울...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692480",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000222382",
-          "pub_date": "Fri, 14 Aug 2026 03:35:00 +0900"
-        },
-        {
-          "title": "맨체스터 유나이티드 출신 전문가 소신 발언…\"잭슨은 맨유의 선택지 될...",
-          "description": "맨유는 지난 시즌 잉글랜드 프리미어리그(PL) 3위를 차지하며 유럽축구연맹(UEFA) 챔피언스리그(UCL)... 그것이 여전히 축구에서 가장 어려운 부분이다\"고 말했다. 영국 '데일리 메일'에 따르면 첼시는 계약이 2033년 6월...",
-          "link": "https://www.mydaily.co.kr/page/view/2026081314350349292",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/117/0004094715",
-          "pub_date": "Fri, 14 Aug 2026 03:34:00 +0900"
-        },
-        {
-          "title": "칠리즈, 솔라나 네트워크에 ‘브라질 5대 명문 구단 팬토큰’ 출시",
-          "description": "최정상 축구 클럽 5곳의 팬토큰을 솔라나(Solana) 네트워크에 공식 출시하고 남미 스포츠파이(SportFi) 시장... 브라질 축구계를 대표하는 5대 명문 구단 자산으로 구성된다. 이를 통해 솔라나 기반 지갑 호환 애플리케이션...",
-          "link": "https://sports.khan.co.kr/article/202608140324003?pt=nv",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/144/0001131780",
-          "pub_date": "Fri, 14 Aug 2026 03:25:00 +0900"
-        },
-        {
-          "title": "'한국까지 왔던 사비뉴가 갑자기 사라졌다' 맨시티 훈련 돌연 불참→토...",
-          "description": "유럽 축구 이적시장 전문가 파브리시오 로마노는 13일(한국시간) \"사비뉴는 이미 몇 주 전 맨체스터 시티 측에 팀을 떠나고 싶다는 의사를 전달했다. 선수 본인은 이적을 결심한 상황\"이라고 전했다. 이어 \"토트넘은 현재...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96326",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/411/0000085804",
-          "pub_date": "Fri, 14 Aug 2026 03:25:00 +0900"
-        },
-        {
-          "title": "진안군, '전북 규제합리화 경진대회' 대상 수상…용담호 수변구역 해제...",
-          "description": "그 결과 지난 4월7일 기후에너지환경부로부터 진안군 관내 7개 읍·면, 31개 마을 일원 총 1.251㎢(2445필지 / 축구장 약 175개, 여의도 면적의 0.43배)에 달하는 용담호 수변구역 전격 해제 승인·고시를 도출해 내는 성과를...",
-          "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315513",
-          "naver_link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315513",
-          "pub_date": "Fri, 14 Aug 2026 03:16:00 +0900"
-        },
-        {
-          "title": "손흥민도 깜짝 놀랄 소식! '브라질 거물'의 MLS 입성 가능성…\"MSN 라인의...",
-          "description": "네이마르의 미래에 대한 이야기는 브라질 축구선수 출신 펠리페 멜루에게서 나왔다. 다만 인터 마이애미와 네이마르 사이에 공식 합의가 이뤄졌다는 소식은 아직 나오지 않았다. 이 시나리오는 현재 계약 상황과도...",
-          "link": "https://www.sportschosun.com/football/2026-08-14/202608140100084130005284",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/076/0004435854",
-          "pub_date": "Fri, 14 Aug 2026 03:11:00 +0900"
-        },
-        {
-          "title": "\"서울 거주-협회 잡음 문제 없다\" 한국 '정식 감독' 의욕 내비친 스토이...",
-          "description": "세르비아 축구대표팀을 이끌었던 '전설' 드라간 스토이코비치(61) 감독이 한국 대표팀 지휘봉에 관심을... 아시아 무대에서 오랜 기간 선수와 지도자로 생활했고, 세르비아를 월드컵과 유럽축구연맹(UEFA) 유럽선수권...",
-          "link": "http://www.osen.co.kr/article/G1112856791",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/109/0005588347",
-          "pub_date": "Fri, 14 Aug 2026 03:00:00 +0900"
-        },
-        {
-          "title": "'역시 맨체스터 유나이티드 선배밖에 없구나!' 래쉬포드 운명 뒤집은 캐...",
-          "description": "이런 활약을 바탕으로 래쉬포드는 2026 국제축구연맹(FIFA) 북중미 월드컵에서 잉글랜드 대표팀의 일원으로도 활약했다. 그는 이번 월드컵 6경기에 출전해 1골 1도움을 기록했다. 한편 래쉬포드는 한때 바르셀로나 완전...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96325",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/411/0000085803",
-          "pub_date": "Fri, 14 Aug 2026 03:00:00 +0900"
         }
       ]
     }
