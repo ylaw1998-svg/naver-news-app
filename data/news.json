@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-08-15T01:48:29.202126+09:00",
+  "updated_at": "2026-08-15T02:49:35.949528+09:00",
   "interval_hours": 1.0,
   "categories": [
     {
       "keyword": "축구",
       "items": [
         {
+          "title": "\"日 모리야스 한국 데려오자\" 이어…'한 물 간' J리그 레전드, 韓 대표팀...",
+          "description": "한국 축구를 일본과 J리그의 영웅들이 구한다? 한국 차기 정식 감독 자리를 둘러싼 분위기가 묘하게 흘러가고... 다만 한국 축구 입장에서는 씁쓸할 수밖에 없다. 스토이코비치는 최근 지도자로서의 평가는 전성기와...",
+          "link": "https://www.xportsnews.com/article/2184029",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/311/0002045545",
+          "pub_date": "Sat, 15 Aug 2026 02:42:00 +0900"
+        },
+        {
+          "title": "'이럴 수가' UCL 진출 좌절되나..'스토크 왕' 배준호 '강제 잔류' 위기, ...",
+          "description": "리옹은 지난 시즌 프랑스 리그1 4위에 오르며 유럽축구연맹(UEFA) 챔피언스리그(UCL) 3차 예선 진출권 획득했다. 배준호 입장에서는 이적 후 UCL 출전까지 노릴 수 있는 기회였다. 하지만 난항이 이어졌다. 프랑스 ‘풋01’...",
+          "link": "https://www.mydaily.co.kr/page/view/2026081415354708782",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/117/0004095062",
+          "pub_date": "Sat, 15 Aug 2026 02:34:00 +0900"
+        },
+        {
+          "title": "韓 축구 대형 악재, '국가대표 공격수' 오현규 최악의 '오피셜'...감독마...",
+          "description": "구단은 '우리는 프로 축구 선수 블라호비치의 이적에 관한 합의에 도달했음을 공시 플랫폼(KAP)에 알렸다'고 전했다. 구단은 블라호비치와 2028~2029시즌까지 이어지는 3년 계약을 체결했고, 750만 유로 수준의 연봉을...",
+          "link": "https://www.sportschosun.com/football/2026-08-15/202608150100088200005571",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/076/0004436085",
+          "pub_date": "Sat, 15 Aug 2026 02:30:00 +0900"
+        },
+        {
+          "title": "\"맨유 선발로 뛸 자격 충분!\" '19세 CB' 헤븐, 완벽 수비로 존재감 과시...",
+          "description": "축구 통계 매체 '풋몹'에 따르면 헤븐은 45분 동안 수비적 행동 7회, 클리어링 5회, 헤더 클리어 3회, 경합 성공 3회, 리커버리 2회, 패스 성공률 100%(33/33), 롱 패스 성공률 100%(3/3)를 기록했다. 헤븐의 활약을 두고 맨유...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692558",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000222430",
+          "pub_date": "Sat, 15 Aug 2026 02:30:00 +0900"
+        },
+        {
+          "title": "드디어 손흥민 후계자 품나? \"개인 조건 합의\" 리버풀 각포, 토트넘 이적...",
+          "description": "네덜란드 축구 이적 소식에 정통한 요스트 블라우호프 기자는 14일 SNS를 통해 \"모든 관계자 사이에서 각포의 토트넘 이적이 현실화될 것이라는 확신이 커지고 있다\"라며 \"성사 가능성은 높은 편이지만 여전히 리버풀의...",
+          "link": "https://www.besteleven.com/news/articleView.html?idxno=311186",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/343/0000146308",
+          "pub_date": "Sat, 15 Aug 2026 02:28:00 +0900"
+        },
+        {
+          "title": "'아마존 창립자' 베이조스, 리버풀FC 지분 인수…\"이사회 합류는 안해\"",
+          "description": "아마존 창립자 제프 베이조스가 포함된 컨소시엄이 잉글랜드 프리미어리그(EPL) 축구단 리버풀의 지분 약 3분의 1을 인수하기로 했다. 14일(현지 시간) BBC 등에 따르면 리버풀 대주주인 미국 펜웨이 스포츠 그룹(FSG)은...",
+          "link": "https://www.newsis.com/view/NISX20260815_0003750387",
+          "naver_link": "https://n.news.naver.com/mnews/article/003/0014129120?sid=104",
+          "pub_date": "Sat, 15 Aug 2026 02:17:00 +0900"
+        },
+        {
+          "title": "\"여친 좀 바꿔라!\"→'2001억' 아스널 슈퍼스타, 반려자 향한 도 넘은 폭...",
+          "description": "라이스의 축구 실력만큼이나 관심을 받는 것은 학창시절부터 10년 넘게 그의 곁을 지켜온 여자친구 로렌 프라이어다. 두 사람은 10대 시절부터 만나 지금까지 함께하고 있지만, 프라이어에게는 유명 축구선수의 연인이라는...",
+          "link": "https://www.xportsnews.com/article/2184060",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/311/0002045543",
+          "pub_date": "Sat, 15 Aug 2026 02:05:00 +0900"
+        },
+        {
+          "title": "배준호 리옹행 끝난 줄 알았는데…佛 1티어 깜짝 폭로 \"복수 구단이 노...",
+          "description": "프랑스 축구 이적시장에 정통한 '풋메르카토'의 산티 아우나 기자는 14일(이하 한국시간) \"배준호를 두고 스토크와 올랭피크 리옹 사이에 새로운 진전은 없다. 선수는 이날 오전에도 정상적으로 팀 훈련에 참가했다\"고...",
+          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1001998",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/477/0000623466",
+          "pub_date": "Sat, 15 Aug 2026 01:51:00 +0900"
+        },
+        {
+          "title": "월드컵 좌절, 韓 '역대급 득점왕' 드디어 부활하나...현지 극찬 터졌다...",
+          "description": "독일 축구전문매체 'Get German Football News'는 베를린의 2026/27시즌 프리뷰를 통해 선수단의 프리시즌을... 한때 정우영은 아시안게임 득점왕을 차지하며 한국 축구의 차세대 공격 자원으로 주목받았다. 하지만 2026...",
+          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553460664",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/139/0002251734",
+          "pub_date": "Sat, 15 Aug 2026 01:49:00 +0900"
+        },
+        {
           "title": "韓선수 보기 드문 EPL… 뉴캐슬 박승수가 있다",
           "description": "17세와 20세 이하 한국 축구 대표팀을 거친 박승수는 지난해 K리그2(2부) 수원 삼성을 떠나 뉴캐슬에... 유럽 5대 리그(잉글랜드, 이탈리아, 스페인, 독일, 프랑스·유럽축구연맹 리그 랭킹 순)는 16일 킥오프하는 스페인...",
           "link": "https://www.donga.com/news/Sports/article/all/20260815/134482522/2",
           "naver_link": "https://m.sports.naver.com/kfootball/article/020/0003741051",
           "pub_date": "Sat, 15 Aug 2026 01:45:00 +0900"
-        },
-        {
-          "title": "지로나 1군 등록에 리옹 러브콜까지 '겹경사'...한국 축구 '초거대 유망...",
-          "description": "레알 소시에다드전을 통해 라리가에 데뷔했고 PSV 에인트호번과의 유럽축구연맹(UEFA) 챔피언스리그... 구단은 재정 문제와 관련해 프랑스 프로축구 재정감독기관 DNCG의 요구 조건을 충족해야 하는 상황이고 포파나...",
-          "link": "http://www.osen.co.kr/article/G1112857171",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/109/0005589009",
-          "pub_date": "Sat, 15 Aug 2026 01:42:00 +0900"
-        },
-        {
-          "title": "이강인, 전반 35분 '조기 교체 아웃'... 마르세유 수비 무너뜨린 '환상 ...",
-          "description": "이날 경기를 끝으로 프리시즌 일정을 모두 마친 이강인은 오는 20일 오전 4시 스페인 마드리드의 리야드 에어 메트로폴리타노에서 열리는 말라가와의 2026~2027 스페인 프로축구 프리메라리가 1라운드 개막전을 통해 AT...",
-          "link": "https://www.starnewskorea.com/sports/2026/08/15/2026081501261284099",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/108/0003462213",
-          "pub_date": "Sat, 15 Aug 2026 01:39:00 +0900"
-        },
-        {
-          "title": "‘HERE WE GO’ 이어 감독 ‘오피셜’ 공식입장도 나왔다, 韓 찾았던 MF ...",
-          "description": "15일(한국시간) 유럽 축구 이적시장 전문가 파브리치오 로마노 기자가 자신의 소셜미디어(SNS)를 통해 전한 바에 따르면 엔조 마레스카 감독은 오는 16일 웸블리 스타디움에서 열리는 아스널과 2026~2026시즌 잉글랜드축구협...",
-          "link": "https://www.goal.com/kr/뉴스/a/blteca5e1f4a9bcb0ef",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/216/0000142198",
-          "pub_date": "Sat, 15 Aug 2026 01:36:00 +0900"
-        },
-        {
-          "title": "\"수석코치가 한국인이라면 의미 있나\" 홍명보 후임 노리는 포옛…'지도...",
-          "description": "거스 포옛 전 전북 현대 감독이 대한민국 축구대표팀 임시 사령탑 공개 채용에 지원한 가운데 이동국 용인FC 테크니컬 디렉터가 코칭스태프로 합류할 가능성이 제기됐다. 대한축구협회는 2026 국제축구연맹(FIFA) 북중미...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1001969",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/477/0000623464",
-          "pub_date": "Sat, 15 Aug 2026 01:35:00 +0900"
-        },
-        {
-          "title": "'로드리 한 명 데려오는데 3,430억!' 바르셀로나 충격적인 영입 비용 공...",
-          "description": "후방에서 경기를 조율하는 능력과 수비력, 압박을 벗겨내는 기술을 앞세워 맨시티 중원의 중심으로 자리 잡았고 프리미어리그와 유럽축구연맹(UEFA) 챔피언스리그 정상까지 경험했다. 개인 커리어도 화려하다. 스페인...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96368",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/411/0000085846",
-          "pub_date": "Sat, 15 Aug 2026 01:30:00 +0900"
-        },
-        {
-          "title": "“사실이다” 김민재, 맨체스터 유나이티드 이적, 獨 언론인 인정 “이...",
-          "description": "그들과 좋은 관계를 유지하고 있으며, 수비나 축구에 대해 많이 배우기도 한다”고 덧붙였다. 독일 현지 언론도 김민재의 이적 가능성을 낮게 보고 있다. ‘독일 스카이스포츠’는 “바이에른 뮌헨이 김민재를 더 이상...",
-          "link": "https://sports.khan.co.kr/article/202608150120003?pt=nv",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/144/0001131964",
-          "pub_date": "Sat, 15 Aug 2026 01:20:00 +0900"
-        },
-        {
-          "title": "황희찬, EPL·라리가 등 유럽 빅리그 '러브콜'... 다음 주쯤 새 시즌 거...",
-          "description": "잉글랜드 프로축구 챔피언십(2부) 울버햄프턴과 결별이 사실상 확정된 황희찬(30)이 여전히 유럽 빅리그... 14일 유럽축구 이적시장 관계자 등에 따르면 황희찬은 유럽 빅리그 구단들의 여러 제안들을 두고 고심하며 새 시즌...",
-          "link": "https://www.starnewskorea.com/sports/2026/08/15/2026081417384473073",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/108/0003462211",
-          "pub_date": "Sat, 15 Aug 2026 01:05:00 +0900"
-        },
-        {
-          "title": "한국 대표팀 감독, '임시' 포옛→내년 스토이코비치 될까...두 외국인 명...",
-          "description": "대한민국 축구대표팀의 향후 사령탑 구도가 조금씩 윤곽을 드러내고 있다. 당장 9월부터 11월까지 A매치... 대한축구협회(KFA)는 현재 임시 감독 선임 절차를 진행하고 있다. 지난 9일 오후 5시 공개채용 서류 접수를...",
-          "link": "http://www.osen.co.kr/article/G1112857333",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/109/0005589006",
-          "pub_date": "Sat, 15 Aug 2026 01:01:00 +0900"
-        },
-        {
-          "title": "韓 축구 차기 감독 '초호화 3파전' 떴다!…\"포옛에 카사스·펩 오른팔까...",
-          "description": "한국 축구대표팀 차기 사령탑 후보가 거스 포옛(58) 전 전북 현대 감독과 헤수스 카사스(52) 전 이라크 대표팀... 대한축구협회(KFA)는 남자 국가대표팀 임시 감독 공개채용 서류 접수를 지난 9일 마감했다. 오는 11월까지 약...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1001994",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/477/0000623461",
-          "pub_date": "Sat, 15 Aug 2026 00:57:00 +0900"
         }
       ]
     }
