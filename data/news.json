@@ -1,10 +1,45 @@
 {
-  "updated_at": "2026-08-16T02:17:04.905892+09:00",
+  "updated_at": "2026-08-16T03:22:25.148530+09:00",
   "interval_hours": 1.0,
   "categories": [
     {
       "keyword": "축구",
       "items": [
+        {
+          "title": "[오피셜] 토트넘 방출 자원→잉글랜드 월드컵 멤버까지...손흥민과 뛴 스...",
+          "description": "토트넘에서 극적인 입지 변화를 겪으며 2026 국제축구연맹(FIFA) 북중미 월드컵까지 뛴 스펜스가 인터밀란으로... 챔피언을 지키고 유럽축구연맹(UEFA) 챔피언스리그(UCL)까지 병행하려면 멀티 수비 자원이 필요했다. 스펜스는...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692605",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000222476",
+          "pub_date": "Sun, 16 Aug 2026 02:45:00 +0900"
+        },
+        {
+          "title": "손흥민, LAFC서 우승 청신호? \"멕시코, 북중미 탈퇴→남미 가입 검토\"…...",
+          "description": "멕시코가 북중미카리브축구연맹(CONCACAF)을 떠나 남미축구연맹(CONMEBOL)에 가입하는 방안을 검토하고 있다는 주장이 제기됐다. 멕시코 매체 메디오티엠포는 14일(한국시간) \"멕시코가 CONCACAF를 떠날 수 있을까?...",
+          "link": "https://www.xportsnews.com/article/2184269",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/311/0002045781",
+          "pub_date": "Sun, 16 Aug 2026 02:44:00 +0900"
+        },
+        {
+          "title": "황희찬이 어쩌다…영국 현지 반응 \"두 시즌간 5골인데 누가 데려가나, ...",
+          "description": "2026 국제축구연맹(FIFA) 북중미 월드컵 활약을 바탕으로 어필을 했어야 했지만, 생각만큼 쉽지는 않았다. 황희찬은 체코전과 멕시코전에서 후반 교체로 출전했지만 큰 인상을 남기지 못했다. 남아프리카공화국전에서는...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96426",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/411/0000085903",
+          "pub_date": "Sun, 16 Aug 2026 02:35:00 +0900"
+        },
+        {
+          "title": "'손흥민 옛 동료' 로메로, AT마드리드 이적…이번에는 이강인과 함께",
+          "description": "잉글랜드 프로축구 토트넘에서 손흥민(현 로스앤젤레스 FC)과 함께 뛰었던 수비수 크리스티안 로메로가... 로메로는 아르헨티나 국가대표로 A매치 58경기에 출전하며 2022년 국제축구연맹(FIFA) 카타르 월드컵 우승...",
+          "link": "http://www.thesportstimes.co.kr/news/articleView.html?idxno=374943",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/472/0000041191",
+          "pub_date": "Sun, 16 Aug 2026 02:23:00 +0900"
+        },
+        {
+          "title": "韓 축구 초대형 경사! '국가대표 수비수' 설영우, 드디어 빅 리그 입성하...",
+          "description": "매체는 설영우가 2026 국제축구연맹(FIFA) 북중미 월드컵 이후 프랑크푸르트로 이적할 것이라는 전망을... 그러나 데얀 스탄코비치 감독이 최근 2026/27 유럽축구연맹(UEFA) 챔피언스리그(UCL) 리그 페이즈 진출 실패의 책임을...",
+          "link": "https://www.goal.com/kr/뉴스/a/blt443bc9c39bef696d",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/216/0000142216",
+          "pub_date": "Sun, 16 Aug 2026 02:18:00 +0900"
+        },
         {
           "title": "'충격 대반전' 日 축구 초대형 악재! 전용기까지 띄웠는데...'혼혈 GK' PS...",
           "description": "유럽 축구 이적시장 전문가 파브리지오 로마노는 16일(이하 한국시각) \"PSG 측 소식통은 스즈키 영입 협상이 결렬됐다고 컨펌했다\"고 보도했다. 가나인 아버지와 일본인 어머니 사이에서 태어난 스즈키는 우라와 레즈...",
@@ -39,41 +74,6 @@
           "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692603",
           "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000222475",
           "pub_date": "Sun, 16 Aug 2026 01:27:00 +0900"
-        },
-        {
-          "title": "[k2.told] \"약속 안 지켰다\" 수원 김도연, 다시 SNS 폐쇄...유망주들 '멘...",
-          "description": "축구에만 좀 더 열중하고 집중하길 바라는 게 개인적인 생각이다\"고 강조했다. 이정효 감독이 유독 어린 선수들의 SNS 활동을 경계하는 데는 확실한 이유가 있다. 수원은 K리그 최고 수준의 거대한 팬덤을 보유했다....",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96428",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/411/0000085902",
-          "pub_date": "Sun, 16 Aug 2026 01:25:00 +0900"
-        },
-        {
-          "title": "'천당과 지옥' 김진수 \"자책골, 초등학교 이후 처음…도와준 동료들 고...",
-          "description": "프로축구 K리그1 FC서울의 김진수가 자책골을 기록한 뒤 팀의 대역전승에 기여하는 천당과 지옥을 오간 뒤 \"이겨서 정말 다행\"이라며 멋쩍게 웃었다. 서울은 15일 서울월드컵경기장에서 열린 대전 하나시티즌과의...",
-          "link": "https://www.news1.kr/sports/soccer/6260411",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/421/0009115966",
-          "pub_date": "Sun, 16 Aug 2026 01:23:00 +0900"
-        },
-        {
-          "title": "'韓 축구 골잡이' 오현규, 벤치 밀린다...'연봉 164억' 대형 공격수 합류...",
-          "description": "축구 통계 매체 '트랜스퍼마크트'는 14일(이하 한국시간) 소셜 미디어를 통해 \"베식타스가 블라호비치와 함께 꾸릴 수 있는 2026-2027시즌 베스트 11\"을 선정해 공개했다. 매체는 오현규 대신 최근 팀에 합류한 블라호비치가...",
-          "link": "http://www.osen.co.kr/article/G1112857815",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/109/0005589566",
-          "pub_date": "Sun, 16 Aug 2026 01:21:00 +0900"
-        },
-        {
-          "title": "韓 축구 날벼락! \"황희찬, 이적에 난항 겪을 수도\" 2군 강등→개막전 명...",
-          "description": "황희찬(30·울버햄튼 원더러스)이 올여름 이적에 난항을 겪을 수 있다는 전망이 나왔다. 영국 매체 '풋볼 인사이더'는 15일(이하 한국시간) \"새로운 시즌 잉글리시 풋볼 리그(EFL) 챔피언십으로 강등된 울버햄튼은 황희찬을...",
-          "link": "https://www.goal.com/kr/뉴스/a/blt50694093e0b5fd3b",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/216/0000142215",
-          "pub_date": "Sun, 16 Aug 2026 01:18:00 +0900"
-        },
-        {
-          "title": "'황제' 조코비치 소신 발언! 테니스계에서 쏟아지는 비난 들었다…\"경기...",
-          "description": "베네토는 \"그럼 내일부터 축구를 10분짜리 경기로 할 것인가?\"라면서 \"투르 드 프랑스(사이클 대회)에서 150km를 달리는 과정은 없애고 알프 뒤에즈 오르막 15km만 달리게 할 것인가? 말도 안 된다\"고 지적했다. 이어 \"테니스는...",
-          "link": "https://www.xportsnews.com/article/2184256",
-          "naver_link": "https://m.sports.naver.com/general/article/311/0002045776",
-          "pub_date": "Sun, 16 Aug 2026 01:15:00 +0900"
         }
       ]
     }
