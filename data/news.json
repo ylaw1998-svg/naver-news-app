@@ -1,10 +1,38 @@
 {
-  "updated_at": "2026-08-17T03:22:10.767506+09:00",
+  "updated_at": "2026-08-17T04:18:26.605071+09:00",
   "interval_hours": 1.0,
   "categories": [
     {
       "keyword": "축구",
       "items": [
+        {
+          "title": "'월드컵 골든볼 수상자 영입 포기' 레알 마드리드 결단! 아스널 PL 우승...",
+          "description": "애초 레알 마드리드는 2026 국제축구연맹(FIFA) 북중미 월드컵에서 스페인의 우승을 이끌고 골든볼을 수상한 로드리(맨체스터 시티)를 노렸지만, 그는 바르셀로나 이적에 가까워지고 있다. '팀토크'는 \"무리뉴 감독은 수비형...",
+          "link": "https://www.mydaily.co.kr/page/view/2026081623382162791",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/117/0004095490",
+          "pub_date": "Mon, 17 Aug 2026 04:04:00 +0900"
+        },
+        {
+          "title": "'GOAT' 호날두, 충격 은퇴 시사...\"올해가 아마 마지막\" 전격 고백! 25년...",
+          "description": "하지만 축구 팬들의 시선을 사로잡은 것은 결혼식만이 아니었다. 인터뷰 과정에서 호날두가 자신의 선수... 호날두는 향후 계획에 대한 이야기를 나누던 중 \"아마 올해가 내 축구 인생의 마지막 해가 될 것이다. 나는...",
+          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553462634",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/139/0002251818",
+          "pub_date": "Mon, 17 Aug 2026 03:51:00 +0900"
+        },
+        {
+          "title": "박주호 칼 같은 답변 \"이강인 같은 선수? 지금은 없다\"…韓 축구 팩트 말...",
+          "description": "\"이강인 같은 선수 지금은 없다\" 박주호가 바라 본 한국 축구의 현실이다. 박주호는 최근 자신의 유튜브 채널 '캡틴파추호'를 통해 도르트문트 관계자와 한국 선수 스카우팅에 관한 이야기를 나누는 모습을 공개했다....",
+          "link": "https://www.xportsnews.com/article/2184459",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/311/0002045961",
+          "pub_date": "Mon, 17 Aug 2026 03:34:00 +0900"
+        },
+        {
+          "title": "그리스 산불로 2명 사망…벨기에 '사상 최대 규모' 산불",
+          "description": "로이터 통신에 따르면 벨기에 동부 자연보호구역인 오트파뉴에서 14일 시작된 산불로 이날 오전까지 축구장 4천200개 면적에 해당하는 약 3천㏊가 탔습니다. 이는 2011년 약 1천400㏊를 태운 산불의 두 배가 넘는 규모로...",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008707845&plink=ORI&cooper=NAVER",
+          "naver_link": "https://n.news.naver.com/mnews/article/055/0001381080?sid=104",
+          "pub_date": "Mon, 17 Aug 2026 03:26:00 +0900"
+        },
         {
           "title": "손흥민 왜 폭발했나? 백태클에 마지막 공격 끊겼는데→공까지 안 주자 ...",
           "description": "LAFC는 16일(한국시간) 미국 로스앤젤레스의 BMO 스타디움에서 열린 샌디에이고FC와의 2026시즌 미국프로축구 메이저리그사커(MLS) 서부 콘퍼런스 정규리그 20라운드 홈경기에서 0-1로 패했다. 이날 최전방 공격수로 선발...",
@@ -46,34 +74,6 @@
           "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96479",
           "naver_link": "https://m.sports.naver.com/wfootball/article/411/0000085953",
           "pub_date": "Mon, 17 Aug 2026 02:40:00 +0900"
-        },
-        {
-          "title": "'韓 축구 철벽' 김민재 대형 관심 미쳤다, 역대 21번째 프리미어리거 가...",
-          "description": "김민재의 맨체스터 유나이티드 이적설이 또 등장했다. 영국의 메트로는 16일(한국시각) '맨체스터 유나이티드는 시즌을 앞두고 바이에른 뮌헨 수비수 김민재를 이적시장 명단에 올려뒀다'고 보도했다. 메트로는 '맨체스터...",
-          "link": "https://www.sportschosun.com/football/2026-08-17/202608170100094840006044",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/076/0004436458",
-          "pub_date": "Mon, 17 Aug 2026 02:26:00 +0900"
-        },
-        {
-          "title": "카스트로프 형제 나란히 태극마크?…'도르트문트 유스 출신' 19세 동생 ...",
-          "description": "카스트로프 형제가 나란히 태극마크를 달고 한국 축구대표팀에서 뛰는 모습을 언젠가는 볼 수 있을까. 대한민국 축구 국가대표팀 미드필더 옌스 카스트로프(보루시아 묀헨글라트바흐)의 친동생 레니 카스트로프...",
-          "link": "https://www.xportsnews.com/article/2184440",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/311/0002045957",
-          "pub_date": "Mon, 17 Aug 2026 02:25:00 +0900"
-        },
-        {
-          "title": "이시강, 뮤지컬 '브람스' 로베르트 슈만 변신 예고",
-          "description": "한편, 이시강은 축구와 골프를 비롯해 테니스, MMA, 사진 등 여러 취미를 즐기며 활발한 라이프스타일을 유지하고 있다. 대학교까지 축구선수로 활동한 이력을 바탕으로 현재는 아마추어 축구단 FC MEN에 소속돼 운동을...",
-          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16164979",
-          "naver_link": "https://www.topstarnews.net/news/articleView.html?idxno=16164979",
-          "pub_date": "Mon, 17 Aug 2026 02:08:00 +0900"
-        },
-        {
-          "title": "'日 축구 역대급 황금기' 국대 수문장 스즈키, PSG 이적 파토→전화위복...",
-          "description": "스즈키의 빌라행이 최종 확정될 경우 일본 축구는 전례 없는 프리미어리거 10명 시대를 맞게 된다. 2026/27시즌을 앞두고 프리미어리그에서 뛸 예정인 일본 선수는 이미 9명이다. 미토마 카오루(브라이턴 앤 호브...",
-          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553462633",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/139/0002251817",
-          "pub_date": "Mon, 17 Aug 2026 02:07:00 +0900"
         }
       ]
     }
