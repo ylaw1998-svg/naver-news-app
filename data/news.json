@@ -1,10 +1,52 @@
 {
-  "updated_at": "2026-08-18T01:22:00.626487+09:00",
+  "updated_at": "2026-08-18T02:23:32.006445+09:00",
   "interval_hours": 1.0,
   "categories": [
     {
       "keyword": "축구",
       "items": [
+        {
+          "title": "'韓 축구 에이스' 이강인 AT 마드리드행, 그 배후에 '레전드' 코케 있었...",
+          "description": "축구에서 가장 중요한 부분이다. 훌륭한 코치진과 선수단을 보유하고 있는 만큼, 이제는 모든 경기에서 이기고 싶다는 마음가짐이 중요하다\"고 강조했다. 사진 = 아틀레티코 마드리드, 게티이미지",
+          "link": "https://www.goal.com/kr/뉴스/a/blt0d00c19c9d95a44b",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/216/0000142239",
+          "pub_date": "Tue, 18 Aug 2026 02:18:00 +0900"
+        },
+        {
+          "title": "\"이번 시즌이 마지막일 것\" 호날두 폭탄 발언! 은퇴 시점 직접 밝혔다→...",
+          "description": "호날두는 \"아마 이번 시즌이 축구 선수로서 나의 마지막 해가 될 것이다. 멋진 유산을 남기고 싶다\"고... 호날두는 \"축구가 떠난 자리에는 큰 공백이 생길 수 있기 때문에 여러 가지 방법으로 시간을 채울 필요가 있다....",
+          "link": "https://mhnse.com/news/articleView.html?idxno=1492664",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/445/0000451770",
+          "pub_date": "Tue, 18 Aug 2026 02:01:00 +0900"
+        },
+        {
+          "title": "\"빌라의 미래 책임질 골키퍼 될 수 있어\" 'AV 이적 임박' 스즈키 향한 기...",
+          "description": "스즈키는 일본 축구 국가대표 골키퍼다. 우라와 레즈, 신트-트라위던을 거쳐 2024-25시즌 파르마로 이적해 세리에 A에 입성했다. 두 시즌 동안 활약하며 안정감과 발밑 능력으로 이름을 날렸고, 올여름 북중미 월드컵에서...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692685",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000222553",
+          "pub_date": "Tue, 18 Aug 2026 02:00:00 +0900"
+        },
+        {
+          "title": "‘韓 축구 망친 주범’ 홍명보 감독, 후임 드디어 윤곽…축구 협회 “금...",
+          "description": "대한민국 남자 축구대표팀 임시 사령탑 후보가 3명으로 압축된 것으로 알려졌다. 유력 후보로 거론됐던 거스 포옛(59) 전 전북 현대 감독은 서류 전형에서 탈락한 것으로 전해졌다. 대한축구협회(KFA)는 17일 남자 A대표팀...",
+          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1002287",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/477/0000623752",
+          "pub_date": "Tue, 18 Aug 2026 01:45:00 +0900"
+        },
+        {
+          "title": "'韓 축구 에이스' 이강인 날벼락! AT 마드리드 개막전, 강제로 출전 불발...",
+          "description": "이강인이 아틀레티코 마드리드 공식 데뷔전이 미뤄질 수 있다는 주장이 등장했다. 스페인의 에스토 에스 알레티는 17일(한국시각) '말라가와의 경기에 등록되지 않은 아틀레티코 선수 3명'이라며 이강인의 상황을 조명했다....",
+          "link": "https://www.sportschosun.com/football/2026-08-18/202608180100100060006333",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/076/0004436637",
+          "pub_date": "Tue, 18 Aug 2026 01:35:00 +0900"
+        },
+        {
+          "title": "'바르셀로나행 사실상 확정' 로드리, 미친 이적료 공개됐다! 기본급은 ...",
+          "description": "로드리는 이로써 월드컵, 유럽선수권대회, 유럽챔피언스리그 우승에 발롱도르까지 수상한 축구 역사상... 바르셀로나식 축구에 더 큰 관심을 보였다. 바르셀로나는 적극적인 협상으로 기류를 바꿨다. 스페인의...",
+          "link": "https://www.sportschosun.com/football/2026-08-17/202608170100098950006264",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/076/0004436636",
+          "pub_date": "Tue, 18 Aug 2026 01:30:00 +0900"
+        },
         {
           "title": "韓 팬과 눈 마주치자 한국어로 \"감사합니다\"+쏘니 '찰칵'까지...포로가 ...",
           "description": "축구 콘텐츠 매체 'Men in Blazers'는 지난달 3일(이하 한국시간) 월드컵 기간 동안 미국 로스앤젤레스... 특히 당시 팬이 대한민국 축구대표팀 유니폼을 입고 있었고, 포로가 한국어로 먼저 인사를 건넨 것으로 알려지면서...",
@@ -32,48 +74,6 @@
           "link": "http://www.osen.co.kr/article/G1112858915",
           "naver_link": "https://m.sports.naver.com/kfootball/article/109/0005590312",
           "pub_date": "Tue, 18 Aug 2026 01:14:00 +0900"
-        },
-        {
-          "title": "이강인 '7번' 달았는데 더 놀라운 기록 있었다…ATM 역대 최고 투자 8위...",
-          "description": "이날 행사에는 아틀레티코 레전드 다비드 비야와 카를로스 부세로 축구 총괄 디렉터 등이 참석했고... 아틀레티코가 축구를 대하는 진지하고 열성적인 방식을 보며 (축구인으로서) 즐거움을 느꼈다\"고 밝혔다. 등번호 7에...",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1002353",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/477/0000623748",
-          "pub_date": "Tue, 18 Aug 2026 01:14:00 +0900"
-        },
-        {
-          "title": "HERE WE GO! 손흥민 우승 멤버 또 떠난다...토트넘 '유로파 결승 슈퍼세...",
-          "description": "유럽 축구 이적시장 전문가 파브리치오 로마노는 지난 17일(한국시간) \"유벤투스가 토트넘과 비카리오 영입에 합의했다. 임대 후 완전 이적 형태이며, 해당 옵션은 의무 조항이 아니다\"라며 'HERE WE GO'를 선언했다. 이로써...",
-          "link": "https://mhnse.com/news/articleView.html?idxno=1492660",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/445/0000451769",
-          "pub_date": "Tue, 18 Aug 2026 01:01:00 +0900"
-        },
-        {
-          "title": "휴대폰 막았더니 학습용 태블릿으로… ‘PC방’ 된 교실",
-          "description": "수업 시간 내내 웹툰과 온라인 축구 기사를 본 것이다. 얼마나 여러 사이트를 들락날락했는지 확인하려고 접속 기록을 인쇄했는데 몇십 장을 해도 끝나지 않아 중간에 멈춰야 했다. C씨는 “하루 이틀이 아니고 거의 매일...",
-          "link": "https://www.chosun.com/national/education/2026/08/18/UU6L7I3V2FC2PNRW2MM3IOOQDM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-          "naver_link": "https://n.news.naver.com/mnews/article/023/0003993461?sid=102",
-          "pub_date": "Tue, 18 Aug 2026 00:45:00 +0900"
-        },
-        {
-          "title": "‘월드컵 MVP’ 로드리, 바르셀로나 이적 합의",
-          "description": "맨시티 유니폼을 입고 지난 7시즌 동안 잉글랜드 프리미어리그(EPL) 우승 4회와 유럽축구연맹(UEFA) 챔피언스리그 우승 1회 등 총 11회 정상에 올랐다. 2024년에는 세계 최고의 선수에게 주어지는 발롱도르 수상의 영광을...",
-          "link": "https://www.chosun.com/sports/world-football/2026/08/18/6VZCZOKRHBD6LJQVVLEA7R2FNI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/023/0003993456",
-          "pub_date": "Tue, 18 Aug 2026 00:43:00 +0900"
-        },
-        {
-          "title": "인제군, 고향사랑기부제 지정기부사업 4개 선정",
-          "description": "최북단 마을 서성분교의 두 번째 이야기 서성분교 체육관 리모델링 프로젝트는 폐교된 서화초교 서성분교 체육관을 리모델링해 피클볼, 플로어 컬링, 드론 축구 등을 즐길 수 있는 다목적 실내체육관으로 조성하는...",
-          "link": "https://www.cnbnews.com/news/articleView.html?idxno=1011691",
-          "naver_link": "https://www.cnbnews.com/news/articleView.html?idxno=1011691",
-          "pub_date": "Tue, 18 Aug 2026 00:42:00 +0900"
-        },
-        {
-          "title": "'지르크지 대체자 벌써 찾았다?' 맨체스터 유나이티드, '194cm 크로아티아...",
-          "description": "2026 국제축구연맹(FIFA) 북중미 월드컵 최종 명단에 이름을 올렸고, 3경기에 출전하며 경험을 쌓았다. 결국 맨유의 관심으로 이어졌다. 영국 '커트 오프사이드'는 17일(한국시간) \"맨유가 마타노비치의 잠재적인 영입을...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96526",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/411/0000085994",
-          "pub_date": "Tue, 18 Aug 2026 00:35:00 +0900"
         }
       ]
     }
