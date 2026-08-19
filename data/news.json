@@ -1,10 +1,52 @@
 {
-  "updated_at": "2026-08-20T02:22:55.042231+09:00",
+  "updated_at": "2026-08-20T03:28:51.708233+09:00",
   "interval_hours": 1.0,
   "categories": [
     {
       "keyword": "축구",
       "items": [
+        {
+          "title": "[오피셜] 위기의 전남, 'AG 금메달리스트' 장윤호 영입…\"팀의 반등 위해...",
+          "description": "아시아축구연맹(AFC) 챔피언스리그(ACL) 우승을 경험했고, 2018년에는 대한민국 U23 국가대표팀의 일원으로 제18회 자카르타·팔렘방 아시안게임에 출전해 남자 축구 금메달을 목에 걸었다. 이후 인천유나이티드...",
+          "link": "https://www.goal.com/kr/뉴스/a/blta6b39d9f60fdd3da",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/216/0000142271",
+          "pub_date": "Thu, 20 Aug 2026 03:18:00 +0900"
+        },
+        {
+          "title": "이강인 ‘벤치 출발!’ 리그 개막전, 선발 출전 대신 교체 투입 유력, A...",
+          "description": "축구 통계 사이트 ‘풋몹’은 이번 개막전 이강인 선발 출전할 것으로 전망했지만, 벤치에 앉아 말라가전을 시작하게 됐다. 이강인은 후반에 교체 투입될 가능성이 있다. 아틀레티코는 4일 뒤 비야레알과 라리가...",
+          "link": "https://sports.khan.co.kr/article/202608200316003?pt=nv",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/144/0001132783",
+          "pub_date": "Thu, 20 Aug 2026 03:17:00 +0900"
+        },
+        {
+          "title": "[오피셜] 충북청주FC, '포르투갈 연령별 대표·베테랑 미드필더' 제랄데...",
+          "description": "충북청주프로축구단(대표이사 김현주, 이하 충북청주FC)이 서울 이랜드 FC(이하 서울 이랜드)에서... 2025년에는 브라질 아틀레치크 클루브에서 활약하며 남미 축구까지 경험했고, 올 시즌 서울 이랜드에...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96634",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/411/0000086094",
+          "pub_date": "Thu, 20 Aug 2026 03:03:00 +0900"
+        },
+        {
+          "title": "축구협회 심판 성접대, 日 이어 중국도 칼 빼들었다! 강력 처벌 시사…...",
+          "description": "과거 대한축구협회의 외국인 심판 접대 의혹의 파장이 중국으로까지 번졌다. 알본축구협회에 이어 이번에는 중국축구협회가 직접 움직였다. 중국 넷이즈는 19일 \"중국축구협회는 대한축구협회의 중국 관계자에 대한...",
+          "link": "https://www.xportsnews.com/article/2185694",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/311/0002047147",
+          "pub_date": "Thu, 20 Aug 2026 03:00:00 +0900"
+        },
+        {
+          "title": "'신민기 데뷔골' 광주대, 안동과학대 꺾고 제21회 황가람기 1,2학년대학...",
+          "description": "호남권 대학축구 강자 광주대학교 축구부가 18일 합천군민체육공원 인조 2구장에서 열린 제21회 황가람기 1,2학년대학축구연맹전 겸 한·일 교류 선발전 7조 마지막 라운드에서 안동과학대를 4-0으로 꺾고 16강 본선행...",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3669067",
+          "naver_link": "https://www.gukjenews.com/news/articleView.html?idxno=3669067",
+          "pub_date": "Thu, 20 Aug 2026 02:48:00 +0900"
+        },
+        {
+          "title": "이럴 수가! '韓 에이스' 이강인은 단돈 '0원', 로메로는 100,000,000원...AT...",
+          "description": "이어 '오르티스는 지금까지 프리메라 페데라시온에서 뛰었기에 이번에 처음으로 프로 축구 선수로 등록된다. 반면 이강인은 발렌시아와 마요르카에서 스페인 프로 선수로 등록되어 있기 때문에 등록비를 납부할 필요가...",
+          "link": "https://www.sportschosun.com/football/2026-08-20/202608200100116180007388",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/076/0004437522",
+          "pub_date": "Thu, 20 Aug 2026 02:47:00 +0900"
+        },
         {
           "title": "[오피셜] '일본 PL 10명 현실이 됐다' 스즈키, PSG 아닌 A.빌라 이적 완료",
           "description": "이어 2026 국제축구연맹(FIFA) 북중미 월드컵 본선 무대에서도 일본의 주전 골키퍼로 활약했다. 그는 1승 2무 조 2위 진출을 이끌고, 32강 브라질전 등에서 결정적인 선방을 이어가며 유럽 빅클럽들의 눈도장을 찍었다. 최근...",
@@ -32,48 +74,6 @@
           "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1002672",
           "naver_link": "https://m.sports.naver.com/kfootball/article/477/0000624022",
           "pub_date": "Thu, 20 Aug 2026 01:46:00 +0900"
-        },
-        {
-          "title": "일본 \"韓 성접대 1980년대부터 당연한 것 처럼 존재\" 주장까지...日 축구...",
-          "description": "대한축구협회(KFA)를 둘러싼 외국인 심판 성접대 의혹의 파장이 좀처럼 가라앉지 않고 있다. 일본 매체 '히가시스포웹'은 18일(이하 한국시간) \"미야모토 츠네야스 일본축구협회(JFA) 회장이 KFA의 외국인 심판 성접대...",
-          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553470666",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/139/0002251949",
-          "pub_date": "Thu, 20 Aug 2026 01:35:00 +0900"
-        },
-        {
-          "title": "'전설' 루니의 믿음, \"래시포드? 마음만 다잡으면 내 기록 깰 수 있는 선...",
-          "description": "미트윌란과의 유럽축구연맹(UEFA) 유로파리그 데뷔전에서 멀티골을 터뜨린 것을 시작으로 아스널과의... 이후 2026 국제축구연맹(FIFA) 월드컵에서 잉글랜드의 4강 진출 과정에서도 활약한 뒤 다시 맨유로 돌아왔다. 한때...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96627",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/411/0000086090",
-          "pub_date": "Thu, 20 Aug 2026 01:25:00 +0900"
-        },
-        {
-          "title": "2026년 세계 로봇 컨퍼런스 개막… 베이징서 최첨단 로봇 기술 첫선",
-          "description": "AFP 19일(현지시간) 로봇들이 2026년 세계 로봇 컨퍼런스에서 축구 경기를 펼치고 있다. \"인간-로봇 공생, 생산-수요 융합\"을 주제로 한 이번 컨퍼런스는 수요일 베이징에서 개막했다.",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3669065",
-          "naver_link": "https://www.gukjenews.com/news/articleView.html?idxno=3669065",
-          "pub_date": "Thu, 20 Aug 2026 01:16:00 +0900"
-        },
-        {
-          "title": "정상 노리는 야구·축구… 비상 꿈꾸는 농구·배구",
-          "description": "2026 아이치·나고야 아시안게임 개막까지 한 달을 앞둔 야구 축구 농구 배구 등 구기 종목 대표팀은 각기 다른 목표를 갖고 대회를 준비한다. 최정상을 지켜온 야구와 축구는 대회 사상 최초의 5연패와 4연패에 각각...",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000004561&cp=nv",
-          "naver_link": "https://m.sports.naver.com/general/article/005/0001867888",
-          "pub_date": "Thu, 20 Aug 2026 01:15:00 +0900"
-        },
-        {
-          "title": "\"K리그 심판만 문제가 아니네\"... J리그 심판 후려친 日 전설 혼다 \"하부...",
-          "description": "전 일본 축구 국가대표 혼다 케이스케(40)가 자국 축구 심판의 수준을 깎아내리는 발언을 해 논란이다. 일본 '사커 다이제스트'는 19일 혼다가 자신의 소셜미디어(SNS)에 \"(J2리그 심판도 문제지만) 관동 리그 수준의 심판이...",
-          "link": "https://www.starnewskorea.com/sports/2026/08/20/2026082000292053062",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/108/0003463509",
-          "pub_date": "Thu, 20 Aug 2026 01:02:00 +0900"
-        },
-        {
-          "title": "\"너무 슬퍼보인다\"...'바르셀로나 이적 실패' 알바레즈, 새 시즌 프로필...",
-          "description": "알바레즈는 아르헨티나 축구 국가대표 스트라이커다. 리버 플레이트, 맨체스터 시티를 거쳐 2024-25시즌 아틀레티코로 이적했다. 데뷔 시즌부터 57경기 29골 8도움을 터뜨리며 에이스로 자리매김 하는 데 성공했고...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692845",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000222651",
-          "pub_date": "Thu, 20 Aug 2026 01:00:00 +0900"
         }
       ]
     }
