@@ -1,10 +1,59 @@
 {
-  "updated_at": "2026-08-21T00:29:12.698912+09:00",
+  "updated_at": "2026-08-21T01:30:18.804242+09:00",
   "interval_hours": 1.0,
   "categories": [
     {
       "keyword": "축구",
       "items": [
+        {
+          "title": "깜짝 폭로! '韓 축구 미래' 김민수 미쳤다, '제2의 이강인' 대신 파격 이...",
+          "description": "김민수의 이적 가능성이 등장했다. 행선지 후보는 스코틀랜드다. 지로나 소식에 정통한 유력 기자 이반 키로스는 20일(한국시각) '김민수가 레인저스의 제안을 수락했다'고 보도했다. 키로스는 '지로나는 1000만 유로(약...",
+          "link": "https://www.sportschosun.com/football/2026-08-21/202608210100123670007849",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/076/0004437894",
+          "pub_date": "Fri, 21 Aug 2026 01:06:00 +0900"
+        },
+        {
+          "title": "‘상식 통하는’ 베트남 축구, 동남아 정상 성큼",
+          "description": "김상식 감독이 지휘하는 베트남 축구대표팀은 19일 베트남 하노이의 미딘국립경기장에서 열린 2026 아세안... 대회 2연패에 도전하는 베트남의 마지막 상대는 동남아시아 축구의 전통적인 라이벌 태국이다. 베트남은...",
+          "link": "https://sports.khan.co.kr/article/202608210100006?pt=nv",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/144/0001133021",
+          "pub_date": "Fri, 21 Aug 2026 01:00:00 +0900"
+        },
+        {
+          "title": "[패트롤] 과천시의회-안산시의회-의왕시의회-의정부시의회",
+          "description": "비롯해 △의정부문화관광재단 △바둑전용경기장 △청년다락방 △녹양보조축구장에 들러 각 시설과 기관... 이외에도 행정복지위원회는 녹양보조축구장 등 최근 조성된 시설을 찾아 운영 상황을 점검하고 현장 민원...",
+          "link": "https://www.ekn.kr/web/view.php?key=20260821021084865",
+          "naver_link": "https://www.ekn.kr/web/view.php?key=20260821021084865",
+          "pub_date": "Fri, 21 Aug 2026 00:52:00 +0900"
+        },
+        {
+          "title": "인천항 내항, K팝 공연장 품은 ‘오션 파크’ 변신",
+          "description": "공원 면적은 16만㎡로 축구장 22개 크기다. 나머지 부지에는 2만석 규모의 K팝 공연장과 쇼핑몰, 주상복합 등이 들어설 예정이다. 바다를 보며 달릴 수 있는 2㎞짜리 ‘오션뷰 러닝 코스’도 조성한다. 인천시는 맥아더...",
+          "link": "https://www.chosun.com/national/regional/2026/08/21/BMGREUUTSBHGFKKEYR5FLZPA2A/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "naver_link": "https://n.news.naver.com/mnews/article/023/0003994119?sid=102",
+          "pub_date": "Fri, 21 Aug 2026 00:45:00 +0900"
+        },
+        {
+          "title": "오늘부터 고교축구선수권대회 32강전",
+          "description": "첫판부터 작년 결승전 두팀 맞대결 지난해 결승에서 맞붙었던 고교 축구 강호 매탄고(수원 삼성 유스)와 금호고(광주FC 유스)가 이번엔 토너먼트 첫판에 만난다. 제81회 전국고교축구선수권대회 겸 2026...",
+          "link": "https://www.chosun.com/sports/football/2026/08/21/25JMF4HC65C5VOP46K6KRBR3IY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/023/0003994106",
+          "pub_date": "Fri, 21 Aug 2026 00:41:00 +0900"
+        },
+        {
+          "title": "13분 만에 보여준 ‘7번’의 자격",
+          "description": "이강인, AT마드리드 데뷔전 결승골 아틀레티코(AT) 마드리드로 이적한 한국 축구의 에이스 이강인(25)이 공식... 왼발을 잘 쓰며 크지 않은 체격에도 정교한 기술과 넓은 시야, 탁월한 축구 지능을 앞세워 경기 흐름을...",
+          "link": "https://www.chosun.com/sports/world-football/2026/08/21/DKVXWZLBMRGTXGGF4YEDWREKNU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/023/0003994103",
+          "pub_date": "Fri, 21 Aug 2026 00:41:00 +0900"
+        },
+        {
+          "title": "김상식의 베트남 축구, 아세안 챔피언십 결승행",
+          "description": "베트남 축구 대표팀을 ‘동남아 월드컵’으로 불리는 2026 아세안 챔피언십(현대컵) 결승으로 이끌었다.... 동남아시아 축구 최강자를 가리는 이번 대회는 과거 스즈키컵, 미쓰비시컵 등의 이름으로 열렸으며, 올해...",
+          "link": "https://www.chosun.com/sports/football/2026/08/21/LWCPL5LZORBSZN2ZTKKGTLDIWA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/023/0003994104",
+          "pub_date": "Fri, 21 Aug 2026 00:41:00 +0900"
+        },
         {
           "title": "마이리얼트립, LAFC VIP 프로그램 성료",
           "description": "/마이리얼트립 제공 | 서울=한스경제 박종민 기자 | 마이리얼트립이 올해 2차례 미국프로축구 메이저리그사커(MLS) LAFC의 홈 경기에서 단독 VIP 프로그램인 '머니 캔트 바이 익스피리언스(Money Can't Buy Experience·MCBE)'를...",
@@ -25,55 +74,6 @@
           "link": "https://isplus.com/article/view/isp202608200110",
           "naver_link": "https://m.sports.naver.com/wfootball/article/241/0003526293",
           "pub_date": "Fri, 21 Aug 2026 00:21:00 +0900"
-        },
-        {
-          "title": "규율 대신 자율, 목표는 더욱 단단해진 ‘팀 코리아’",
-          "description": "여기에다 경기장 역시 수영·승마 등이 도쿄에서 열리고, 축구·사이클은 시즈오카, 여자축구·하키는 기후에서 치러진다. 경기장이 분산돼 열리는 만큼 선수단 지원이 어느 때보다 체계적이고 유기적으로 이뤄져야...",
-          "link": "https://www.mk.co.kr/article/12132788",
-          "naver_link": "https://m.sports.naver.com/general/article/009/0005723800",
-          "pub_date": "Fri, 21 Aug 2026 00:05:00 +0900"
-        },
-        {
-          "title": "‘될놈될’ 전웅태, 근대5종 金 정조준…AG 3연패 도전",
-          "description": "이들은 수영과 근대5종, 축구 등 다양한 종목에서 조국의 명예를 드높일 예정이다. 강원일보는 개막을 한 달 앞두고 아이치·나고야를 빛낼 강원 스타들의 도전을 차례로 소개한다. 강원 선수단의 금빛 레이스를 가장...",
-          "link": "https://www.kwnews.co.kr/article/20260820501333",
-          "naver_link": "https://m.sports.naver.com/general/article/087/0001212609",
-          "pub_date": "Fri, 21 Aug 2026 00:03:00 +0900"
-        },
-        {
-          "title": "이동경, 전북 골문 정조준…울산 연패 탈출 이끈다",
-          "description": "▲ 이동경 울산HD 제공프로축구 울산HD가 전북현대를 상대로 올 시즌 첫 승리에 도전한다. 최근 공격포인트 행진을 이어가고 있는 이동경과 날카로워진 세트피스를 앞세워 전북전 연패 탈출에 나선다. 울산은 오는...",
-          "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1065077",
-          "naver_link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1065077",
-          "pub_date": "Fri, 21 Aug 2026 00:02:00 +0900"
-        },
-        {
-          "title": "‘이젠 강인 시대’ 이강인, AT 마드리드 데뷔전 & 라리가 복귀전 결승...",
-          "description": "한 때 한국축구의 자랑거리였던 유럽 빅리거들이 하나 둘씩 사라지는 요즘이다. 토트넘(잉글랜드)서 뜨거운 10년을 보낸 손흥민이 LAFC(미국)로 향한 뒤 확실한 존재감을 보이는 선수가 줄었다. 바이에른 뮌헨(독일)...",
-          "link": "https://sports.donga.com/sports/article/all/20260820/134510890/1",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/382/0001289280",
-          "pub_date": "Fri, 21 Aug 2026 00:02:00 +0900"
-        },
-        {
-          "title": "춘천 ‘송암 스포츠클러스터’ 조성 박차",
-          "description": "다목적체육관·축구전용경기장 건립, 국제스케이트장 유치 선정 및 국비 확보에 총력을 기울이고 있다.... 축구전용경기장은 총사업비 1,581억 원이 투입되는 초대형 프로젝트다. 아시아축구연맹(AFC)·국제축구연맹...",
-          "link": "https://www.kwnews.co.kr/article/20260820500506",
-          "naver_link": "https://n.news.naver.com/mnews/article/087/0001212604?sid=100",
-          "pub_date": "Fri, 21 Aug 2026 00:02:00 +0900"
-        },
-        {
-          "title": "“뛰고 또 뛰어야 이긴다”…김우재 감독이 바꾸는 춘천의 축구",
-          "description": "춘천시민축구단 지휘봉을 잡은 김우재 감독이 ‘뛰는 축구’와 ‘조직력’을 앞세워 반등을 이끌고 있다. 부임 두 달이 채 지나지 않은 그는 20일 본보와의 인터뷰에서 “선수에게 레전드가 있듯 지도자에게도 레전드가...",
-          "link": "https://www.kwnews.co.kr/article/20260820501234",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/087/0001212599",
-          "pub_date": "Fri, 21 Aug 2026 00:02:00 +0900"
-        },
-        {
-          "title": "[그래도 K리그] 22년 애증의 안양-서울 '연고지 더비', 이번엔 끝장 낸다",
-          "description": "서울의 전신 구단이 2004년 안양을 떠나 서울로 이동한 뒤 안양 축구팬들이 시민구단 창단 운동을 벌였고, 2013년 FC안양이 출범했다. 이를 두고 안양과 서울 양측의 역사적 해석은 여전히 엇갈린다. 그만큼 두 팀의...",
-          "link": "https://news.tf.co.kr/read/soccer/2356058.htm",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/629/0000526250",
-          "pub_date": "Fri, 21 Aug 2026 00:01:00 +0900"
         }
       ]
     }
