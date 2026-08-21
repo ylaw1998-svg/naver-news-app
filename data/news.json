@@ -1,72 +1,79 @@
 {
-  "updated_at": "2026-08-21T20:21:05.506525+09:00",
+  "updated_at": "2026-08-21T21:38:32.699184+09:00",
   "interval_hours": 1.0,
   "categories": [
     {
       "keyword": "축구",
       "items": [
         {
-          "title": "'한국발 성접대' 발칵 뒤집혔던 일본…\"정황 없음\" 서둘러 종료",
-          "description": "대한축구협회의 심판 성접대 의혹과 관련해 일본축구협회가 조사결과를 내놨습니다. 심판 7명 모두 혐의가 없다는 내용입니다. 하지만, 조사가 너무 허술하단 지적이 잇따르고 있습니다. 증거 확보 없이 심판들의...",
-          "link": "https://news.jtbc.co.kr/article/NB12314467?influxDiv=NAVER",
-          "naver_link": "https://n.news.naver.com/mnews/article/437/0000507311?sid=104",
-          "pub_date": "Fri, 21 Aug 2026 20:10:00 +0900"
+          "title": "전북현대, 내일 안방서 울산과 '현대가 더비'",
+          "description": "프로축구 전북현대가 내일 저녁 7시 30분 전주월드컵경기장에서 울산과 K리그1 24라운드 맞대결을... 3부리그인 당진시민축구단에 패해 코리아컵 16강에서 탈락하는 등 부진한 모습을 보이고 있습니다. (JTV 전주방송)",
+          "link": "https://jtv.co.kr/news/article.php?id=70688",
+          "naver_link": "https://jtv.co.kr/news/article.php?id=70688",
+          "pub_date": "Fri, 21 Aug 2026 21:32:00 +0900"
         },
         {
-          "title": "\"레알에 야말 낄 자리 없어\"...무리뉴, 입담 여전하다! \"영입할 수 있어...",
-          "description": "야말은 스페인 축구 국가대표로 바르셀로나에서 활약하고 있는 윙포워드다. 2007년생으로 어린 나이임에도 벌써 바르셀로나의 에이스가 됐다. 통산 151경기 49골 52도움을 올렸으며 리오넬 메시의 뒤를 이을 재목으로...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692964",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000222736",
-          "pub_date": "Fri, 21 Aug 2026 19:55:00 +0900"
+          "title": "쉬는 날 식당 찾은 소방관...기도 막힌 80대 할머니 구해",
+          "description": "정 소방장은 3년 전에도 비번 날 여수에서 열린 축구대회에 참가해 쓰러진 다른 팀 선수를 심폐소생술로 구했습니다. 구조대원으로 근무한 지 8년째, 할 일을 할 때 가장 보람차다는 정 소방장. ▶ 인터뷰 : 정현균...",
+          "link": "https://www.ikbc.co.kr/article/view/kbc202608210076",
+          "naver_link": "https://n.news.naver.com/mnews/article/660/0000115631?sid=102",
+          "pub_date": "Fri, 21 Aug 2026 21:23:00 +0900"
         },
         {
-          "title": "'축구 신동' 18세 김예건, 벌써 유럽 진출 임박... 설영우 뛰는 즈베즈다...",
-          "description": "어린 시절부터 축구 신동으로 불리며 올해 7월 전북 현대와 프로 계약까지 체결했던 김예건(18)이 유럽... 축구계에 따르면 이미 구단 간 합의까지 끝나 김예건은 이르면 이번 주 중 출국할 예정이다. 현지 보도에 따르면...",
-          "link": "https://www.starnewskorea.com/sports/2026/08/21/2026082119315073987",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/108/0003464173",
-          "pub_date": "Fri, 21 Aug 2026 19:53:00 +0900"
+          "title": "\"골은 축하하면서 왜 눈을 찢나\"...ATM 팬, 이강인 득점 직후 인종차별 ...",
+          "description": "불과 몇 달 전 2026 국제축구연맹(FIFA) 북중미월드컵에서도 한국과 멕시코의 경기 도중 현지 팬이 한국인을... 세계적인 대회에서 문제가 불거진 지 오래 지나지 않아 유럽 축구 현장에서 다시 같은 장면이 나왔다....",
+          "link": "http://www.osen.co.kr/article/G1112861318",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/109/0005592829",
+          "pub_date": "Fri, 21 Aug 2026 21:19:00 +0900"
         },
         {
-          "title": "'즉시전력감' 김예건, 즈베즈다 러브콜에 마음 움직인 이유 '부딪치며 ...",
-          "description": "21일 축구계 관계자들은 김예건의 이적을 놓고 전북현대와 즈베즈다가 협상했으며, 선수까지 삼자 합의가 됐기 때문에 성사 가능성이 높다고 전했다. 유럽 이적시장 기준으로 보면 '히어 위 고'까지 도달한 상황이다....",
-          "link": "http://www.footballist.co.kr/news/articleView.html?idxno=213779",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/436/0000112525",
-          "pub_date": "Fri, 21 Aug 2026 19:48:00 +0900"
+          "title": "이렇게 강력한 스쿼드 가진 팀 있었나...'PL 디펜딩 챔피언' 아스널, '英...",
+          "description": "콘사는 잉글랜드 축구 국가대표 센터백이다. 오른쪽 풀백 역시 소화 가능하다. 찰튼 애슬레틱과 브렌트포드를 거쳐 2019-20시즌 빌라로 이적해 줄곧 핵심 멤버로 활약했다. 특히 지난 시즌은 48경기에 출전하며 UEFA...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=692966",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000222738",
+          "pub_date": "Fri, 21 Aug 2026 21:15:00 +0900"
         },
         {
-          "title": "전북 현대, 내일 울산과 홈 경기…“분위기 반전”",
-          "description": "안정적인 수비 라인을 구축해 반드시 승리하겠다는 각오입니다. 전북은 최근 제주 SK에 1대 3, 부천 FC에 2대 3으로 연달아 패한 뒤, 코리아컵에서도 3부리그 당진시민축구단에 승부차기 끝에 충격패를 당했습니다.",
-          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8643025&ref=A",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/056/0012242239",
-          "pub_date": "Fri, 21 Aug 2026 19:44:00 +0900"
+          "title": "英 BBC ‘반전!’ 한국에서 ‘이강인 데뷔전’ 망가뜨린 맨시티 FW, 손흥...",
+          "description": "마르무시는 최근 많은 한국 축구 팬들에게 인상적인 활약을 선보였던 공격수다. 그는 맨시티 소속으로 8월 초... 지난 9일 많은 축구 팬이 이강인의 아틀레티코 데뷔전을 보기 위해 서울월드컵경기장에 모였다. 실제로...",
+          "link": "https://sports.khan.co.kr/article/202608212112003?pt=nv",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/144/0001133206",
+          "pub_date": "Fri, 21 Aug 2026 21:13:00 +0900"
         },
         {
-          "title": "'아스널행? 제가 거절합니다!' 알바레스, 아틀레티코가 판매 허락했는데...",
-          "description": "2022-23시즌에는 프리미어리그와 유럽축구연맹(UEFA) 챔피언스리그, FA컵을 동시에 제패하며 '트레블'까지 경험했다. 아르헨티나 대표팀에서는 더욱 화려했다. 2022 카타르 월드컵에서 4골을 터뜨리며 리오넬 메시와 함께...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96716",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/411/0000086167",
-          "pub_date": "Fri, 21 Aug 2026 19:40:00 +0900"
+          "title": "시원하게 즐기고 화끈하게 승리한다! 천안시티FC, 선두 수원 상대로 홈...",
+          "description": "천안시민프로축구단(천안시티FC, 이하 천안)이 오는 22일(토) 오후 7시 30분 천안종합운동장에서 열리는... 경기장에서는 워터캐논을 활용한 물놀이, 물총 등을 통해 축구와 여름 축제를 동시에 즐길 수 있는 다채로운...",
+          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553476792",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/139/0002252046",
+          "pub_date": "Fri, 21 Aug 2026 21:11:00 +0900"
         },
         {
-          "title": "오현규·조규성, 유럽 대항전서 나란히 헤더로 시즌 첫 득점포 가동",
-          "description": "한국 축구 대표팀 공격수 오현규(베식타시)와 조규성(미트윌란)이 나란히 머리로 시즌 마수걸이 골을... 유럽축구연맹(UEFA) 유로파리그(UEL) 플레이오프(PO) 1차전 안방경기에 최전방 공격수로 선발 출전했다. 오현규는...",
-          "link": "https://www.donga.com/news/Sports/article/all/20260821/134518833/1",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/020/0003742538",
-          "pub_date": "Fri, 21 Aug 2026 19:36:00 +0900"
+          "title": "미 워싱턴함, 중동 도착해 임무 교대…인태 안보 흔들리나?",
+          "description": "길이 333미터로, 축구장 3개를 이어 붙인 것과 비슷한 크기입니다. 전투기와 조기경보기, 헬기 등 수십 대의 항공기를 실을 수 있어 '떠다니는 공군기지'로도 불립니다. 일본 인근에 전진 배치돼 있던 워싱턴함이 최근 모항인...",
+          "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8643060&ref=A",
+          "naver_link": "https://n.news.naver.com/mnews/article/056/0012242265?sid=104",
+          "pub_date": "Fri, 21 Aug 2026 21:09:00 +0900"
         },
         {
-          "title": "\"올드 트래퍼드 이적 열려 있어\" 맨유 초대박! 마침내 왼쪽 풀백 보강하...",
-          "description": "축구 전문 매체 '트리뷰나'는 21일(이하 한국시간) \"맨유가 뉴캐슬의 왼쪽 풀백 홀에게 여전히 관심을 보이고 있으며, 21세의 홀 역시 올드 트래퍼드 이적에 열려 있다\"고 전했다. 보도에 따르면 홀은 맨유를 자신의...",
-          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553476719",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/139/0002252043",
-          "pub_date": "Fri, 21 Aug 2026 19:33:00 +0900"
+          "title": "오! 조!…나란히 머리로 시즌 1호 골 신고!",
+          "description": "→ [원문에서 영상 보기] https://news.sbs.co.kr/n/?id=N1008716269 축구대표팀 공격수 오현규와 조규성 선수가 유럽 클럽대항전 플레이오프에서 나란히 시즌 첫 골을 터뜨렸습니다. 두 선수 모두 머리를 잘 써서 팀 승리에...",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008716269&plink=ORI&cooper=NAVER",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/055/0001382513",
+          "pub_date": "Fri, 21 Aug 2026 21:04:00 +0900"
         },
         {
-          "title": "2026 K리그 추가등록 기간 마감, 총 113명 등록… 광주FC 14명 최다",
-          "description": "사진=한국프로축구연맹 제공 2026시즌 K리그 추가등록 기간이 마감됐다. 총 113명이 등록됐다. 한국프로축구연맹은 21일 “지난 7월9일부터 지난 19일까지 약 6주간 선수 추가등록을 진행한 결과 K리그1과...",
-          "link": "https://www.sportsworldi.com/newsView/20260821513321",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/396/0000753013",
-          "pub_date": "Fri, 21 Aug 2026 19:24:00 +0900"
+          "title": "'루이스 홀 놓치자 바르사 주전에게 전화!' 맨유, 22세 발데 영입 시도→...",
+          "description": "바르셀로나의 축구에도 잘 어울린다. 아직 22세에 불과하다는 점까지 고려하면 앞으로의 성장 가능성도 충분하다. 큰 무대 경험도 풍부하다. 어린 나이부터 라리가와 유럽축구연맹(UEFA) 챔피언스리그 무대를 경험했고...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96719",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/411/0000086169",
+          "pub_date": "Fri, 21 Aug 2026 20:50:00 +0900"
+        },
+        {
+          "title": "학교 앞 600m에 채석 단지..'환갑까지 파헤칠라' 주민 반발",
+          "description": "◀ 앵 커 ▶ 초등학교에서 불과 600미터 떨어진 곳에 축구장 47개 크기의 대형 채석 단지가 추진돼 주민과... 축구장 47개 크기에 달하는 대규모 채석이 추진되는 기간만 무려 30년. 주민들은 관행적인 연장까지 감안하면...",
+          "link": "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20260821&SEQUENCE=0119",
+          "naver_link": "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20260821&SEQUENCE=0119",
+          "pub_date": "Fri, 21 Aug 2026 20:48:00 +0900"
         }
       ]
     }
