@@ -1,10 +1,59 @@
 {
-  "updated_at": "2026-08-22T01:28:27.989342+09:00",
+  "updated_at": "2026-08-22T02:24:23.806266+09:00",
   "interval_hours": 1.0,
   "categories": [
     {
       "keyword": "축구",
       "items": [
+        {
+          "title": "대한민국 월드컵 개최, 영영 불가능인가…미국→독일·프랑스 이어 잉글...",
+          "description": "한국에서 다시 국제축구연맹(FIFA) 월드컵이 열리는 모습을 보려면 얼마나 기다려야 할까. 미국의 재개최, 독일·프랑스 공동 개최 가능성에 이어 축구종가 잉글랜드 등 영국도 월드컵을 다시 유치하는데 관심을...",
+          "link": "https://www.xportsnews.com/article/2186589",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/311/0002048040",
+          "pub_date": "Sat, 22 Aug 2026 02:05:00 +0900"
+        },
+        {
+          "title": "8년 미룬 '코 성형 수술' 결과 공개! 루니, 확 달라진 '콧날'... \"선글라...",
+          "description": "이후 미국 프로축구(MLS) DC 유나이티드 소속이던 2018년 콜로라도 래피즈전에서 거친 충돌로 얼굴이 피투성이가 될 만큼 심각한 두 번째 골절상을 입었다. 당장 수술이 필요했지만 선수 생활과 바쁜 일정 탓에 번번이...",
+          "link": "https://www.starnewskorea.com/sports/2026/08/22/2026082118222481693",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/108/0003464314",
+          "pub_date": "Sat, 22 Aug 2026 01:59:00 +0900"
+        },
+        {
+          "title": "“개인조건 합의→영입 직전 단계, 며칠 내 마무리 예상” 韓 축구 이끌...",
+          "description": "한국 축구를 이끌어갈 미래로 평가받는 김민수(20·지로나)가 스코틀랜드를 대표하는 명문 레인저스행을... 올드 펌 더비는 유구한 전통과 역사를 자랑하는, 전 세계 축구계를 대표하는 더비 중 하나로 스코틀랜드...",
+          "link": "https://www.goal.com/kr/뉴스/a/blte1fcb3f036b2acee",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/216/0000142308",
+          "pub_date": "Sat, 22 Aug 2026 01:52:00 +0900"
+        },
+        {
+          "title": "드디어 꽂았다, 오현규-조규성 시즌 첫 골",
+          "description": "한국 축구 대표팀 공격수 오현규(베식타시)와 조규성(미트윌란)이 나란히 머리로 시즌 마수걸이 골을... 유럽축구연맹(UEFA) 유로파리그(UEL) 플레이오프(PO) 1차전 안방경기에 최전방 공격수로 선발 출전했다. 오현규는...",
+          "link": "https://www.donga.com/news/Sports/article/all/20260822/134522479/2",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/020/0003742596",
+          "pub_date": "Sat, 22 Aug 2026 01:47:00 +0900"
+        },
+        {
+          "title": "외계인이 돌아왔다",
+          "description": "브라질 축구 스타 호나우지뉴가 46세의 나이에 현역으로 복귀한다. 호나우지뉴는 21일 이탈리아 라벤나에서 열린 이탈리아 프로축구 세리에C(3부) 라벤나 입단식에 참석해 등번호 10이 새겨진 유니폼을 들고 팬들...",
+          "link": "https://www.donga.com/news/Sports/article/all/20260822/134522488/2",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/020/0003742594",
+          "pub_date": "Sat, 22 Aug 2026 01:46:00 +0900"
+        },
+        {
+          "title": "남배우가 남장여자를?…연극 '꽃의 비밀' 9월 개막",
+          "description": "‘꽃의 비밀’은 이탈리아 북서부의 작은 시골 마을을 배경으로, 축구에 빠져 집안일을 소홀히 하던 가부장적 남편들이 하루아침에 의문의 사고로 사라지면서 벌어지는 이야기를 그린다. 20만 유로의 보험금을 받기 위해...",
+          "link": "https://www.edaily.co.kr/News/Read?newsId=01246406645549944&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+          "naver_link": "https://n.news.naver.com/mnews/article/018/0006355979?sid=103",
+          "pub_date": "Sat, 22 Aug 2026 01:35:00 +0900"
+        },
+        {
+          "title": "이강인 미쳤다! \"스페인축구협회, 귀화 검토→시민권 가능성 타진\"…ATM...",
+          "description": "스페인축구협회(RFEF)의 귀화 제안을 거절했던 일화까지 다시 조명했다. 아르헨티나 매체 '인포바에(Infobae)... 한국의 축구 유망주들이 출연하는 TV 프로그램 '날아라 슛돌이'를 통해 이름을 알렸다. 당시부터 다른...",
+          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1003064",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/477/0000624315",
+          "pub_date": "Sat, 22 Aug 2026 01:35:00 +0900"
+        },
         {
           "title": "파이어폭스 확장 77개로 가상자산 지갑 탈취망 구성…40개는 니모닉·개...",
           "description": "이용해 축구·농구·NBA·아이스하키 점수를 보여주는 방식으로 동작했다.소켓 연구원 키릴 보이첸코(Kirill... 실제로 40개 악성 확장 중 9개는 과거 축구·농구·NBA·미식축구 점수 앱으로 활동하다가 동일한...",
@@ -25,55 +74,6 @@
           "link": "https://www.starnewskorea.com/sports/2026/08/22/2026082122430096578",
           "naver_link": "https://m.sports.naver.com/kfootball/article/108/0003464311",
           "pub_date": "Sat, 22 Aug 2026 01:07:00 +0900"
-        },
-        {
-          "title": "김병지, 박문성 위원 향해 민사소송 예고 \"정말 몰랐나? 난 칸쿤 안 갔다...",
-          "description": "박문성 축구 해설위원과 박동희 기자를 향해서도 정면 대응에 나섰다. 김병지 대표는 21일 자신의 유튜브... 그는 \"멕시코에 갔던 이유는 대한축구협회 부회장 자격으로 멕시코 경기와 미국 경기를 보고 귀국하기...",
-          "link": "http://www.osen.co.kr/article/G1112861625",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/109/0005592971",
-          "pub_date": "Sat, 22 Aug 2026 01:01:00 +0900"
-        },
-        {
-          "title": "김병지 화 났다! \"나 칸쿤 간 적 없다\"…박문성 해설위원에 정면 반박→...",
-          "description": "멕시코에 갔던 이유는 대한축구협회 부회장 자격으로 멕시코 경기와 미국 경기를 보고 귀국을 했다\"며 \"저는 지금 칸쿤에 간 사람으로 완전히 알고 있고 그렇게 모든 사람들이 오해하고 있다\"고 주장했다. 이어 박문성...",
-          "link": "https://www.xportsnews.com/article/2186580",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/311/0002048034",
-          "pub_date": "Sat, 22 Aug 2026 01:00:00 +0900"
-        },
-        {
-          "title": "주인은 챔스 탈락했는데 남의 챔스는 열린다… 첼시 안방 스탬퍼드 브리...",
-          "description": "이 특별한 경기장에서 경기를 개최할 수 있도록 기회를 준 첼시 FC에 감사한다\"라며 \"스탬퍼드 브리지는 놀라운 역사와 분위기를 가진 세계 축구에서 가장 유명한 경기장 가운데 하나다. 런던에서 열리는 샤흐타르의...",
-          "link": "https://www.besteleven.com/news/articleView.html?idxno=311408",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/343/0000146517",
-          "pub_date": "Sat, 22 Aug 2026 00:53:00 +0900"
-        },
-        {
-          "title": "개막전만 문제가 아니었다… 아스널 '1,414억 신입생' 기마랑이스 부상...",
-          "description": "일단 대체 선수가 있다는 건 다행스럽다. 지난 맨체스터 시티전에서는 데클런 라이스가 기마랑이스를 대신해 투입됐고 스페인 축구 국가대표 미드필더 마르틴 수비멘디도 대기 중이다.",
-          "link": "https://www.besteleven.com/news/articleView.html?idxno=311407",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/343/0000146516",
-          "pub_date": "Sat, 22 Aug 2026 00:45:00 +0900"
-        },
-        {
-          "title": "‘수’를 읽었다… 골이 보였다",
-          "description": "홀란·케인·살라흐… 체스에 푹 빠진 축구 스타들 맨체스터 유나이티드를 이끌었던 전설적인 명장 알렉스 퍼거슨(85)은 “축구와 체스는 닮았다”고 했다. 상대 약점을 집요하게 파고들어야 하고, 단 1초라도 집중력을...",
-          "link": "https://www.chosun.com/sports/sports_general/2026/08/22/WQHINLVOUVBWVNZ2Z3ZLVKSK3E/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-          "naver_link": "https://m.sports.naver.com/general/article/023/0003994280",
-          "pub_date": "Sat, 22 Aug 2026 00:40:00 +0900"
-        },
-        {
-          "title": "금호고, 매탄고 꺾고 작년 결승 패배 설욕",
-          "description": "전국고교축구선수권 16강 올라 K리그 광주FC 유스팀 금호고가 지난해 결승 패배를 설욕하며 16강에 올랐다. 금호고는 21일 안동강변구장에서 열린 제81회 전국고교축구선수권대회 겸 2026 전국고등축구리그 왕중왕전...",
-          "link": "https://www.chosun.com/sports/football/2026/08/22/LAP2XS6HPNEQPJA3SUATXD7PKA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/023/0003994283",
-          "pub_date": "Sat, 22 Aug 2026 00:40:00 +0900"
-        },
-        {
-          "title": "오현규·조규성 시즌 첫 골",
-          "description": "유럽 대항전 PO서 나란히 득점 축구 국가대표팀 공격수 오현규(25·베식타시)와 조규성(28·미트윌란)이... 오현규는 21일 튀르키예 이스탄불에서 열린 카우노 잘기리스(리투아니아)와의 2026-2027 UEFA(유럽축구연맹)...",
-          "link": "https://www.chosun.com/sports/world-football/2026/08/22/SLWPPPDUOFFEDJMLBTAA37UTBU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/023/0003994282",
-          "pub_date": "Sat, 22 Aug 2026 00:40:00 +0900"
         }
       ]
     }
