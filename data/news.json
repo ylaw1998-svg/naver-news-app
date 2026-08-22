@@ -1,10 +1,52 @@
 {
-  "updated_at": "2026-08-23T01:18:43.256393+09:00",
+  "updated_at": "2026-08-23T02:16:51.872505+09:00",
   "interval_hours": 1.0,
   "categories": [
     {
       "keyword": "축구",
       "items": [
+        {
+          "title": "태국 원정 2-0 완승하고도 만족 없다… 김상식 베트남 감독 \"아직 우승 ...",
+          "description": "김태석 기자 김상식 베트남 축구 국가대표팀 감독이 태국 원정 승리에 만족감을 보이면서도 아직 우승이... (동남아시아축구연맹) 아세안 현대컵 결승 1라운드 태국 원정 경기에서 2-0으로 완승했다. 베트남은 후반 17분...",
+          "link": "https://www.besteleven.com/news/articleView.html?idxno=311440",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/343/0000146549",
+          "pub_date": "Sun, 23 Aug 2026 02:14:00 +0900"
+        },
+        {
+          "title": "크래비티 세림, 흑백 셀카로 강렬 비주얼…'ReDeFINE' 컴백 잇는 존재감",
+          "description": "축구 관련 예능과 피지컬 기반 서바이벌 콘텐츠에서 몸을 아끼지 않는 플레이를 선보이며 운동 실력과 팀워크를 동시에 강조했다. 피지컬과 운동을 기반으로 한 이력도 눈에 띈다. 학창 시절 축구와...",
+          "link": "https://www.topstarnews.net/news/articleView.html?idxno=16170560",
+          "naver_link": "https://www.topstarnews.net/news/articleView.html?idxno=16170560",
+          "pub_date": "Sun, 23 Aug 2026 02:12:00 +0900"
+        },
+        {
+          "title": "'김상식호' 베트남, 현대컵 결승 1차전서 태국에 2대 0 완승",
+          "description": "▲ 김상식 감독 김상식 감독이 이끄는 베트남 축구 대표팀이 '난적' 태국과 2026 아세안(ASEAN) 현대컵 결승... 2년마다 열리는 현대컵은 동남아 축구 최강을 가리는 대회로 '동남아의 월드컵'으로 불립니다. 그동안...",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008717049&plink=ORI&cooper=NAVER",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/055/0001382658",
+          "pub_date": "Sun, 23 Aug 2026 01:46:00 +0900"
+        },
+        {
+          "title": "'역대급 무개념' 일본인이 한국인에게 인종차별을 했다...'월드컵 브라질...",
+          "description": "2026 국제축구연맹(FIFA) 북중미 월드컵을 통해 세계적인 화제를 모았던 일본 인플루언서 가믹스가 이번에는... 논란의 출발점이 된 최산의 'BAD' 퍼포먼스는 최근 축구계에서도 큰 관심을 받았다. 최산은 지난 9일 열린...",
+          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1003152",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/477/0000624490",
+          "pub_date": "Sun, 23 Aug 2026 01:46:00 +0900"
+        },
+        {
+          "title": "'프리시즌에 대체 뭘 한 거야?' 맨유, 헐 시티에 0-2 충격패…시어러 \"9...",
+          "description": "새 시즌 첫 경기부터 기대 이하의 경기력을 보여주며 고개를 숙인 가운데, 잉글랜드 축구의 전설 앨런... 시어러는 \"90분 동안 강도 높은 축구를 펼치고, 강한 압박과 많은 에너지를 쏟아낼 준비가 돼 있는 것처럼 보이지...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96783",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/411/0000086228",
+          "pub_date": "Sun, 23 Aug 2026 01:35:00 +0900"
+        },
+        {
+          "title": "29세 선수 사망→하루 뒤 네 아이 아빠까지 숨졌다... '연이틀 참사' 추...",
+          "description": "노튼은 레이싱 선수뿐 아니라 지역 축구클럽에서 유소년 선수들을 지도하는 코치로도 활동했다. 노튼이 코치로 몸담았던 캐슬타운 메트로폴리탄 풋볼클럽은 그의 죽음을 두고 \"가슴이 무너지는 일\"이라며 애도했다....",
+          "link": "https://www.starnewskorea.com/sports/2026/08/23/2026082300251713278",
+          "naver_link": "https://m.sports.naver.com/general/article/108/0003464462",
+          "pub_date": "Sun, 23 Aug 2026 01:32:00 +0900"
+        },
         {
           "title": "리버풀 레전드 소신 발언…\"2180억 선수가 아닌 760억짜리 선수로 보였다...",
           "description": "PL 축구가 어떻게 펼쳐지는지를 배웠고, 이제 어떤 곳인지 알기 때문에 두 번째 시즌을 더 잘 준비했다고... 감독에게는 자신만의 축구 철학이 있다고 생각하며, 이제 우리는 그것을 더욱 발전시키기 위해 노력해야 한다...",
@@ -32,48 +74,6 @@
           "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553477788",
           "naver_link": "https://m.sports.naver.com/kfootball/article/139/0002252103",
           "pub_date": "Sun, 23 Aug 2026 00:54:00 +0900"
-        },
-        {
-          "title": "'김상식 매직, 박항서 전설 뛰어넘나?' 베트남, 태국 원정서 2-0 완승......",
-          "description": "김상식 감독이 이끄는 베트남축구대표팀은 22일(한국시간) 태국 방콕 라자망갈라 스타디움에서 열린 '2026... 박항서 감독 시절에도 못했던 베트남 축구 역사상 최다 연속 무패 기록이다. 승부는 후반전에 갈렸다....",
-          "link": "http://www.osen.co.kr/article/G1112862105",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/109/0005593347",
-          "pub_date": "Sun, 23 Aug 2026 00:42:00 +0900"
-        },
-        {
-          "title": "\"국대 영구 박탈 장현수와는 달랐다\" 日 매체도 조명한 김진야 병역법 ...",
-          "description": "김진야는 2018 자카르타-팔렘방 아시안게임에서 한국 남자축구대표팀의 금메달 획득에 힘을 보탰다. 당시... 결국 대한축구협회로부터 국가대표 자격 영구 박탈이라는 중징계를 받았다. 반면 김진야의 경우 실제...",
-          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553477786",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/139/0002252102",
-          "pub_date": "Sun, 23 Aug 2026 00:41:00 +0900"
-        },
-        {
-          "title": "美 유명부부 15세 아들, 성폭행 혐의로 보석 없이 구금.. 피해자도 10대...",
-          "description": "미국의 리얼리티 프로그램 '더 리얼 하우스와이브스 오브 아틀란타'의 원년 출연자로 잘 알려진 킴 졸시악과 전직 미식축구 선수 크로이 비어만의 15세 아들 크로이 KJ 주니어가 성폭행 혐의로 체포돼 충격을 주고 있다....",
-          "link": "https://www.tvreport.co.kr/world/article/1070414/",
-          "naver_link": "https://m.entertain.naver.com/article/213/0001398721",
-          "pub_date": "Sun, 23 Aug 2026 00:37:00 +0900"
-        },
-        {
-          "title": "[PL LINE UP] '양민혁과 동갑' 그레이가 개막전 주장 완장 찼다...'대변혁...",
-          "description": "크리스티안 로메로 이적으로 주장 완장을 찬 미키 반 더 벤은 약간의 부상으로 인해 나올 수 없고 스페인 2026 국제축구연맹(FIFA) 북중미 월드컵 우승을 이끈 페드로 포로는 일단 휴식한다. 이로 인해 그레이가 주장...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=693014",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000222784",
-          "pub_date": "Sun, 23 Aug 2026 00:37:00 +0900"
-        },
-        {
-          "title": "'선수와 상대 감독의 보기 드문 언쟁' 전북 이승우-울산 김현석 감독, 거...",
-          "description": "그리고 이게 또 축구인 것 같다\"고 말했다. 정정용 전북 감독은 \"나도 정확하게는 파악 못 했다\"면서도 \"이승우와 내가 소통하는 중에 그런 일이 있었던 거 같다. 나와 이승우의 소통이 시발점인 것 같다\"고 말했다. 선두...",
-          "link": "http://www.thesportstimes.co.kr/news/articleView.html?idxno=375108",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/472/0000041268",
-          "pub_date": "Sun, 23 Aug 2026 00:35:00 +0900"
-        },
-        {
-          "title": "[오피셜] '이강인+알바레스 조합 개봉박두!' 알바레스, 비야레알전 명단...",
-          "description": "알바레스는 국제축구연맹(FIFA) 2026 북중미 월드컵에 아르헨티나 대표팀의 일원으로 참가했다. 대회 8경기에 모두 출전하며 아르헨티나의 준우승에 힘을 보탰다. 이러한 활약을 바탕으로 올여름 바르셀로나가 알바레스...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96781",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/411/0000086225",
-          "pub_date": "Sun, 23 Aug 2026 00:35:00 +0900"
         }
       ]
     }
