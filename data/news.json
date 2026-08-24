@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-08-24T12:58:52.476531+09:00",
+  "updated_at": "2026-08-24T14:34:17.151474+09:00",
   "interval_hours": 1.0,
   "categories": [
     {
       "keyword": "축구",
       "items": [
         {
-          "title": "CJ프레시웨이, '스레파' 스타 셰프 메뉴 인천공항서 선보인다",
-          "description": "지난 6월 글로벌 축구 축제를 겨냥한 '대한민국 응원 미식전'을 진행했으며, 8월에는 '2026 오네(O-NE) 슈퍼레이스 챔피언십'과 연계한 특식 메뉴를 선보였다. 이번 스레파 IP 협업을 통해 콘텐츠 적용 범위를 단체급식장에서...",
-          "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=44344",
-          "naver_link": "http://www.financialreview.co.kr/news/articleView.html?idxno=44344",
-          "pub_date": "Mon, 24 Aug 2026 12:48:00 +0900"
+          "title": "'7-0 대승' 거둔 서울, 부천전서 3연승 도전…K리그1 선두 굳히기",
+          "description": "프로축구 K리그1 단독 선두를 달리는 FC서울이 부천FC1995를 상대로 1위 굳히기에 도전한다. 서울은 24일 현재 15승5무4패를 기록하며 하나은행 K리그1 2026 순위표 최상단에 자리하고 있다. 12개 구단 중 유일하게 승점 50...",
+          "link": "https://www.newsis.com/view/NISX20260824_0003759940",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/003/0014144352",
+          "pub_date": "Mon, 24 Aug 2026 14:32:00 +0900"
         },
         {
-          "title": "경찰, '2000억 부당이득 혐의' 방시혁 수사 종결 절차…축협 성접대는 공...",
-          "description": "대한축구협회를 둘러싼 각종 의혹 수사도 방향이 갈렸다. 과거 외국인 심판을 상대로 이뤄진 성 접대 의혹은 공소시효 만료로 법적 처벌이 어렵다는 판단이 내려졌다. 박 청장은 \"성 접대 자체를 가지고는 공소시효가...",
-          "link": "https://www.insight.co.kr/news/569722",
-          "naver_link": "https://www.insight.co.kr/news/569722",
-          "pub_date": "Mon, 24 Aug 2026 12:48:00 +0900"
+          "title": "[COLUMN] 필드 위의 아름다운 불꽃, 서교림과 김민솔의 ‘솔림대전’이...",
+          "description": "과거 피겨스케이팅의 '김연아와 아사다 마오', 축구의 '호날두와 메시', 골프의 '타이거 우즈와 필 미켈슨'처럼 시대를 풍미한 라이벌전은 팬들의 가슴을 뛰게 하고 해당 종목 전체의 외연을 넓히는 기폭제가...",
+          "link": "https://www.geconomy.co.kr/news/article.html?no=323032",
+          "naver_link": "https://www.geconomy.co.kr/news/article.html?no=323032",
+          "pub_date": "Mon, 24 Aug 2026 14:32:00 +0900"
         },
         {
-          "title": "혼돈의 아틀레티코, 이강인만 빛났다…\"그리즈만 같았다, 공 잡을 때마...",
-          "description": "축구 통계 매체 '풋몹'에 따르면 이강인은 패스 성공률 81%(25/31), 기회 창출 2회, 터치 47회, 드리블 성공 2회, 공격 지역 패스 3회, 볼 회수 3회, 지상 경합 성공 5회를 기록했다. 공격 포인트는 없었고 슈팅 역시 다소...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96845",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/411/0000086288",
-          "pub_date": "Mon, 24 Aug 2026 12:46:00 +0900"
+          "title": "'뭐든지 두려워하지 마세요'… 골대 벗어난 슈팅이 응원의 별로, '슛포베...",
+          "description": "일반적인 축구와 달리 골대 밖을 향해 공을 차는 것이 규칙이었다. 참가자들은 별 모형에 자신과 가족, 친구... 모금된 기부금은 자립준비청년의 사회 정착 지원 사업과 저연차 은퇴 축구선수의 새로운 출발을 돕는 진로...",
+          "link": "https://www.besteleven.com/news/articleView.html?idxno=311472",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/343/0000146582",
+          "pub_date": "Mon, 24 Aug 2026 14:30:00 +0900"
         },
         {
-          "title": "K-타이어 3사, 글로벌 스포츠 마케팅·모터스포츠·친환경 PPA로 시장 공...",
-          "description": "24일 업계에 따르면 한국타이어앤테크놀로지㈜(이하 한국타이어)는 독일 분데스리가의 명문 프로축구 클럽 '보루시아 도르트문트(Borussia Dortmund)'와의 공식 파트너십을 2년 더 연장해 2027/28 시즌까지 동행을...",
-          "link": "http://www.popcornnews.net/news/articleView.html?idxno=130574",
-          "naver_link": "http://www.popcornnews.net/news/articleView.html?idxno=130574",
-          "pub_date": "Mon, 24 Aug 2026 12:44:00 +0900"
+          "title": "“수치스러운 심판” 베식타시, 오현규 골 취소에 ‘발끈’···이례적...",
+          "description": "블라호비치는 20일 유럽축구연맹(UEFA) 유로파리그 플레이오프 카우노 잘기리스전에서 오현규와 교체 투입돼 베식타시 데뷔전을 치렀다. 당시에는 오현규가 선발 공격수로 60분을 뛰고 블라호비치가 후반 15분부터 경기에...",
+          "link": "https://sports.khan.co.kr/article/202608241429003?pt=nv",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/144/0001133616",
+          "pub_date": "Mon, 24 Aug 2026 14:30:00 +0900"
         },
         {
-          "title": "\"HERE WE GO\" 맨시티, '바르셀로나 이적' 로드리 대체자 찾았다...07년생...",
-          "description": "유럽 축구 이적시장 전문가 파브리치오 로마노 기자는 23일(한국시간) 자신의 소셜미디어(SNS)를 통해... 지난 5월 모로코 국가대표팀에 처음 발탁됐고, 한 달 뒤 열린 2026 국제축구연맹(FIFA) 북중미 월드컵에도 참가했다....",
-          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1003510",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/477/0000624750",
-          "pub_date": "Mon, 24 Aug 2026 12:40:00 +0900"
+          "title": "광양농협, 연속 우승 광양여고 축구부에 200만 원 상당 후원물품 전달",
+          "description": "전남광주통합특별시 광양농협은 전국대회 2관왕을 달성한 광양여자고등학교 축구부의 훈련과 경기 준비을 지원하기 위해 200만원 상당의 후원물품을 전달했다고 24일 밝혔다. 광양여고 축구부는 올해 춘계...",
+          "link": "https://www.newspim.com/news/view/20260824000678",
+          "naver_link": "https://www.newspim.com/news/view/20260824000678",
+          "pub_date": "Mon, 24 Aug 2026 14:30:00 +0900"
         },
         {
-          "title": "\"성접대 증거 없다\" 中 축협, '韓 성접대 의혹' 자체 조사 종결... \"새 단...",
-          "description": "중국축구협회가 자국 소속 관계자들이 대한축구협회의 성접대 의혹에 연루됐다는 논란과 관련해 내부 조사를 벌였으나 이를 입증할 만한 결정적인 증거를 찾지 못했다고 공식 발표했다. 중국축구협회는 23일(한국시간)...",
-          "link": "https://www.starnewskorea.com/sports/2026/08/24/2026082412162787125",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/108/0003464868",
-          "pub_date": "Mon, 24 Aug 2026 12:37:00 +0900"
+          "title": "[스포츠뉴스] K리그2 23R_천안시티FC·충남아산FC (8/24 방송분)",
+          "description": "오는 8월 28일 금요일 저녁 7시 30분, 광양축구전용구장에서 전남 드래곤즈와 천안시티FC의 경기가 펼쳐집니다. 충남아산FC는 홀수 팀으로 운영되는 리그 일정에 따라 이번 24라운드는 한 주 쉬어가게 되는데요. 경기는...",
+          "link": "https://news.skbroadband.com/news/articleView.html?idxno=235742",
+          "naver_link": "https://news.skbroadband.com/news/articleView.html?idxno=235742",
+          "pub_date": "Mon, 24 Aug 2026 14:30:00 +0900"
         },
         {
-          "title": "'138억 기대했는데…' 마라도나의 '신의 손' 축구공, 경매 통해 46억원에...",
-          "description": "야후스포츠는 24일(한국시간) \"신의 손 축구공으로 불리는 공이 헤리티지 옥션에 올라왔다. 현지시간 22일 밤 경매가 마감됐고, 335만 달러(약 46억원)에 낙찰됐다\"고 전했다. 이 축구공이 경매에 나온 것은 처음이...",
-          "link": "https://www.nocutnews.co.kr/news/6566894?utm_source=naver&utm_medium=article&utm_campaign=20260824123534",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/079/0004181568",
-          "pub_date": "Mon, 24 Aug 2026 12:36:00 +0900"
+          "title": "예산소방서, 2026년 8회 전국소방체전 예산서 개최",
+          "description": "대회에는 소방청과 전국 18개 시·도 소방본부에서 3,000여 명의 소방공무원이 참가하며, 예산종합운동장을 비롯한 도내 15개 경기장에서 축구, 야구, 농구, 족구, 테니스, 탁구, 배드민턴 등 7개 종목의 경기가 펼쳐진다....",
+          "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2435816",
+          "naver_link": "https://www.ccdailynews.com/news/articleView.html?idxno=2435816",
+          "pub_date": "Mon, 24 Aug 2026 14:28:00 +0900"
         },
         {
-          "title": "'미쳤다' 맨체스터 유나이티드 '깜짝' 러브콜! '유리몸 레프트백' 후계...",
-          "description": "유럽 축구 이적시장 전문가 파브리지오 로마노는 24일(이하 한국시각) 개인 유튜브 채널을 통해 \"바르셀로나 개막전 명단에서 제외된 발데는 팀을 떠나는 게 유력하다\"고 전했다. 스페인 국적의 발데는 폭발적인...",
-          "link": "https://www.mydaily.co.kr/page/view/2026082410032089420",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/117/0004097520",
-          "pub_date": "Mon, 24 Aug 2026 12:35:00 +0900"
+          "title": "카티스, 이스라엘 AI 보안검색 국내 공급…“장비 교체 없이 판독 자동...",
+          "description": "이스라엘 전국 철도역사, 미국 바클레이스 센터, 2026 국제축구연맹(FIFA) 월드컵 보안 운영에도 투입됐다. ◇개별 탐지에서 통합 판단으로 카티스는 이 기술을 국내 공항·세관·물류 현장에 공급한다. 국내 공항...",
+          "link": "https://www.sentv.co.kr/article/view/sentv202608240126",
+          "naver_link": "https://www.sentv.co.kr/article/view/sentv202608240126",
+          "pub_date": "Mon, 24 Aug 2026 14:26:00 +0900"
         },
         {
-          "title": "[GOAL 이슈] “이승우가 스페인어로 ‘××’ 외쳤고, 주심은 김현석에게...",
-          "description": "이게 축구”라고 승부욕을 드러냈다. 김현석 감독은 “크게 할 이야기가 없다. 중계로 보면 다 나올 것”... 그렇지만 함성과 야유가 공존하는 축구장 안에서 즉각적인 반응으로 화를 키웠다. 상대 팬들과 선수들을 향한...",
-          "link": "https://www.goal.com/kr/뉴스/a/blt8aeeb56de9b04aa4",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/216/0000142350",
-          "pub_date": "Mon, 24 Aug 2026 12:35:00 +0900"
+          "title": "부천이 입으면 '돌풍'이 된다... 부천FC1995, K리그1 첫 시즌 써드 유니...",
+          "description": "새로운 무대에서 물러서지 않고 부천만의 축구를 보여주겠다는 선수단의 각오를 유니폼 한 벌에 녹였다. 디자인만 바꾼 게 아니다… 등번호 마킹지도 손봤다 기능과 품질에도 변화를 줬다. 부천은 후면 등번호...",
+          "link": "https://www.stnsports.co.kr/news/articleView.html?idxno=321388",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/450/0000153554",
+          "pub_date": "Mon, 24 Aug 2026 14:26:00 +0900"
         },
         {
-          "title": "이동국 딸 재시, 볼때마다 놀라워…민소매 운동복 차림도 빛나 [IS하이컷...",
-          "description": "축구선수 출신 이동국의 딸 재시가 일상 미모를 뽐냈다. 재시는 24일 자신의 SNS에 “운동하자”라는 짧은 글과 함께 사진을 게재했다. 사진은 자동차 안에서 찍은 재시의 셀카로, 그는 민소매 운동복을 입고 카메라를...",
-          "link": "https://isplus.com/article/view/isp202608240113",
-          "naver_link": "https://m.entertain.naver.com/article/241/0003526797",
-          "pub_date": "Mon, 24 Aug 2026 12:31:00 +0900"
+          "title": "제천시민축구단, 세종에 5-4 극적 승…리그 6위로 '점프'",
+          "description": "［충북일보］ 제천시민축구단이 세종SA FC를 상대로 9골을 주고받는 난타전 끝에 극적인 승리를 거두며 K4리그 상위권 추격에 속도를 냈다. 제천시민축구단은 지난 23일 생거진천종합운동장에서 열린 세종SA FC와의 K4리그...",
+          "link": "https://www.inews365.com/news/article.html?no=932824",
+          "naver_link": "https://www.inews365.com/news/article.html?no=932824",
+          "pub_date": "Mon, 24 Aug 2026 14:26:00 +0900"
         }
       ]
     }
