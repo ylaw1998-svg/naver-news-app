@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-08-24T16:54:30.297081+09:00",
+  "updated_at": "2026-08-24T18:42:13.771039+09:00",
   "interval_hours": 1.0,
   "categories": [
     {
       "keyword": "축구",
       "items": [
         {
-          "title": "가전 넘어 AI·로봇·모빌리티까지… ‘생활 기술’로 넓어진 IFA 2026, 9월...",
-          "description": "엔진AI·도봇·딥로보틱스·애지봇·유니트리 등이 참여하고, 베를린 훔볼트대 연구진의 로봇 축구 시연인 로보컵도 열린다. 韓 공식 등록 90여곳… LG는 메인홀, 삼성은 도심으로 라이프 린트너 IFA 매니지먼트...",
-          "link": "https://biz.chosun.com/it-science/ict/2026/08/24/LPU24EQWHJGG3JI6ZZWQVQZVUA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-          "naver_link": "https://n.news.naver.com/mnews/article/366/0001188023?sid=105",
-          "pub_date": "Mon, 24 Aug 2026 16:53:00 +0900"
+          "title": "이번주 경주서 국내 최대 유소년 축구대회 열린다",
+          "description": "국내 최대 규모의 유소년 축구대회인 2026 화랑대기 전국 유소년 축구대회가 오는 28일 경주서 개막해 내달 12일까지 열린다. 올해 대회에는 전국 학교와 클럽에서 789팀, 선수 1만 5000여명이 참가해 2300여 경기를 치른다....",
+          "link": "https://www.hankyung.com/article/2026082495841",
+          "naver_link": "https://n.news.naver.com/mnews/article/015/0005324181?sid=102",
+          "pub_date": "Mon, 24 Aug 2026 18:41:00 +0900"
         },
         {
-          "title": "다윗 부천FC, 골리앗 서울과 3연승 쟁탈전...안양은 인천 상대로 연패 탈...",
-          "description": "사진=한국프로축구연맹부천FC가 시즌 첫 3연승을 놓고 FC서울과 한판승부를 펼친다. 시즌 첫 2연승을 달성한 부천은 25일 오후 서울월드컵경기장서 열리는 하나은행 K리그1 2026 25라운드서 FC서울과 3연승 쟁탈전을...",
-          "link": "https://www.joongboo.com/news/articleView.html?idxno=363734592",
-          "naver_link": "https://www.joongboo.com/news/articleView.html?idxno=363734592",
-          "pub_date": "Mon, 24 Aug 2026 16:52:00 +0900"
+          "title": "\"박문성, 국회의원 출마하냐\"…김병지, 법정 공방 예고에 폭로까지",
+          "description": "프로축구 강원FC의 김병지 대표이사가 자신에게 각종 의혹을 제기한 이들에게 법정 공방을 예고해 파장이 일고 있는 가운데, 본인에게 특히 여러 의혹을 제기한 축구 유튜버 박문성씨를 향해서는 \"정치적 발판을 놓느냐\"며...",
+          "link": "https://www.imaeil.com/page/view/2026082417471275663",
+          "naver_link": "https://n.news.naver.com/mnews/article/088/0001024964?sid=102",
+          "pub_date": "Mon, 24 Aug 2026 18:40:00 +0900"
         },
         {
-          "title": "[오피셜] 최소 2년 '강릉 시대' 확정...강원FC, 2027년, 2028년, 홈 경기...",
-          "description": "구단은 춘천시가 홈경기 개최 논의에 앞서 요청한 김병지 대표이사의 공식 사과와 2025-2026 ACLE(아시아축구... 강원FC와 함께할 수 있도록 도내 소통과 팬 서비스를 지속해서 확대하겠다\"고 덧붙였다. 사진=한국프로축구연맹",
-          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553481616",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/139/0002252178",
-          "pub_date": "Mon, 24 Aug 2026 16:52:00 +0900"
+          "title": "[게임뉴스] 카카오게임즈 및 그리프라인 소식 외",
+          "description": "이번 협업은 레이싱 게임과 축구 모두 멈추지 않는 도전이라는 공통된 가치를 추구한다는 점에서 출발했으며, 끝없는 질주, 성장을 거듭하며 승리를 향해 나아간다는 공감대를 담아 게임과 축구 팬 모두에게 새로운...",
+          "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=60248",
+          "naver_link": "https://www.gamevu.co.kr/news/articleView.html?idxno=60248",
+          "pub_date": "Mon, 24 Aug 2026 18:38:00 +0900"
         },
         {
-          "title": "한국타이어, 도르트문트와 파트너십 연장…글로벌 스포츠 마케팅 강화",
-          "description": "한국타이어가 독일 분데스리가의 명문 프로축구 클럽 '보루시아 도르트문트'와 공식 파트너십을 2년... 이번 계약 연장을 통해 독일을 비롯한 유럽 시장에서 글로벌 통합 브랜드 '한국(Hankook)'의 인지도를 높이고 축구...",
-          "link": "http://www.efnews.co.kr/news/articleView.html?idxno=131843",
-          "naver_link": "http://www.efnews.co.kr/news/articleView.html?idxno=131843",
-          "pub_date": "Mon, 24 Aug 2026 16:52:00 +0900"
+          "title": "카트라이더 러쉬플러스-제주SK FC 협업…다오·배찌 경기장 출격",
+          "description": "게임·축구 팬들을 만났다. 넥슨(공동대표 강대현∙김정욱)은 지난 15일과 22일 제주월드컵경기장에서... 이번 협업은 레이싱 게임과 축구가 멈추지 않는 도전과 성장을 통해 승리를 향한다는 공통점을 바탕으로...",
+          "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=88345",
+          "naver_link": "http://www.worktoday.co.kr/news/articleView.html?idxno=88345",
+          "pub_date": "Mon, 24 Aug 2026 18:38:00 +0900"
         },
         {
-          "title": "[ES 게임] 스팀부터 축구장까지 이용자 접점 확대…e스포츠, 글로벌 무대...",
-          "description": "◇넥슨, 카트라이더 러쉬플러스 제주SK FC와 축구장 협업 넥슨은 모바일 레이싱게임 카트라이더 러쉬플러스와 프로축구단 제주SK FC의 협업을 진행했다. 협업은 제주SK FC 홈경기를 중심으로 게임 캐릭터와 축구를 결합한...",
-          "link": "https://www.e-science.co.kr/news/articleView.html?idxno=134022",
-          "naver_link": "https://www.e-science.co.kr/news/articleView.html?idxno=134022",
-          "pub_date": "Mon, 24 Aug 2026 16:52:00 +0900"
+          "title": "최산 흉내내며 '인종차별' 한 日스타, 결국 사과 \"자조적 유머로 사용\"",
+          "description": "가믹스는 논란이 커지자 해당 영상을 삭제했다. 2007년생인 가믹스는 축구 관련 콘텐츠를 주로 제작하는 일본 인플루언서로 개인 채널 및 계정에서 각각 100만 명이 넘는 구독자와 팔로워를 보유하고 있다.",
+          "link": "https://mhnse.com/news/articleView.html?idxno=1500682",
+          "naver_link": "https://m.entertain.naver.com/article/445/0000454937",
+          "pub_date": "Mon, 24 Aug 2026 18:37:00 +0900"
         },
         {
-          "title": "백낙청 \"민주당 전대, 2기 촛불정부 반대세력 총궐기\"…유시민에 \"논평...",
-          "description": "그는 \"이번 전당대회는 원팀이 아니었기 때문에 벌어진 사태였으니 원팀을 회복한다는 것은 말이 안 된다\"며 \"국가대표 축구팀처럼 일사불란한 원팀을 자꾸 생각하는데 정당이 그래서도 안 되는 것\"이라고 말했다. 다만...",
-          "link": "https://www.polinews.co.kr/news/articleView.html?idxno=741090",
-          "naver_link": "https://www.polinews.co.kr/news/articleView.html?idxno=741090",
-          "pub_date": "Mon, 24 Aug 2026 16:50:00 +0900"
+          "title": "대구FC 여자축구팀, 퀸컵 출전…4년 연속 도전장",
+          "description": "대구FC 여자축구팀이 다음 달 11일(금)부터 13일(일)까지 충북 제천축구센터에서 열리는 '2026 K리그 여자 축구대회 퀸컵'에 출전합니다. 퀸컵은 여자 축구의 저변을 확대하고 스포츠 문화를 활성화하기 위해...",
+          "link": "https://news.skbroadband.com/news/articleView.html?idxno=235817",
+          "naver_link": "https://news.skbroadband.com/news/articleView.html?idxno=235817",
+          "pub_date": "Mon, 24 Aug 2026 18:32:00 +0900"
         },
         {
-          "title": "\"상대팀 팬들은 깡패나 다름 없다!\" 무리뉴, 비니시우스 향한 ‘집단 괴...",
-          "description": "이것은 축구다. 과도한 태클은 보지 못했고, 그가 당한 파울도 축구에서 흔히 나오는 수준이었다”고 반박했다. 이번 경기는 13년 만에 레알 마드리드 지휘봉을 다시 잡은 무리뉴 감독의 복귀전이었다. 무리뉴 감독은 2010...",
-          "link": "http://www.osen.co.kr/article/G1112862847",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/109/0005594151",
-          "pub_date": "Mon, 24 Aug 2026 16:50:00 +0900"
+          "title": "'4,000억 넘게 쓰고도 옛날 토트넘 그대로!' 英 매체, 토트넘 향해 신랄...",
+          "description": "데 제르비 감독에게 자신이 원하는 축구를 구현할 수 있는 선수단을 만들어주기 위한 대대적인 투자였다.... 선수단 자체가 이번 여름 크게 바뀌었고 데 제르비 감독 역시 자신의 축구를 새로운 선수들에게 완전히...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=96856",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/411/0000086299",
+          "pub_date": "Mon, 24 Aug 2026 18:30:00 +0900"
         },
         {
-          "title": "[르포] \"직접 느껴본 편안함\"…팩토리움서 마주한 시몬스의 '감성과학'",
-          "description": "축구장 10개 규모의 대지 위에 들어선 국내 최대 침대 거점은 제조 현장이 아닌 거대한 첨단 연구 인프라에 가까웠다. 시몬스는 이날 기자간담회와 현장 투어를 열고, 원자재 검수부터 생산, 배송, 사후관리까지 단하나의...",
-          "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=271773",
-          "naver_link": "https://www.financialpost.co.kr/news/articleView.html?idxno=271773",
-          "pub_date": "Mon, 24 Aug 2026 16:48:00 +0900"
+          "title": "안혜경 ‘골때녀’ 축구하다 다쳤나? 병원서 물리치료 인증샷 “히융”",
+          "description": "이와 함께 안혜경은 축구복을 입고 동료들과 함께 찍은 셀카를 공유하기도 했다. 한편 안혜경은 지난 2023년 9월 송요훈 촬영감독과 결혼식을 올렸다. 두 사람은 1년여간의 교제 끝에 결혼에 골인했다.",
+          "link": "https://www.newsen.com/news_view.php?uid=202608241752010310",
+          "naver_link": "https://m.entertain.naver.com/article/609/0001160423",
+          "pub_date": "Mon, 24 Aug 2026 18:27:00 +0900"
         },
         {
-          "title": "[해외토픽] 中 휴머노이드, 100m 9.39초…우사인 볼트보다 빨랐다",
-          "description": "높이뛰기선 2.88m 기록…2000여 대 로봇, 축구·탁구 등 51개 종목서 경쟁 中 로봇 기술력 과시 속 美 견제... 달리기뿐 아니라 탁구와 축구, 역도, 줄다리기 등 51개 종목에서 1000개가 넘는 경기가 열린다. 독일과...",
-          "link": "https://www.hellot.net/news/article.html?no=114515",
-          "naver_link": "https://www.hellot.net/news/article.html?no=114515",
-          "pub_date": "Mon, 24 Aug 2026 16:46:00 +0900"
+          "title": "프로축구 강원, 2027∼2028년 홈 경기 강릉서 개최",
+          "description": "사진=한국프로축구연맹 제공 프로축구 K리그1 강원FC의 2027∼2028년 홈 경기 개최지가 강릉으로 확정됐다. 24일 강원에 따르면 구단은 지난 21일 21일 오전 10시까지 관계 지방자치단체를 대상으로 2027~2028년 홈경기 개최...",
+          "link": "https://www.sportsworldi.com/newsView/20260824516445",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/396/0000753257",
+          "pub_date": "Mon, 24 Aug 2026 18:24:00 +0900"
         },
         {
-          "title": "대한체육회, 한중일 주니어대회에 선수단 파견해 국제 경쟁력 높인다",
-          "description": "한국 선수단은 24일 오후 6시(현지시간) 사가현 SAGA아레나에서 열리는 개회식을 시작으로 육상, 축구, 테니스, 배구, 농구, 역도, 핸드볼, 정구, 탁구, 배드민턴, 럭비 등 11개 종목에서 합동훈련과 경기를 진행한다....",
-          "link": "https://www.kgnews.co.kr/news/article.html?no=908817",
-          "naver_link": "https://www.kgnews.co.kr/news/article.html?no=908817",
-          "pub_date": "Mon, 24 Aug 2026 16:46:00 +0900"
+          "title": "\"손흥민 이제 끝난 거 아냐?\" 미국도 의심한다…6경기 무득점 \"매우 우려...",
+          "description": "2026 국제축구연맹(FIFA) 북중미 월드컵 이후 폭발적인 득점 행진을 펼치며 살아나는 듯했으나 다시 긴 골 가뭄에 빠지면서 미국에서도 의심이 싹트고 있다. 미국 매체 파시온풋볼은 24일(한국시간) \"손흥민의 골 가뭄으로...",
+          "link": "https://www.xportsnews.com/article/2187511",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/311/0002048965",
+          "pub_date": "Mon, 24 Aug 2026 18:21:00 +0900"
         }
       ]
     }
