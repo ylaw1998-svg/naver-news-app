@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-09-03T21:32:52.068708+09:00",
+  "updated_at": "2026-09-04T01:53:45.299140+09:00",
   "interval_hours": 1.0,
   "categories": [
     {
       "keyword": "축구",
       "items": [
         {
-          "title": "[단독] 10여 명 식사에 35인분 결제…직원 가족 식당서 '뻥튀기'",
-          "description": "최근 프로축구 김포FC에서 80억 원대 횡령 사건이 드러났습니다. 이에 따라 시민 혈세가 투입되는 시도민 축구단의 부실 운영에 대한 우려도 커지고 있는데요. K3리그 여주시축구단에서도 보조금이 부적절하게 쓰인...",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008736884&plink=ORI&cooper=NAVER",
-          "naver_link": "https://m.sports.naver.com/general/article/055/0001385755",
-          "pub_date": "Thu, 03 Sep 2026 21:21:00 +0900"
+          "title": "[종합] 함께하니 게임 공개도 2배, '스테이트 오브 플레이+재팬'",
+          "description": "| ▶영상 온라인 멀티플레이 축구 게임 리매치는 시즌5를 통해 인기 축구 만화 블루 록과의 인게임 협업을 발표했다. 9월 24일 시작되는 이번 협업으로 블루 록의 에고이스트들을 리매치 필드에서 만날 수 있다. ■ 웨어...",
+          "link": "https://www.inven.co.kr/webzine/news/?news=320417",
+          "naver_link": "https://m.sports.naver.com/esports/article/442/0000196227",
+          "pub_date": "Fri, 04 Sep 2026 01:46:00 +0900"
         },
         {
-          "title": "황희찬, 등짝 세게 맞았다!…HWANG 향한 동료들 환영 세례→마감 35초 전...",
-          "description": "유리 뮐더르 샬케 프로축구 디렉터는 황희찬 영입을 두고 \"황희찬의 영입으로 우리는 공격진에서 선택지를 늘릴 수 있게 됐다. 그는 여러 포지션을 소화할 수 있으며 여러 리그에서 쌓은 오랜 경험과 국가대표 선수로서의...",
-          "link": "https://www.xportsnews.com/article/2191818",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/311/0002053208",
-          "pub_date": "Thu, 03 Sep 2026 21:21:00 +0900"
+          "title": "\"훌륭한 감독이지만\"…호일룬이 아모림 '공개 저격'했다! \"우리 모두가 ...",
+          "description": "그게 축구다. 때로는 잘 풀리고, 때로는 잘 풀리지 않는다. 하지만 어린 시절부터 꿈꿨던 구단에서 뛸 수 있어서 매우 행복하다\"라고 전했다. 호일룬은 덴마크 축구 국가대표 공격수다. 지난 2023-24시즌을 앞두고 많은...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=693821",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000223351",
+          "pub_date": "Fri, 04 Sep 2026 01:40:00 +0900"
         },
         {
-          "title": "광양시, 광양보건대 폐교 매입 추진...\"병원·캠퍼스 유치 기대\"",
-          "description": "광양보건대학교가 파산 선고를 받고 문을 닫으면서 축구장 8개 크기의 부지만 덩그러니 남겨졌습니다. ▶ 스탠딩 : 김연준 - \"대학 캠퍼스 부지가 장기간 방치되면 우범지대로 전락할 뿐만 아니라 지역 경제에도 큰 타격을...",
-          "link": "https://www.ikbc.co.kr/article/view/kbc202609030070",
-          "naver_link": "https://n.news.naver.com/mnews/article/660/0000116476?sid=102",
-          "pub_date": "Thu, 03 Sep 2026 21:20:00 +0900"
+          "title": "해외파 골·골… 기대감 커진 이민성호",
+          "description": "2026 아이치·나고야 아시안게임을 앞두고 남자 축구대표팀 해외파 공격수들이 펄펄 날고 있다. 양현준은 3일... 지난달 26일 유럽축구연맹(UEFA) 챔피언스리그 예선에서 도움을 올려 시즌 첫 공격 포인트를 작성한 데 이어...",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000008994&cp=nv",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/005/0001870877",
+          "pub_date": "Fri, 04 Sep 2026 01:39:00 +0900"
         },
         {
-          "title": "220만 충남도민 화합·우정의 대축제 '활짝'…충남도민체전 개막",
-          "description": "참가자들은 축구, 야구, 농구, 배구, 배드민턴, 수영, 탁구 등 30개 정식종목과 당구, 바둑 등 2개 시범종목에서 실력을 겨룬다. 개회식은 문화예술 공연 등 식전행사, 선수단 입장, 박 지사의 격려사와 성화 점화 등...",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3684214",
-          "naver_link": "https://www.gukjenews.com/news/articleView.html?idxno=3684214",
-          "pub_date": "Thu, 03 Sep 2026 21:16:00 +0900"
+          "title": "이영표 \"2026 나고야 AG, 한국·일본·우즈벡 3강 구도... 핵심은 90분 기...",
+          "description": "이영표 KBS 축구 해설위원이 2026 아이치·나고야 아시안게임 남자축구에 참가하는 한국 대표팀의 금메달 가능성을 긍정적으로 전망했다. 이영표 위원은 지난 9월 2일 공개된 축구 전문 유튜브 채널 영상에서 뛰어난 역량을...",
+          "link": "https://www.ftimes.kr/news/articleView.html?idxno=39454",
+          "naver_link": "https://www.ftimes.kr/news/articleView.html?idxno=39454",
+          "pub_date": "Fri, 04 Sep 2026 01:38:00 +0900"
         },
         {
-          "title": "'저 맨유 떠나겠습니다' 지르크지도 이적 원했고 '183억원' 제안까지 왔...",
-          "description": "2026 국제축구연맹(FIFA) 북중미 월드컵을 앞두고 네덜란드대표팀 승선 가능성을 높이기 위해 새로운 도전을 원했지만, 맨유는 겨울 이적시장에서 그의 이적을 허용하지않았다. 결국 지르크지는 2025-26시즌 공식전 26경기에...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=97337",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/411/0000086741",
-          "pub_date": "Thu, 03 Sep 2026 21:10:00 +0900"
+          "title": "[오피셜] 지소연에게 ‘걸스 데이’ 성희롱성 발언한 심판 결국 공정위...",
+          "description": "대한축구협회가 최근 여자 실업축구 WK리그 경기 도중 지소연(수원FC 위민)을 향해 성희롱성 발언을 한 심판 문제를 공정위원회에서 다루기로 결정했다. 축구협회는 3일 “아마심판평가협의체는 천안에 위치한...",
+          "link": "https://www.goal.com/kr/뉴스/a/blt8e848cf041ee0b0e",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/216/0000142487",
+          "pub_date": "Fri, 04 Sep 2026 01:37:00 +0900"
         },
         {
-          "title": "‘베트남 영웅’ 박항서, 이번엔 태국이다…칸차나부리 파워 FC와 9월 6일...",
-          "description": "‘베트남 축구의 영웅’ 박항서 감독이 이번에는 태국 프로축구 무대에서 새로운 도전에 나선다. 박항서 감독이 이끄는 칸차나부리 파워 FC가 오는 9월 6일 PT 사툰 FC와의 원정 경기를 시작으로 2026/27시즌에 돌입한다....",
-          "link": "http://www.osen.co.kr/article/G1112869255",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/109/0005600335",
-          "pub_date": "Thu, 03 Sep 2026 21:07:00 +0900"
+          "title": "볼티모어 M&T 스타디움 최다 관중 기록",
+          "description": "한편 M&T 뱅크 스타디움은 이달 럭비와 축구 경기, NFL 볼티모어 레이븐스의 홈 개막전 및 MLB 볼티모어 오리올스 정규시즌 경기 등이 예정돼 있어 바쁜 일정을 이어갈 전망이다. <워싱턴DC >",
+          "link": "http://www.koreatimes.com/article/1628287",
+          "naver_link": "http://www.koreatimes.com/article/1628287",
+          "pub_date": "Fri, 04 Sep 2026 01:24:00 +0900"
         },
         {
-          "title": "충남도민체전 당진서 개막…1만1200여명 나흘간 열전",
-          "description": "축구와 야구, 농구, 배구, 배드민턴, 수영, 탁구 등 30개 정식종목과 당구·바둑 2개 시범종목에서 시군의 자존심을 건 경쟁을 벌인다. ‘뭉쳐라! 당진에서, 피어라! 충남의 꿈’을 슬로건으로 열린 이날 개회식에는...",
-          "link": "http://www.sisanews24.co.kr/19355",
-          "naver_link": "http://www.sisanews24.co.kr/19355",
-          "pub_date": "Thu, 03 Sep 2026 21:06:00 +0900"
+          "title": "\"결과 약속하지 않겠다\"…'홍명보 후임' 모레노 감독 \"노력·정직·존중...",
+          "description": "대한민국 축구 국가대표 임시 사령탑으로 선임된 로베르토 모레노 감독이 각오를 전했다. 모레노 감독은 3일 자신의 개인 홈페이지를 통해 \"영광인 동시에 책임이기도 하다\"라며 한국 축구 국가대표팀 임시 사령탑으로...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=693820",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/413/0000223350",
+          "pub_date": "Fri, 04 Sep 2026 01:21:00 +0900"
         },
         {
-          "title": "충남도민체전 당진서 개막…220만 화합·우정의 대축제 ‘활짝’",
-          "description": "이들은 축구·야구·농구·배구·배드민턴·수영·탁구 등 30개 정식종목와 당구·바둑 등 2개 시범종목에서 그동안 갈고 닦은 실력을 겨룬다. 이날 개회식은 문화예술 공연 등 식전행사, 선수단 입장, 박 지사 격려사와 성화...",
-          "link": "https://www.kukinews.com/article/view/kuk202609030239",
-          "naver_link": "https://www.kukinews.com/article/view/kuk202609030239",
-          "pub_date": "Thu, 03 Sep 2026 21:02:00 +0900"
+          "title": "\"저는 괜찮습니다\" 스콧 맥토미니, '심장 부정맥' 진단→수술 예정…스...",
+          "description": "맥토미니는 국제축구연맹(FIFA) 2026 북중미 월드컵에서도 스코틀랜드 대표팀의 핵심자원으로 활약하며 자신의 가치를 입증했다. 예상치 못한 시술 소식이 전해지자 스코틀랜드 대표팀도 맥토미니의 빠른 회복을...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=97344",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/411/0000086746",
+          "pub_date": "Fri, 04 Sep 2026 01:15:00 +0900"
         },
         {
-          "title": "'25주 독주' 이강인 또 1위, 그런데 손흥민 표가 3배 폭증했다! 120주 만...",
-          "description": "세비야전에서는 후반 27분까지 뛰며 패스 성공률 94%(30/32)를 기록했고 축구 통계 매체 풋몹으로부터 평점... 최근 손흥민은 미국 프로축구 메이저리그사커(MLS)에서 7경기 연속 골을 터트리지 못하고 있다. 그탓에...",
-          "link": "https://www.starnewskorea.com/sports/2026/09/03/2026090320113933919",
-          "naver_link": "https://m.sports.naver.com/general/article/108/0003467604",
-          "pub_date": "Thu, 03 Sep 2026 20:49:00 +0900"
+          "title": "'축구의 신' 메시 대표팀 은퇴에 동료도 떠날 고민...월드컵 결승 '충격...",
+          "description": "결국 국제축구연맹(FIFA)은 파레데스에게 10경기 출전 정지와 6만 6,000파운드(한화 약 1억 2,000만 원)의 벌금을 부과했다. 파레데스는 이 과정에서 세 건의 폭행 혐의까지 적용받았다. 다만 FIFA는 아르헨티나축구협회의...",
+          "link": "https://mhnse.com/news/articleView.html?idxno=1522162",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/445/0000459213",
+          "pub_date": "Fri, 04 Sep 2026 01:01:00 +0900"
         },
         {
-          "title": "울산시민축구단, 내일 '홈 연승 행진' 정조준",
-          "description": "울산시민축구단 선수들. K3리그 울산시민축구단이 안방에서 연승 행진을 향한 정조준에 나선다. 울산시민축구단은 오는 5일 오후 7시 울산종합운동장에서 경주한수원을 상대로 '2026 K3리그' 21라운드 홈경기를 치른다....",
-          "link": "http://www.ujeil.com/news/articleView.html?idxno=391439",
-          "naver_link": "http://www.ujeil.com/news/articleView.html?idxno=391439",
-          "pub_date": "Thu, 03 Sep 2026 20:46:00 +0900"
+          "title": "“축구협회 너무 교만했다. 카르텔을 깨야 한다” 월드컵 조별리그 탈락...",
+          "description": "“축구협회가 너무 교만했다” 박항서 전 북중미월드컵 지원단장이 유튜브 ‘서형욱의 뽈리TV’에 출연해... 박항서 전 단장은 대한축구협회의 어처구니없는 행정 실태를 폭로했다. 대표적인 것이 홍명보 감독의 사퇴...",
+          "link": "http://www.osen.co.kr/article/G1112869334",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/109/0005600492",
+          "pub_date": "Fri, 04 Sep 2026 00:59:00 +0900"
         }
       ]
     }
