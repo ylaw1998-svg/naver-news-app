@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-09-09T21:42:04.970594+09:00",
+  "updated_at": "2026-09-10T02:00:14.973910+09:00",
   "interval_hours": 1.0,
   "categories": [
     {
       "keyword": "축구",
       "items": [
         {
-          "title": "'모레노 1기' 첫 명단 공개 임박…이승우, 태극마크 달까",
-          "description": "우리 축구 대표팀 지휘봉을 잡는 최초의 스페인 지도자죠. 모레노 감독과 한국 축구의 동행은 일요일인 13일 입국과 함께 시작합니다. 바로 다음 날, 9월 A매치에 나설 첫 대표팀 명단을 발표하는데요. 사실상 입국 전에...",
-          "link": "https://news.jtbc.co.kr/article/NB12317596?influxDiv=NAVER",
-          "naver_link": "https://m.sports.naver.com/general/article/437/0000510388",
-          "pub_date": "Wed, 09 Sep 2026 21:38:00 +0900"
+          "title": "[오피셜] '韓 축구 에이스' 이강인 미쳤다! AT 마드리드 데뷔전 데뷔골...",
+          "description": "많은 선수가 2026 국제축구연맹(FIFA) 북중미 월드컵에 출전해 훈련 시간이 부족했지만, 승리해 매우 기쁘다.... 유럽축구연맹(UEFA) 슈퍼컵(2-2 무승부·승부차기 4-3 승리)에서 팀의 첫 득점을 올린 데 이어 아틀레티코...",
+          "link": "https://www.goal.com/kr/뉴스/a/blt1ef0321332b6bab8",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/216/0000142591",
+          "pub_date": "Thu, 10 Sep 2026 01:45:00 +0900"
         },
         {
-          "title": "'황선홍호' 대전 무서운 기세, 안양에 3-2 역전승... 최근 4승 1패→6위 ...",
-          "description": "프로축구 K리그1 대전하나시티즌의 가파른 상승세가 이어지고 있다. 이번엔 FC안양에 짜릿한 역전승을 거두고 2연승을 달렸다. 최근 5경기 4승째(1패)다. 황선홍 감독이 이끄는 대전은 9일 대전월드컵경기장에서...",
-          "link": "https://www.starnewskorea.com/sports/2026/09/09/2026090921070014398",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/108/0003469237",
-          "pub_date": "Wed, 09 Sep 2026 21:37:00 +0900"
+          "title": "'이강인 챔스 데뷔전' 현지 관심 미쳤다! 당대 최고 스타 박지성 끌어안...",
+          "description": "현지 매체가 아틀레티코 소속으로 이강인의 첫 유럽축구연맹(UEFA) 챔피언스리그 데뷔전을 앞두고, 그를 집중... 이강인은 어린 나이에 당시 한국 최고의 축구선수였던 박지성과 광고 촬영을 함께하기도 했다. 2002년 한일...",
+          "link": "https://www.sportschosun.com/football/2026-09-10/202609100100068560004417",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/076/0004444620",
+          "pub_date": "Thu, 10 Sep 2026 01:36:00 +0900"
         },
         {
-          "title": "'기다려라 리버풀' 이강인, UCL 선발 확정적! 시메오네 감독 직접 밝혔다...",
-          "description": "이강인(25, 아틀레티코 마드리드)이 이번엔 리버풀과 유럽축구연맹(UEFA) 챔피언스리그(UCL) 경기에서 선발 출전할 것으로 보인다. 훌리안 알바레스(26)는 또 벤치에 앉을 예정이다. '인투 더 칼데론'은 9일(이하 한국시간)...",
-          "link": "http://www.osen.co.kr/article/G1112872779",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/109/0005603872",
-          "pub_date": "Wed, 09 Sep 2026 21:36:00 +0900"
+          "title": "케인·음바페 등 발롱도르 후보 발표… 아시아권 ‘0명’",
+          "description": "세계 축구 최고 권위의 개인상 발롱도르의 수상 후보가 발표됐다. 남자 부문에서는 생애 첫 수상에... 발롱도르를 주관하는 프랑스 축구 전문지 프랑스풋볼은 9일(한국시간) 30명의 2026 발롱도르 후보 명단을 발표했다....",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000010700&cp=nv",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/005/0001872016",
+          "pub_date": "Thu, 10 Sep 2026 01:31:00 +0900"
         },
         {
-          "title": "'韓 축구' 대형 호재! 이강인 리버풀전 '선발 출전' 유력, '첫 도움 상대...",
-          "description": "아틀레티코는 10일 오전 4시(이하 한국시각) 잉글랜드 머지사이드주 리버풀 안필드에서 리버풀과 '2026-27시즌 유럽축구연맹(UEFA) 챔피언스리그(UCL)' 리그페이즈 1차전 원정 경기를 치른다. 축구 팬들의 시선은 이강인의...",
-          "link": "https://www.mydaily.co.kr/page/view/2026090917500718264",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/117/0004103756",
-          "pub_date": "Wed, 09 Sep 2026 21:35:00 +0900"
+          "title": "아부달라가 살렸다... 강원FC, 전북과 1-1 무승부 '4경기 무패'",
+          "description": "다만 2026-2027 아시아축구연맹(AFC) 챔피언스리그 엘리트 프리리미너리 스테이지(ACLE PS) 일정 탓에 경쟁팀보다 한 경기를 덜 치렀다. 2위 울산HD(승점 44)와는 3점 차다. 정경호 감독은 경기 전 4-4-2 포메이션을 제출했지만...",
+          "link": "https://www.stnsports.co.kr/news/articleView.html?idxno=322381",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/450/0000154077",
+          "pub_date": "Thu, 10 Sep 2026 01:30:00 +0900"
         },
         {
-          "title": "[프로축구 대전전적] 대전 3-2 안양",
-          "description": "9일 전적(대전월드컵경기장) 대전하나시티즌 3(0-1 3-1)2 FC안양 △ 득점= 주민규⑥⑦(후3분·후30분 PK) 밥신①(후20분·이상 대전) 마테우스⑪(전10분) 아일톤⑦(후41분 PK·이상 안양)",
-          "link": "https://www.yna.co.kr/view/AKR20260909185700007?input=1195m",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/001/0016301103",
-          "pub_date": "Wed, 09 Sep 2026 21:34:00 +0900"
+          "title": "이강인 떠나고 개막 후 '2무 1패'...PSG 총체적 난국 속 캡틴 마르퀴뇨스...",
+          "description": "2년 연속 유럽축구연맹(UEFA) 챔피언스리그(UCL) 제패에 성공한 PSG. 레알 마드리드 이후 그 어떤 팀도 넘보지... 이것이 축구이고, 원래 그런 것이다. 엔리케 감독은 지금까지 팀을 매우 잘 관리해 왔고, 그 방식이 효과를...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=694232",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000223628",
+          "pub_date": "Thu, 10 Sep 2026 01:30:00 +0900"
         },
         {
-          "title": "[오피셜] 성남FC, 신임 테크니컬 디렉터에 이규준 전 TSG 위원 선임",
-          "description": "이규준 신임 테크니컬 디렉터는 현장 지도와 기술 행정 분야를 두루 거친 베테랑 축구인이다. 1990년... 이후 2011년 하남FC를 창단해 선진 클럽 축구 모델의 기틀을 닦았으며, 한국열린사이버대를 거쳐 2022년 장안대학교...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=97625",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/411/0000087008",
-          "pub_date": "Wed, 09 Sep 2026 21:33:00 +0900"
+          "title": "모레노호 깜짝 발탁 후보? 'K리그 주목할 재능' 서재민, 기대보단 노력...",
+          "description": "그는 8일 인천축구전용경기장에서 열린 부천FC와의 '하나은행 K리그1 2026' 28라운드에 선발 출전, 팀의 2대1... 신정초 시절 차범근축구상 대상을 수상했다. 시련 없이 핀 꽃은 아니었다. 프로의 벽은 높았고, 개화를...",
+          "link": "https://www.sportschosun.com/football/2026-09-09/202609090100065180004182",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/076/0004444618",
+          "pub_date": "Thu, 10 Sep 2026 01:29:00 +0900"
         },
         {
-          "title": "[프로축구 강릉전적] 강원 1-1 전북",
-          "description": "9일 전적(강릉 하이원아레나) 강원FC 1(0-1 1-0)1 전북 현대 △ 득점= 이탈로①(전15분·전북) 아부달라⑧(후14분·강원)",
-          "link": "https://www.yna.co.kr/view/AKR20260909185500007?input=1195m",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/001/0016301101",
-          "pub_date": "Wed, 09 Sep 2026 21:32:00 +0900"
+          "title": "[오피셜]'韓 축구 에이스' 이강인 해냈다! \"걸작과 같다\" 아틀레티코 마...",
+          "description": "이강인의 아틀레티코 마드리드(스페인) 데뷔전-데뷔골이 '이달의 골'로 선정됐다. 스페인 프리메라리가 사무국은 9일(이하 한국시각) 채널을 통해 '이강인이 8월 이달의 골을 수상했다. 그는 말라가를 상대로 팀을 승리로...",
+          "link": "https://www.sportschosun.com/football/2026-09-09/202609090100068340004402",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/076/0004444617",
+          "pub_date": "Thu, 10 Sep 2026 01:26:00 +0900"
         },
         {
-          "title": "K리그1 전북, 강원 원정서 1-1 무승부…2위 도약 무산",
-          "description": "프로축구 K리그1 전북 현대와 강원FC와 비기면서 2위 탈환 기회를 놓쳤다. 전북은 9일 강릉하이원아레나에서 열린 강원과의 하나은행 K리그1 2026 28라운드 원정 경기에서 1-1로 비겼다. 이날 무승부로 전북(승점 43)은...",
-          "link": "https://www.newsis.com/view/NISX20260909_0003783309",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/003/0014180754",
-          "pub_date": "Wed, 09 Sep 2026 21:31:00 +0900"
+          "title": "'73골 폭발' 케인, 2026 발롱도르 수상 예측 압도적인 1위...2위 라민 야...",
+          "description": "발롱도르는 프랑스 축구 전문지 '프랑스 풋볼'이 제정한 세계 최고 권위의 개인상으로, 현재는 유럽축구연맹(UEFA)과 공동 주관하고 있다. 올해 시상식은 오는 10월 26일 영국 런던 팔라디움 극장에서 열린다. 발롱도르...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=97636",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/411/0000087020",
+          "pub_date": "Thu, 10 Sep 2026 01:25:00 +0900"
         },
         {
-          "title": "'5경기 4승' 대전 완벽 상승세! '주민규 멀티골+밥신 원더골' 안양 상대...",
-          "description": "후반 추가시간 10분이 주어졌다. 추가시간 9분 아일톤이 일대일 상황에서 마무리했으나 문전에서 수비가 걷어냈다. 이후 추가 득점 없이 경기 종료됐다. 사진= 한국프로축구연맹 제공",
-          "link": "http://www.footballist.co.kr/news/articleView.html?idxno=214622",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/436/0000113193",
-          "pub_date": "Wed, 09 Sep 2026 21:31:00 +0900"
+          "title": "시즌 개막부터 ‘별들의 전쟁’",
+          "description": "‘별들의 전쟁’ 유럽축구연맹 챔피언스리그(UCL)가 새 시즌 시작을 알렸다. 세계 최고 골잡이로 불리는 엘링 홀란(맨체스터 시티·잉글랜드)과 킬리안 음바페(레알 마드리드·스페인)가 리그 개막일에 나란히...",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000010697&cp=nv",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/005/0001872013",
+          "pub_date": "Thu, 10 Sep 2026 01:16:00 +0900"
         },
         {
-          "title": "'구단 최고 성적 이끈 지도력 인정' 강원FC 정경호 감독, 2027년까지 1년...",
-          "description": "구단 사상 최초로 참가한 2025-2026시즌 아시아축구연맹 챔피언스리그 엘리트(ACLE) 16강 진출을 견인했으며... 강원도 삼척 출신인 정감독은 주문진중과 강릉상고(현 강릉제일고)를 졸업해 지역 축구와 매우 깊은...",
-          "link": "https://www.ftimes.kr/news/articleView.html?idxno=39556",
-          "naver_link": "https://www.ftimes.kr/news/articleView.html?idxno=39556",
-          "pub_date": "Wed, 09 Sep 2026 21:28:00 +0900"
+          "title": "[SD 강릉 인터뷰] 전력누수 딛고 전북전서 승점 수확한 정경호 강원 감...",
+          "description": "부상자 속출과 주축 선수들의 23세 이하(U-23) 축구대표팀 차출에 따른 전력누수에도 경기력과 결과를 모두 챙겨서다. 정 감독은 경기 후 기자회견서 “완전체 전력을 꾸리지 못한 상태서도 전북이라는 대단한 팀을...",
+          "link": "https://sports.donga.com/sports/article/all/20260910/134639263/1",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/382/0001293101",
+          "pub_date": "Thu, 10 Sep 2026 01:08:00 +0900"
         }
       ]
     }
