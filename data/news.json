@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-09-12T01:52:36.293499+09:00",
+  "updated_at": "2026-09-12T04:25:36.513196+09:00",
   "interval_hours": 1.0,
   "categories": [
     {
       "keyword": "축구",
       "items": [
         {
+          "title": "[오피셜] '흥민이 형 저 토트넘에 남아요'…베리발, 재계약 체결 \"이곳이...",
+          "description": "이적 첫 시즌 로테이션 멤버로 활약하며 45경기 1골 4도움을 기록했고 유럽축구연맹(UEFA) 유로파리그(UEL) 우승... 그러면서 \"나는 베리발이 최고의 축구를 보여줄 날이 아직 앞에 있다고 믿으며 그가 자신의 잠재력을 최대한...",
+          "link": "https://www.mydaily.co.kr/page/view/2026091122344535269",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/117/0004104497",
+          "pub_date": "Sat, 12 Sep 2026 04:04:00 +0900"
+        },
+        {
+          "title": "'맨유 제안도 거절하고 버텼는데 5경기 0분!' 주전이었던 발데 충격 추락...",
+          "description": "리그는 물론 유럽축구연맹(UEFA) 챔피언스리그에서도 모두 출전 기회를 얻지 못했다. 경쟁자들의 활약도 발데에게는 부담이다. 유망주 사비 에스파르트가 플릭 감독의 신뢰를 얻으며 왼쪽 풀백에서 좋은 모습을 보여주고...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=97737",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/411/0000087109",
+          "pub_date": "Sat, 12 Sep 2026 03:50:00 +0900"
+        },
+        {
+          "title": "여자 아마추어 축구 새 역사…전국 34개팀 참가하는 8대8 대회 신설",
+          "description": "대한축구협회가 전국 아마추어 여성 축구팀을 대상으로 한 새로운 대회 'THE 8IGHT : KFA WOMEN'S CHAMPIONSHIP(더 에이트 : KFA 위민스 챔피언십)'을 신설한다. 이 대회는 국제축구연맹(FIFA)의 여자축구 발전 프로그램(Women's...",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3692881",
+          "naver_link": "https://www.gukjenews.com/news/articleView.html?idxno=3692881",
+          "pub_date": "Sat, 12 Sep 2026 02:56:00 +0900"
+        },
+        {
+          "title": "모레노 감독 데뷔전, 24일 수원서 에콰도르전…입장권 예매 시작",
+          "description": "손흥민 (사진=대한축구협회SNS) 대한축구협회가 '하나은행 초청 축구국가대표팀 친선경기' 4연전 입장권 판매 일정을 공개했다. 입장권은 15일부터 대한축구협회 온라인 판매 사이트 PlayKFA.com에서 순차적으로...",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3692880",
+          "naver_link": "https://www.gukjenews.com/news/articleView.html?idxno=3692880",
+          "pub_date": "Sat, 12 Sep 2026 02:54:00 +0900"
+        },
+        {
+          "title": "천안서 열리는 유소년축구대회…36팀 본선 진출-문화 체험 이벤트도 눈...",
+          "description": "국제뉴스/DB 천안 코리아풋볼파크가 올해 3회째를 맞는 '대통령배 전국유소년축구대회' 전국 본선 무대로 선정됐다. 대한축구협회가 주최 및 주관하고, 문화체육관광부, 국민체육진흥공단, 대한체육회가 후원하는...",
+          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3692879",
+          "naver_link": "https://www.gukjenews.com/news/articleView.html?idxno=3692879",
+          "pub_date": "Sat, 12 Sep 2026 02:52:00 +0900"
+        },
+        {
+          "title": "'홀란드 아니면 굳이 필요 없다?' 바르사 단장의 파격 선언...\"PSG 봐라, ...",
+          "description": "데쿠 단장 역시 파리 생제르맹(PSG)을 예로 들며 현대 축구에서는 전통적인 '9번' 없이도 충분히 강력한... 바르셀로나는 이번 시즌 라리가와 유럽축구연맹(UEFA) 챔피언스리그를 포함한 공식전 첫 5경기에서 무려 22골을...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=97736",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/411/0000087108",
+          "pub_date": "Sat, 12 Sep 2026 02:40:00 +0900"
+        },
+        {
+          "title": "아르헨 노란 '소원구급차'…말기환자 마지막 소원 실어 나른다",
+          "description": "2007년 네덜랜드에서 처음 시행된 '소원구급차', 아르헨은 22번째 국가 '축구의 신' 리오넬 메시의 고향으로... 환자들의 소원은 강을 보거나 가족과 식사를 하는 것처럼 소박한 경우가 많지만, 좋아하는 축구팀의 경기장을...",
+          "link": "https://www.yna.co.kr/view/AKR20260912001600009?input=1195m",
+          "naver_link": "https://n.news.naver.com/mnews/article/001/0016305654?sid=104",
+          "pub_date": "Sat, 12 Sep 2026 02:01:00 +0900"
+        },
+        {
+          "title": "'맨시티 관심에도 결국 첼시에 남았다'…페드로 네투, 2032년까지 장기 ...",
+          "description": "2025년 첼시가 유럽축구연맹(UEFA) 유로파 컨퍼런스리그(UECL)와 국제축구연맹(FIFA) 클럽 월드컵 우승을 차지하는 과정에서 핵심적인 역할을 했다. 특히 클럽 월드컵에서는 3골을 터뜨리며 첼시가 세계 정상에 오르는 데...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=694368",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000223719",
+          "pub_date": "Sat, 12 Sep 2026 02:00:00 +0900"
+        },
+        {
+          "title": "경악! 선수가 심판 들어올려 그대로 '패대기'…독일 축구 경기서 충격 ...",
+          "description": "독일 축구 리그에서 전대미문의 사건이 발생했다. 심판 판정에 불만을 품은 선수가 주심의 허리를 붙잡아... ARD는 이번 사건을 다루면서 최근 아마추어와 지역 축구 현장에서 심판을 겨냥한 폭력 행위가 증가하고 있다는...",
+          "link": "https://www.xportsnews.com/article/2194892",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/311/0002056245",
+          "pub_date": "Sat, 12 Sep 2026 01:56:00 +0900"
+        },
+        {
           "title": "[부고]도갑순 별세 外",
           "description": "시부상·김남훈 경기도청 팀장 장인상=11일 전북 전주시 전북대병원, 발인 13일 오전 9시 063-250-2443 ◇이양임 씨 별세·고정운 프로축구 김포FC 감독 모친상=11일 전북 전주금성장례식장, 발인 13일 오전 9시 063-276-4444",
           "link": "https://www.donga.com/news/People/article/all/20260911/134653821/2",
           "naver_link": "https://n.news.naver.com/mnews/article/020/0003747595?sid=102",
           "pub_date": "Sat, 12 Sep 2026 01:44:00 +0900"
-        },
-        {
-          "title": "케인, 챔스리그 8경기 연속골 행진… 역대 4번째",
-          "description": "올해 발롱도르 유력 후보인 해리 케인이 ‘별들의 전쟁’ 유럽축구연맹(UEFA) 챔피언스리그에서 8경기 연속... 축구계 최고 권위의 상인 발롱도르의 올해 수상자는 내달 26일 열리는 시상식에서 발표된다. 프랑스 축구...",
-          "link": "https://www.donga.com/news/Sports/article/all/20260912/134653673/2",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/020/0003747563",
-          "pub_date": "Sat, 12 Sep 2026 01:42:00 +0900"
-        },
-        {
-          "title": "“모레노號 발탁 노린다”",
-          "description": "올 시즌 프로축구 K리그1(1부) 우승을 향해 질주하고 있는 선두 FC서울과 3위 전북이 12일 전주월드컵경기장에서 29라운드 맞대결을 펼친다. 로베르토 모레노 임시 감독(스페인)이 이끄는 한국 축구 대표팀에 ‘깜짝...",
-          "link": "https://www.donga.com/news/Sports/article/all/20260912/134653669/2",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/020/0003747564",
-          "pub_date": "Sat, 12 Sep 2026 01:42:00 +0900"
-        },
-        {
-          "title": "'한 명 제외하랬더니 음바페도 비니시우스도 아니다!' 레알 상대 감독의...",
-          "description": "그는 축구 역사상 최고의 감독 가운데 한 명이다\"라고 답했다. 이어 \"물론 레알에는 축구 역사상 최고의 골키퍼 가운데 한 명과 최고의 공격수 가운데 한 명도 있다. 정말 엄청난 선수들이다\"라며 티보 쿠르투아와 음바페의...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=97735",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/411/0000087107",
-          "pub_date": "Sat, 12 Sep 2026 01:30:00 +0900"
-        },
-        {
-          "title": "북한 선수단, 일본 도착...'역대급' 180여명 파견",
-          "description": "흰색 상의와 파란색 바지를 입은 아시안게임 북한 남자축구팀은 어제(11일) 오후 일본 오사카 간사이국제공항에 도착했습니다. 앞서 북한 당국은 이번 아시안게임에 축구와 역도, 탁구, 레슬링 등 14개 종목에 모두 100여...",
-          "link": "https://www.ytn.co.kr/_ln/0104_202609120127126891",
-          "naver_link": "https://n.news.naver.com/mnews/article/052/0002406014?sid=104",
-          "pub_date": "Sat, 12 Sep 2026 01:27:00 +0900"
-        },
-        {
-          "title": "'이강인은 최악의 선수 중 한 명이었다'…리버풀 거친 파울 비난에 반박...",
-          "description": "아틀레티코 마드리드와 리버풀의 유럽축구연맹(UEFA) 챔피언스리그 경기에서 이강인이 당한 거친 파울이... 이강인은 전반 34분에는 리버풀 진영에서 반 다이크와 충돌 후 넘어졌고 이강인의 축구화가 벗겨지기도 했다....",
-          "link": "https://www.mydaily.co.kr/page/view/2026091121264841935",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/117/0004104486",
-          "pub_date": "Sat, 12 Sep 2026 01:25:00 +0900"
-        },
-        {
-          "title": "\"심판들 사이에는 아주 강한 보호가 존재한다\"…무리뉴, 판정 논란에 작...",
-          "description": "하지만 우리는 8골을 넣을 수도 있었다\"며 \"나만큼 축구를 이해하는 사람들 중에서도 그것을 말하지 않는 사람들이 있다. 왜 말하지 않는가? 우리가 이겨서 기쁘지 않은 건가?\"라고 반문했다. 심판 판정을 둘러싼...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=694366",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000223718",
-          "pub_date": "Sat, 12 Sep 2026 01:15:00 +0900"
-        },
-        {
-          "title": "바이에른 뮌헨 선수단, 챔스 1차전 앞두고 경기장 단체 사진",
-          "description": "AFP FC 바이에른 뮌헨 선수들이 10일(현지시간) 뮌헨 축구 경기장에서 2026/27 UEFA 챔피언스 리그 조별리그 1차전 FC 바이에른 뮌헨과 FK 보도/글림트의 경기를 앞두고 단체 사진을 촬영했다.",
-          "link": "https://www.gukjenews.com/news/articleView.html?idxno=3692822",
-          "naver_link": "https://www.gukjenews.com/news/articleView.html?idxno=3692822",
-          "pub_date": "Sat, 12 Sep 2026 01:04:00 +0900"
-        },
-        {
-          "title": "맨체스터 유나이티드 레전드 4경기 만에 일갈…\"이런 식이면 챔피언스리...",
-          "description": "그러면서 \"하지만 포메이션을 바꾸지 않으면서 어떻게 맨유를 더 단단하게 만들어 매 경기 실점하지 않도록 할 수 있을까?\"라며 \"이런 식으로 계속 실점한다면 우리는 유럽축구연맹(UEFA) 챔피언스리그(UCL)에 진출하지...",
-          "link": "https://www.mydaily.co.kr/page/view/2026091121232113451",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/117/0004104484",
-          "pub_date": "Sat, 12 Sep 2026 01:04:00 +0900"
-        },
-        {
-          "title": "133억 초대형 스폰서 계약…NBA 레전드 딸 로드먼과 열애까지→'테니스...",
-          "description": "미식축구와 농구를 더 좋아했던 것으로 알려졌다. 그러다 13세 무렵부터 본격적으로 테니스에 집중하기... 셸튼은 미국 여자축구대표팀의 스타 트리니티 로드먼과 교제하고 있다. 트리니티는 NBA 레전드 데니스 로드먼의...",
-          "link": "https://www.xportsnews.com/article/2194858",
-          "naver_link": "https://m.sports.naver.com/general/article/311/0002056239",
-          "pub_date": "Sat, 12 Sep 2026 01:00:00 +0900"
         }
       ]
     }
