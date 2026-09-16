@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-09-16T16:09:26.464612+09:00",
+  "updated_at": "2026-09-16T22:04:10.115237+09:00",
   "interval_hours": 1.0,
   "categories": [
     {
       "keyword": "축구",
       "items": [
         {
-          "title": "서울 이랜드 ‘팬 프렌들리 클럽상’ 영예…천안은 ‘그린 스타디움상...",
-          "description": "쿠키뉴스=이영재 기자 | 한국프로축구연맹(총재 권오갑, 이하 연맹)은 16일 K리그2 12~22라운드 관중 유치... 뒤를 이어 용인의 홈구장인 용인미르스타디움과 전남의 홈구장인 광양축구전용구장이 각각 2위와 3위에...",
-          "link": "https://www.kukinews.com/article/view/kuk202609160170",
-          "naver_link": "https://www.kukinews.com/article/view/kuk202609160170",
-          "pub_date": "Wed, 16 Sep 2026 16:04:00 +0900"
+          "title": "'인니'에 패배한 김기동 감독 \"ACL2서 로테이션 돌리는 거 아쉽다\"",
+          "description": "서울은 16일 서울월드컵경기장에서 펼쳐진 2026-27시즌 아시아축구연맹(AFC) 챔피언스리그2(ACL2) E조 1차전 페르십 반둥과 경기에서 0-1로 패배했다. 전반 5분 훌리오 세자르의 선제 결승골이 터졌다. 서울은 K리그1(1부리그)...",
+          "link": "https://www.newdaily.co.kr/site/data/html/2026/09/16/2026091600373.html",
+          "naver_link": "https://www.newdaily.co.kr/site/data/html/2026/09/16/2026091600373.html",
+          "pub_date": "Wed, 16 Sep 2026 21:54:00 +0900"
         },
         {
-          "title": "제주, 마지막까지 투혼 빛났다",
-          "description": "남자 11인제 축구 우승을 차지한 제주 선수들이 기념촬영을 하고 있다. 제주도장애인체육회 제공. 육상 임창선은 남자 10㎞ 마라톤 T45·T46에서 정상에 오르며 3관왕을 완성했고, 남자 11인제 축구 IDD는 결승에서 광주를 2...",
-          "link": "http://www.samdailbo.com/news/articleView.html?idxno=270374",
-          "naver_link": "http://www.samdailbo.com/news/articleView.html?idxno=270374",
-          "pub_date": "Wed, 16 Sep 2026 16:04:00 +0900"
+          "title": "재일조선인 북한응원단, 빗줄기속 300명 집결",
+          "description": "북한 남자 축구대표팀은 16일 일본 아이치현 가리야 웨이브 스타디움에서 열린 조별리그 B조 1차전에서... 먼저 도착한 남녀 축구선수단을 제외한 나머지 선수단은 일본 언론에도 공개하지 않은 채 수 일에 걸쳐 분산...",
+          "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20260916.99099005723",
+          "naver_link": "https://n.news.naver.com/mnews/article/658/0000155852?sid=104",
+          "pub_date": "Wed, 16 Sep 2026 21:53:00 +0900"
         },
         {
-          "title": "[더밸류 브리핑] 오늘의 증권사 소식...미래에셋증권·우리투자증권",
-          "description": "우리투자증권은 국내 금융권 최초로 스페인 프로축구 1부 리그 LALIGA와 공식 스폰서십을 체결했다.... ◆ 우리투자증권, 스페인 프로축구 '라리가(LALIGA)'와 공식 스폰서십 체결 우리투자증권(대표이사 남기천)이 지난 14일...",
-          "link": "http://www.thevaluenews.co.kr/news/view.php?idx=201650",
-          "naver_link": "http://www.thevaluenews.co.kr/news/view.php?idx=201650",
-          "pub_date": "Wed, 16 Sep 2026 16:04:00 +0900"
+          "title": "선제골에도 ‘골대 불운’에 운 북한, 첫 경기서 중국에 1-2 역전패…8강...",
+          "description": "중국 축구대표팀이 2026 아이치･나고야 아시안게임 첫 경기에서 북한을 꺾엇다. 중국은 16일 일본 아이치 웨이브 스타디움 카리야에서 열린 조별리그 B조 1차전에서 북한에 2-1 역전승을 거뒀다. B조 1차전이 마무리됐고...",
+          "link": "https://www.sportsseoul.com/news/read/1635783?ref=naver",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/468/0001266971",
+          "pub_date": "Wed, 16 Sep 2026 21:50:00 +0900"
         },
         {
-          "title": "청렴도 1등 보성군, 이번엔 ‘청렴올림픽’으로 뭉쳤다",
-          "description": "육상, 축구, 탁구, 컬링을 종목으로 구성해 부서별 팀워크와 협동심을 겨루도록 했으며, 참가 선수뿐만 아니라 응원단도 적극적으로 참여하면서 행사장에는 활기찬 분위기가 이어졌다. 경기 결과 청렴 OX퀴즈에서는 개인...",
-          "link": "https://www.viva100.com/article/20260916501313",
-          "naver_link": "https://www.viva100.com/article/20260916501313",
-          "pub_date": "Wed, 16 Sep 2026 16:02:00 +0900"
+          "title": "'정정용 용병술 적중' 전북, 일본 이겼다! 후반 티아고-이탈로 연속골 ...",
+          "description": "전북현대가 가시와 레이솔을 꺾고 아시아축구연맹(AFC) 챔피언스리그 엘리트(ACLE) 첫 경기에서 승리를 거두며... 어잉없는 상황을 맞기도 했지만 남은 시간 리드를 잘 지켜내며 2-1로 승리를 일궈냈다. 사진=한국프로축구연맹",
+          "link": "https://www.xportsnews.com/article/2196400",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/311/0002057772",
+          "pub_date": "Wed, 16 Sep 2026 21:50:00 +0900"
         },
         {
-          "title": "신세계사이먼, 축구장 1.5개 면적 확 바꿨다 … 파주 프리미엄아울렛 새...",
-          "description": "축구장 1.5개에 해당하는 면적을 대대적으로 리뉴얼하며 64개 브랜드를 새롭게 선보이고 '애슐리퀸즈'와... 이는 축구장 1.5개의 면적에 달한다. 스포츠, 아웃도어, 해외패션, 식음(F&B) 등 고객 수요가 높은 장르를...",
-          "link": "https://www.mk.co.kr/article/12154342",
-          "naver_link": "https://n.news.naver.com/mnews/article/009/0005736144?sid=101",
-          "pub_date": "Wed, 16 Sep 2026 16:02:00 +0900"
+          "title": "경남 들녘 비상… 논 3% 벼멸구 피해",
+          "description": "축구장 2500개 면적에 맞먹는 약 1800㏊ 규모다. 16일 경남도농업기술원에 따르면 이달 들어 도내 전역에서 벼멸구 피해 신고가 급증하면서, 최종 피해 규모가 도내 전체 벼 재배지의 3% 수준으로 집계됐다. 창원, 고성, 남해...",
+          "link": "http://www.gnmaeil.com/news/articleView.html?idxno=594982",
+          "naver_link": "http://www.gnmaeil.com/news/articleView.html?idxno=594982",
+          "pub_date": "Wed, 16 Sep 2026 21:48:00 +0900"
         },
         {
-          "title": "이영표 해설, 4-1 대승에도 쓴소리 \"집중력 부족으로 실점\"",
-          "description": "이영표 KBS 축구 해설위원이 아시안게임 첫 경기에서 네 골을 터뜨린 한국 대표팀의 공격력을 높이... 남자 축구 조별리그 D조 1차전에서 카타르를 4-1로 꺾었다. ‘유럽파’ 엄지성이 전반에만 세 골을 몰아쳤고, 후반에는...",
-          "link": "https://www.edaily.co.kr/News/Read?newsId=04332886645580776&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/018/0006370523",
-          "pub_date": "Wed, 16 Sep 2026 16:02:00 +0900"
+          "title": "[GOAL 현장] '주전-비주전 격차' 실감한 김기동 감독 \"로테이션 아쉽다,...",
+          "description": "서울은 16일 오후 7시 서울월드컵경기장에서 열린 아시아축구연맹(AFC) 챔피언스리그2 조별리그 1차전... 아시아 축구에 대해선 \"예전에 비해 수준이 높아진 건 맞다. 외국인 선수들이 활약하기 때문이다\"라고 평가했다. 이날...",
+          "link": "https://m.sports.naver.com/kfootball/article/216/0000142722",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/216/0000142722",
+          "pub_date": "Wed, 16 Sep 2026 21:46:00 +0900"
         },
         {
-          "title": "농구 4강·축구 첫 승…AG 구기 종목 순조로운 출발 [백효은기자의 백점...",
-          "description": "남자 농구 8년 만에 준결승행…이현중 맹활약 요르단 완파 남자 축구 대회 4연패 첫 걸음…‘엄지성 해트트릭’ 카타르 4-1 제압 아시아경기대회에 출전한 남자 농구가 8년 만에 준결승에 진출했다. 남자 축구는...",
-          "link": "https://www.kyeongin.com/article/1770965",
-          "naver_link": "https://www.kyeongin.com/article/1770965",
-          "pub_date": "Wed, 16 Sep 2026 16:02:00 +0900"
+          "title": "경남FC 통합축구단, 하나된 열정 출격 대기",
+          "description": "﻿경남FC 통합축구단 플레이원 컵 발대식 모습. / 경남 FC 경남FC 통합축구단이 '2026 K리그 플레이원 컵' 출전을 앞두고 발대식을 열고 선전을 다짐했다. 경남FC는 지난 13일 창원축구센터에서 열린 성남FC와의 홈경기...",
+          "link": "http://www.gnmaeil.com/news/articleView.html?idxno=595048",
+          "naver_link": "http://www.gnmaeil.com/news/articleView.html?idxno=595048",
+          "pub_date": "Wed, 16 Sep 2026 21:46:00 +0900"
         },
         {
-          "title": "유러피안 골든슈 케인이냐 월드컵 위너 로드리냐…2026 발롱도르 주요 ...",
-          "description": "최고의 축구선수에게 주어지는 2026 발롱도르를 놓고 해리 케인(바이에른 뮌헨)과 로드리(바르셀로나), 킬리안 음바페(레알 마드리드), 라민 야말(바르셀로나) 등이 경쟁을 벌이고 있다. 16일 유럽축구연맹(UEFA)과...",
-          "link": "https://www.news2day.co.kr/article/20260916500216",
-          "naver_link": "https://www.news2day.co.kr/article/20260916500216",
-          "pub_date": "Wed, 16 Sep 2026 16:02:00 +0900"
+          "title": "이러다 욱일기도 걸겠네! '전범' 도요토미 공연해놓고 \"역사적 의도 없...",
+          "description": "'난민촌'으로 불리는 선수단 숙소 문제로 불만이 폭발한데 이어, 축구대표팀을 실은 버스 기사가 야구장으로 가는 등 운영 미숙도 도마 위에 올랐다. 이번에는 역사 논란이다. 15일 일본 나고야의 긴조항에선 선수촌으로...",
+          "link": "https://www.sportschosun.com/sports-news/2026-09-16/202609160100114240007369",
+          "naver_link": "https://m.sports.naver.com/general/article/076/0004446841",
+          "pub_date": "Wed, 16 Sep 2026 21:46:00 +0900"
         },
         {
-          "title": "BTS 티켓 11만원→300만원…경찰, 30대 암표상 구속",
-          "description": "토트넘 축구 경기 티켓은 40만원에 구매한 뒤 165만원에 되팔았다. A씨는 암표 판매로 벌어들인 범죄 수익으로 경기도 소재 아파트 1채와 상가 2채를 산 것으로 조사됐다. 경찰은 남아있는 상가 2채와 A 씨 명의의...",
-          "link": "http://www.celuvmedia.com/article.php?aid=1789540291527692007",
-          "naver_link": "http://www.celuvmedia.com/article.php?aid=1789540291527692007",
-          "pub_date": "Wed, 16 Sep 2026 16:02:00 +0900"
+          "title": "‘골대만 두 번 강타’ 북한, 중국에 1-2 역전패…일본은 홍콩에 진땀승",
+          "description": "북한 남자 축구대표팀이 2026 아이치·나고야 아시안게임 첫 경기에서 역전패를 당하며 불안한 출발을 알렸다. 북한은 16일 일본 아이치현 웨이브 스타디움 가리야에서 열린 대회 남자 축구 조별리그 B조 1차전에서...",
+          "link": "https://www.dailian.co.kr/news/view/1691371/?sc=Naver",
+          "naver_link": "https://n.news.naver.com/mnews/article/119/0003133562?sid=104",
+          "pub_date": "Wed, 16 Sep 2026 21:45:00 +0900"
         },
         {
-          "title": "한국폴리텍대, 전국 구성원 참여 첫 축구대회 개최",
-          "description": "한국폴리텍대학은 16일 아산캠퍼스에서 전국 40여개 캠퍼스 재학생과 교직원, 동문 등 300여명이 참석한 가운데 '제1회 이사장배 축구대회'를 개최했다. 이번 대회에는 서울정수, 인천, 춘천, 대전, 광주, 대구, 창원, 바이오...",
-          "link": "https://www.newsis.com/view/NISX20260916_0003792389",
-          "naver_link": "https://n.news.naver.com/mnews/article/003/0014194980?sid=102",
-          "pub_date": "Wed, 16 Sep 2026 16:01:00 +0900"
+          "title": "전북·대전, ACL서 日 클럽에 나란히 승리…서울은 ACL2에서 인니 클럽에...",
+          "description": "프로축구 K리그1 전북과 대전이 아시아 챔피언스리그 엘리트 첫 경기에서 나란히 일본 J리그 팀을... 지난 시즌 K리그1 챔피언인 전북은 16일 전주월드컵경기장에서 열린 2026-2027 아시아축구연맹(AFC) 챔피언스리그...",
+          "link": "https://www.chosun.com/sports/football/2026/09/16/IJE4OKL2TJBXXD6ADVCU4NO4MI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/023/0003998824",
+          "pub_date": "Wed, 16 Sep 2026 21:44:00 +0900"
         }
       ]
     }
