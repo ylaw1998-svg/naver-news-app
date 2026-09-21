@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-09-21T07:56:27.523076+09:00",
+  "updated_at": "2026-09-21T09:50:29.569070+09:00",
   "interval_hours": 1.0,
   "categories": [
     {
       "keyword": "축구",
       "items": [
         {
-          "title": "시민 화합 넘어 도시 경쟁력으로…화성특례시, 한마음 체육대회 성료",
-          "description": "시와 시의회가 함께한 친선 축구경기도 이번 대회의 의미를 더했다. 정명근 화성특례시장과 이계철 화성특례시의회 의장을 비롯한 시의원들이 직접 경기에 참여해 승패보다 소통과 화합에 의미를 두는 모습을 보였다....",
-          "link": "https://www.tournews21.com/news/articleView.html?idxno=143997",
-          "naver_link": "https://www.tournews21.com/news/articleView.html?idxno=143997",
-          "pub_date": "Mon, 21 Sep 2026 07:54:00 +0900"
+          "title": "한국 테크볼, 아시안게임 첫 출전서 금메달",
+          "description": "테크볼은 축구공과 굴곡진 전용 테이블을 이용해 경기를 펼치는 종목이다. 공을 다룰 때 손과 팔을 제외한 신체 부위를 사용하며, 축구의 볼 컨트롤과 탁구의 경기 방식을 결합한 것이 특 대한민국 테크볼 국가대표 이준석...",
+          "link": "https://www.livesnews.com/news/article.html?no=64378",
+          "naver_link": "https://www.livesnews.com/news/article.html?no=64378",
+          "pub_date": "Mon, 21 Sep 2026 09:48:00 +0900"
         },
         {
-          "title": "'이강인 사진' 들고 \"명백한 퇴장감\"…모리뉴, 판정 불만 토로",
-          "description": "스페인 프로축구 프리메라리가에서 펼쳐진 '마드리드 더비'에서 패한 레알 마드리드의 조제 모리뉴 감독이 주심과 비디오 판독(VAR) 심판을 향해 강도 높은 비판을 쏟아냈습니다. 레알 마드리드는 현지 시각 20일 스페인...",
-          "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5220496",
-          "naver_link": "https://n.news.naver.com/mnews/article/057/0001969984?sid=104",
-          "pub_date": "Mon, 21 Sep 2026 07:52:00 +0900"
+          "title": "'5연패 도전' 한국 야구, 첫 경기 대만과… 여자 배구는 4강 '한일전'",
+          "description": "여자 축구대표팀은 오후 4시 시즈오카현 스타디움 에코파에서 북한과 남북 대결로 F조 조별리그를 마친다. 우리와 북한은 이미 2승씩 거둬 8강 진출을 확정한 상태다. 조 1위를 해야 8강 이후 좋은 대진표를 받을 수...",
+          "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2302566",
+          "naver_link": "https://n.news.naver.com/mnews/article/656/0000187391?sid=104",
+          "pub_date": "Mon, 21 Sep 2026 09:46:00 +0900"
         },
         {
-          "title": "\"혹평 사흘 만에 레알까지 잡았다\" 이강인, 첫 마드리드 더비 89분…결승...",
-          "description": "시메오네 감독의 강한 압박 축구에 적응할 수 있을까. 수비 가담까지 요구되는 아틀레티코에서 자신의 공격적인 장점을 유지할 수 있을까. 라리가 우승 경쟁을 노리는 팀에서 꾸준히 선발 기회를 받을 수 있을까. 시즌...",
-          "link": "https://www.ftimes.kr/news/articleView.html?idxno=39864",
-          "naver_link": "https://www.ftimes.kr/news/articleView.html?idxno=39864",
-          "pub_date": "Mon, 21 Sep 2026 07:52:00 +0900"
+          "title": "'韓 초대형 호재' 차세대 센터백 이한범 데뷔골 폭발, 환상 헤더...유럽...",
+          "description": "축구 통계 매체 소파스코어에 따르면 이한범은 수비 지표에서도 태클 2회, 가로채기 3회, 그라운드 경합 3회(3회 성공), 공중볼 경합 13회(9회 성공) 등 완벽에 가까운 수치를 보여줬다. 소파스코어는 이한범에게 팀 내 가장...",
+          "link": "https://www.sportschosun.com/football/2026-09-21/202609210100140640009148",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/076/0004448159",
+          "pub_date": "Mon, 21 Sep 2026 09:46:00 +0900"
         },
         {
-          "title": "발베르데 향해 ‘거친 태클’한 이강인, 스페인 현지에서도 논란 “이강...",
-          "description": "스페인 매체 ‘아스’는 21일 “스페인축구협회 심판기술위원회(CTA)는 이강인이 발베르데를 향한 태클로 퇴장당했어야 한다고 판단하고 있다”고 보도했다. 다만 CTA가 공식적으로 판정을 발표한 것은 아니며, 아스가...",
-          "link": "https://sports.khan.co.kr/article/202609210750003?pt=nv",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/144/0001139457",
-          "pub_date": "Mon, 21 Sep 2026 07:51:00 +0900"
+          "title": "‘생일 자축포’ 황인범, 포르투 데뷔골⋯벤피카전 3-1 승리 견인",
+          "description": "이투데이=박상군 기자 | 한국 축구대표팀의 중원 핵심 황인범(FC포르투)이 30번째 생일에 포르투갈 무대 첫... 축구 통계 매체 풋몹에 따르면 황인범은 52분 동안 패스 23개 가운데 21개를 정확히 연결해 91%의 성공률을...",
+          "link": "https://www.etoday.co.kr/news/view/2627845",
+          "naver_link": "https://www.etoday.co.kr/news/view/2627845",
+          "pub_date": "Mon, 21 Sep 2026 09:46:00 +0900"
         },
         {
-          "title": "이베이, K-스포츠 굿즈 역직구 급증···KBO 매출 전년 대비 2.9배↑",
-          "description": "프로야구(KBO)와 이스포츠, 축구 등 관련 상품이 해외 직구 품목으로 자리 잡으며 거래 규모가 크게... 축구 분야에서는 2026 북중미 월드컵 여파로 손흥민과 이강인의 국가대표팀 홈·원정 유니폼이 주요 품목에...",
-          "link": "https://www.globale.co.kr/news/articleView.html?idxno=40526",
-          "naver_link": "https://www.globale.co.kr/news/articleView.html?idxno=40526",
-          "pub_date": "Mon, 21 Sep 2026 07:50:00 +0900"
+          "title": "속초시, 이양수 의원과 동서고속철·경제특구 등 예산 논의",
+          "description": "이 밖에도 속초 반다비체육센터 추가 재정지원과 종합경기장 인근 인조잔디 축구장 조성, 수산물판매장 신축 등 정주 여건 향상을 위한 사업비 확보도 도모했으며, 이날 건의된 총 12건의 핵심 사업에 요구된 국·도비...",
+          "link": "https://www.g-enews.com/view.php?ud=20260921093528166320ae620e86_1",
+          "naver_link": "https://www.g-enews.com/view.php?ud=20260921093528166320ae620e86_1",
+          "pub_date": "Mon, 21 Sep 2026 09:46:00 +0900"
         },
         {
-          "title": "“올가을 여행은 강원이 딱이다!” 강원관광재단, 19일 FC안양 홈경기서...",
-          "description": "최성현 강원관광재단 대표이사는 “수도권 축구 팬들의 적극적인 참여로 강원 관광에 대한 뜨거운 관심을 직접 확인할 수 있었다”며 “앞으로도 다양한 스포츠 연계 현장 마케팅을 통해 더 많은 국민이 강원을...",
-          "link": "https://www.sportsseoul.com/news/read/1636582?ref=naver",
-          "naver_link": "https://n.news.naver.com/mnews/article/468/0001267777?sid=102",
-          "pub_date": "Mon, 21 Sep 2026 07:49:00 +0900"
+          "title": "'손태영♥' 권상우, 17세 子 운전면허 합격→외제차 통학에…\"부모로서...",
+          "description": "그는 \"학교든 학원이든 축구든 혼자 간다. 친구들과 밥 먹으러도 각자 차 타고 모인다\"며 달라진 아들의... 오늘 아침에도 학교, 축구 혼자 갔다 왔다\"며 아들이 실제로 운전을 시작한 모습을 전했다. 또래와 견주면 면허...",
+          "link": "https://www.tvreport.co.kr/entertainment/article/1077098/",
+          "naver_link": "https://m.entertain.naver.com/article/213/0001401880",
+          "pub_date": "Mon, 21 Sep 2026 09:44:00 +0900"
         },
         {
-          "title": "'핵심 미드필더' 황인범, 모레노호 소집 전 포르투서 데뷔골",
-          "description": "한국 남자 축구 대표팀 미드필더 황인범(30)이 포르투갈 프로축구 프리메이라리가 FC포르투 데뷔골을 터트리며 팀 승리에 이바지했다. 포르투는 21일(한국 시간) 포르투갈 포르투의 이스타디우 두 드라강에서 열린...",
-          "link": "https://www.newsis.com/view/NISX20260921_0003797454",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/003/0014203283",
-          "pub_date": "Mon, 21 Sep 2026 07:48:00 +0900"
+          "title": "“경호원으로 아이린 처음 봤는데”…남녀 주인공으로 다시 만난 배우의...",
+          "description": "배우 신승호가 축구 선수 은퇴 후 백화점 보안팀 아르바이트로 일하던 시절, 그룹 레드벨벳의 근접 경호를... 축구선수 생활을 그만둔 뒤 백화점 보안팀에서 아르바이트를 했다는 그는 “세 달 정도 했는데 너무 재밌었다....",
+          "link": "https://www.mk.co.kr/article/12157853",
+          "naver_link": "https://n.news.naver.com/mnews/article/009/0005738112?sid=103",
+          "pub_date": "Mon, 21 Sep 2026 09:43:00 +0900"
         },
         {
-          "title": "'PL 3경기 연속 무승' 캐릭, 12위인데 위기 못 느낀다...\"시즌은 길다, 팀...",
-          "description": "그는 경기 종료 후 \"우리는 소극적으로 보였다고 생각하지 않는다\"며 \"전반전에는 우리가 경기를 주도했고, 좋은 축구를 많이 보여줬다. 하지만 경기가 뜻대로 풀리지 않는 순간도 있기 마련이다\"라고 말했다. 이어...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=694906",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000224132",
-          "pub_date": "Mon, 21 Sep 2026 07:47:00 +0900"
+          "title": "광주 곳곳서 추석맞이 문화행사 '풍성'…전통놀이부터 공연·전시까지",
+          "description": "25~27일에는 월전공원과 용동공원에서 '광산구청장배 전국이주노동자 축구대회'가 진행된다. 추석 연휴 기간 행사 일정과 장소 등 자세한 내용은 '디어마이광주' 누리집에서 확인할 수 있다. 광주특시 관계자는 \"추석을...",
+          "link": "https://www.getnews.co.kr/news/articleView.html?idxno=881357",
+          "naver_link": "https://www.getnews.co.kr/news/articleView.html?idxno=881357",
+          "pub_date": "Mon, 21 Sep 2026 09:40:00 +0900"
         },
         {
-          "title": "'이강인 89분' 아틀레티코. 10명이 싸운 레알 마드리드에 2대 1 승리",
-          "description": "▲ 볼을 다투는 이강인 스페인 프로축구 프리메라리가 아틀레티코 마드리드의 이강인이 자신의 첫 '마드리드 더비'에 선발 출전해 존재감을 과시하며 팀 승리에 큰 힘을 보탰습니다. 아틀레티코 마드리드는 어제(20일...",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008762800&plink=ORI&cooper=NAVER",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/055/0001389875",
-          "pub_date": "Mon, 21 Sep 2026 07:46:00 +0900"
+          "title": "서산시, 시민체육대회 석남동 종합우승",
+          "description": "2022년 이후 4년 만에 열린 이번 대회에서는 게이트볼과 배구, 배드민턴, 씨름, 육상, 족구, 축구, 탁구, 테니스, 파크골프 등 10개 일반 종목 경기가 진행됐다. 태권도와 한궁은 시범 종목으로 치러졌으며 바구니에 공...",
+          "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5064471",
+          "naver_link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5064471",
+          "pub_date": "Mon, 21 Sep 2026 09:38:00 +0900"
         },
         {
-          "title": "박주호 아내 안나, 넷째 임신 당위성 \"세 아이 굴레 좋아\"",
-          "description": "전 축구선수 박주호의 아내 안나가 세 아이를 키우는 일상을 지나 넷째 출산을 준비하고 있는 가운데... 가족은 축구선수의 유명세를 넘어 '가족 콘텐츠'의 대표적인 사례로 자리 잡았다. 그 과정에서 안나 역시 단순히 유명...",
-          "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=90370",
-          "naver_link": "https://www.mediafine.co.kr/news/articleView.html?idxno=90370",
-          "pub_date": "Mon, 21 Sep 2026 07:46:00 +0900"
+          "title": "온, 축구 시장 진출… 음바페와 10년 파트너십 계약",
+          "description": "좌측부터 킬리안 음바페, 티에리 앙리, 시드니 셰르텐라이브 온코리아(대표 레베카 이치아 카이)의 스위스 프리미엄 스포츠웨어 브랜드 '온(On)'이 축구 시장 진출을 공식 선언했다. 이와 함께 세계 최정상의 축구 선수...",
+          "link": "https://www.fashionbiz.co.kr/article/229659",
+          "naver_link": "https://www.fashionbiz.co.kr/article/229659",
+          "pub_date": "Mon, 21 Sep 2026 09:38:00 +0900"
         }
       ]
     }
