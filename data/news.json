@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-09-21T20:53:51.159629+09:00",
+  "updated_at": "2026-09-22T02:48:37.191917+09:00",
   "interval_hours": 1.0,
   "categories": [
     {
       "keyword": "축구",
       "items": [
         {
-          "title": "물 오른 송세라 펜싱 첫 금 출사표… 김우민, 1500m서 다관왕 역영 시동...",
-          "description": "이미 8강에 진출한 한국 남자 축구대표팀은 오후 7시 나고야 미즈호 공원 럭비경기장에서 사우디아라비아와 조별리그 마지막 경기를 치른다. 남녀 단체전에서 동메달을 획득한 정구 선수들은 9시부터 나고야...",
-          "link": "http://www.segye.com/newsView/20260921516064?OutUrl=naver",
-          "naver_link": "https://n.news.naver.com/mnews/article/022/0004160851?sid=104",
-          "pub_date": "Mon, 21 Sep 2026 20:53:00 +0900"
+          "title": "\"아침에 뺨때렸다, 꿈 아니더라\" 금메달이 바꾼 이준석의 '말하는대로'...",
+          "description": "\"혹시 꿈일까 아침에 뺨을 때렸다.\" 실패한 축구 선수에서 아시아 최고의 테크볼 선수로 우뚝 선 이준석(27)의 미소다. 이준석은 20일 2026년 아이치-나고야 아시안게임 테크볼 남자 단식 결승전에서 승리하며, 대한민국...",
+          "link": "https://www.sportschosun.com/sports-news/2026-09-21/202609220100147610009624",
+          "naver_link": "https://m.sports.naver.com/general/article/076/0004448549",
+          "pub_date": "Tue, 22 Sep 2026 02:37:00 +0900"
         },
         {
-          "title": "남북전에 나타난 ‘가짜 김정은’…북한 응원단 반응은?",
-          "description": "2026 아이치·나고야 아시안게임 여자 축구 남북전이 열린 그라운드에 북한 김정은 국무위원장의 대역을... 21일 일본 시즈오카현 후쿠로이의 시즈오카 에코파 스타디움에서 열린 한국과 북한의 대회 여자 축구 조별리그 F조...",
-          "link": "https://www.dailian.co.kr/news/view/1693220/?sc=Naver",
-          "naver_link": "https://n.news.naver.com/mnews/article/119/0003135243?sid=104",
-          "pub_date": "Mon, 21 Sep 2026 20:52:00 +0900"
+          "title": "AG 파행에 日 내부서도 큰 우려 \"올림픽·월드컵 유치에 차질→외교적 ...",
+          "description": "올림픽이나 축구 월드컵 등 메가 이벤트 유치에 심각한 악영향을 미칠 것\"이라는 자성의 목소리가 쏟아지고... 올림픽이나 축구 월드컵 등 세계적 이벤트를 유치하는 데 악영향을 미칠 것이라는 우려가 커지고 있다\"고...",
+          "link": "https://www.starnewskorea.com/sports/2026/09/22/2026092118103054821",
+          "naver_link": "https://m.sports.naver.com/general/article/108/0003472408",
+          "pub_date": "Tue, 22 Sep 2026 02:22:00 +0900"
         },
         {
-          "title": "\"영국은 내리막길\"…맨유 구단주 '부자 탈출' 발언 일파만파",
-          "description": "초고액 자산가들이 잇달아 영국을 떠나는 것과 관련해 잉글랜드 프로축구단 맨체스터 유나이티드의 공동 구단주인 짐 랫클리프 이니어스 회장의 발언이 파장을 일으키고 있다. 랫클리프 회장은 지난 19일(현지시간) BBC...",
-          "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609210241&t=NN",
-          "naver_link": "https://n.news.naver.com/mnews/article/215/0001266771?sid=104",
-          "pub_date": "Mon, 21 Sep 2026 20:50:00 +0900"
+          "title": "“축구 아니라 몸싸움 하러 나왔어?” 침대 축구가 소림 축구에게 악담...",
+          "description": "20일 이란과 중국의 아이치·나고야 아시안게임 남자축구 조별리그 B조 경기는 지루한 공방전 끝에 0-0으로... 이란도 중동 특유의 ‘침대 축구’로 한때 악명이 자자했던 팀이지만, 중국의 거친 ‘소림 축구’에 화를 참지...",
+          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1008861",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/477/0000629308",
+          "pub_date": "Tue, 22 Sep 2026 02:11:00 +0900"
         },
         {
-          "title": "맨유 구단주 “영국 내리막길”…고액자산가 이탈 놓고 英정부와 설전",
-          "description": "영국에서 초고액자산가들의 해외 이주가 잇따르는 가운데 잉글랜드 프로축구 맨체스터 유나이티드 공동... 랫클리프의 발언을 둘러싼 반발은 축구계로도 번졌다. 맨체스터 유나이티드 무슬림 서포터스 클럽(MUMSC)은...",
-          "link": "https://www.g-enews.com/view.php?ud=202609212045324054bb91c46fcd_1",
-          "naver_link": "https://www.g-enews.com/view.php?ud=202609212045324054bb91c46fcd_1",
-          "pub_date": "Mon, 21 Sep 2026 20:48:00 +0900"
+          "title": "\"北 선수 어떤 스타일인지 알아서 편했다\"…'남북전 동점골' 윤수정의 ...",
+          "description": "여자 축구 F조 조별리그 최종전에 출전해 팀에 값진 득점을 터뜨렸다. 한국은 전반 35분 코너킥 수비... 지난 5월 수원에서 열린 내고향여자축구단(북한)과의 2025-2026시즌 아시아축구연맹(AFC) 여자 챔피언스리그 준결승에서...",
+          "link": "https://www.xportsnews.com/article/2198413",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/311/0002059909",
+          "pub_date": "Tue, 22 Sep 2026 02:00:00 +0900"
         },
         {
-          "title": "\"이상한 질문 하는구만, 축구했어요\"…北 감독, '남북 대결' 질문에 불쾌...",
-          "description": "축구했어요. 축구.” 작전지시 내리는 북한 여자 축구 박성진 감독.(사진=연합뉴스) 2026 아이치·나고야 아시안게임 여자 축구에서 한국과 맞붙은 북한의 박성진 감독이 경기 후 기자회견에서 ‘남북 대결’의 특별한...",
-          "link": "https://www.edaily.co.kr/News/Read?newsId=04867526645582416&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-          "naver_link": "https://n.news.naver.com/mnews/article/018/0006373918?sid=104",
-          "pub_date": "Mon, 21 Sep 2026 20:48:00 +0900"
+          "title": "'항공안전'은 일반적 교통안전이 아니다 [청계광장/황호원]",
+          "description": "축구, 야구, 농구 경기는 구기 종목이라는 공통점이 있다. 그렇다고 효율성을 위하여 세 종목의 선수를 하나의 팀으로 합치지는 않는다. 경기 규칙도, 훈련 방법도, 필요한 역량도 제각기 다르기 때문이다. 조직을 다른...",
+          "link": "https://www.mt.co.kr/opinion/2026/09/22/2026092110124270332",
+          "naver_link": "https://n.news.naver.com/mnews/article/008/0005416987?sid=110",
+          "pub_date": "Tue, 22 Sep 2026 02:00:00 +0900"
         },
         {
-          "title": "남북전 '무승부', 굳은 북한 감독…\"왜 악수 안해?\" 질문에 \"우린 축구만...",
-          "description": "여자축구 남북전이 무승부로 끝난 뒤 한국 코치진과 악수를 나누지 않은 이유를 묻는 질문에 불쾌감을 드러냈다. 21일 일본 시즈오카현 후쿠로이의 시즈오카 스타디움 에코파에서 열린 대회 여자축구 조별리그 F조...",
-          "link": "https://www.mt.co.kr/sports/2026/09/21/2026092120354877037",
-          "naver_link": "https://n.news.naver.com/mnews/article/008/0005416976?sid=104",
-          "pub_date": "Mon, 21 Sep 2026 20:47:00 +0900"
+          "title": "일본, 이젠 막장 행보인가...韓 농구에 무참히 패배→아시안게임 은메달...",
+          "description": "일본의 히가시스포웹은 21일 '일본 남자 농구 대표팀의 은메달 쾌거에도 불구하고 방송사가 즉시 축구 녹화... 남자 축구 조별리그 일본-키르기스스탄전의 녹화 중계로 전환했다'고 밝혔다. 이어 '약진을 보인 남자 농구...",
+          "link": "https://www.sportschosun.com/sports-news/2026-09-22/202609220100149230009726",
+          "naver_link": "https://m.sports.naver.com/basketball/article/076/0004448548",
+          "pub_date": "Tue, 22 Sep 2026 01:55:00 +0900"
         },
         {
-          "title": "[오피셜] 월드컵 우승으로 모든 걸 증명했다…스페인, 데 라 푸엔테 감...",
-          "description": "스페인축구협회가 루이스 데 라 푸엔테 감독과 장기 동행을 선택했다. 스페인축구협회(RFEF)는 21일(한국시간) 공식 채널을 통해 \"이사회는 성인 남자대표팀을 이끄는 데 라 푸엔테 감독과의 계약 연장을 만장일치로...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=694967",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000224159",
-          "pub_date": "Mon, 21 Sep 2026 20:45:00 +0900"
+          "title": "[천자칼럼] '친수공원 스타' 상어",
+          "description": "북미아이스하키리그 ‘새너제이 샤크스’, 사우디 프로축구리그 ‘알힐랄’처럼 상어를 마스코트로 삼는 스포츠팀도 늘고 있다. 부산 북항 친수공원에 연일 상어가 출몰하면서 지역 명물이 됐다는 소식이다....",
+          "link": "https://www.hankyung.com/article/2026092189641",
+          "naver_link": "https://n.news.naver.com/mnews/article/015/0005334925?sid=110",
+          "pub_date": "Tue, 22 Sep 2026 01:51:00 +0900"
         },
         {
-          "title": "\"나약하고, 기준 미달\"...'韓 국가대표 공격수' 양현준, 소속팀 잠시 떠...",
-          "description": "지난 13일 레인저스와의 리그컵 0-3 완패를 시작으로, 18일 페렌츠바로시 TC와의 유럽축구연맹(UEFA) 유로파리그 리그 페이즈 1차전 1-3 패배, 20일 레인저스와의 리그 맞대결 0-1 패배까지 충격적인 연패를 당했다. 무엇보다...",
-          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553557230",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/139/0002253466",
-          "pub_date": "Mon, 21 Sep 2026 20:42:00 +0900"
+          "title": "충격! 월드컵 대표팀 주장이 '위조 증명서'라니…해명이 더 기막혀 \"걱정...",
+          "description": "스위스 대표팀은 스코틀랜드, 북마케도니아, 슬로베니아와의 유럽축구연맹(UEFA) 네이션스리그를 앞두고... 스위스축구협회에서 자카에 대해 어떤 처분을 내릴지는 아직 밝혀지지 않았다. 그러나 유죄 판결이 나올 경우...",
+          "link": "https://www.sportschosun.com/football/2026-09-22/202609220100149250009727",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/076/0004448547",
+          "pub_date": "Tue, 22 Sep 2026 01:50:00 +0900"
         },
         {
-          "title": "삼성전자 37년 만의 광주투자..냉난방공조 공장 '첫삽'",
-          "description": "모두 2400억원을 투입해 축구장 3개 크기인 2만 1천여 제곱미터 부지에 조성됩니다. 플랙트 그룹의 15번째 글로벌 생산거점이자 동아시아 시장을 겨냥한 핵심 전초기지 역할을 수행하게 됩니다. 공장이 가동되는 2028년...",
-          "link": "https://kjmbc.co.kr/NewsArticle/1537964",
-          "naver_link": "https://kjmbc.co.kr/NewsArticle/1537964",
-          "pub_date": "Mon, 21 Sep 2026 20:40:00 +0900"
+          "title": "경악! 아시안게임 맞나요? 베트남 女배구 탈 버스가 무려 1시간15분이나...",
+          "description": "축구 대표팀은 카타르와의 조별리그 1차전이 열린 15일, 운전기사가 목적지를 제대로 알지 못해 엉뚱한 야구장으로 향하는 황당한 일을 겪은 끝에 예정 시간보다 30분이나 늦게 경기장에 도착했다. 다음 날에는...",
+          "link": "https://www.sportschosun.com/sports-news/2026-09-21/202609210100145570009466",
+          "naver_link": "https://m.sports.naver.com/volleyball/article/076/0004448544",
+          "pub_date": "Tue, 22 Sep 2026 01:28:00 +0900"
         },
         {
-          "title": "수영 김영범 금메달 등 '금 1·동 8' 추가…한국 종합 3위 유지 [아시안...",
-          "description": "가라테 여자 구미테 61㎏ 이하급 8강전에서 안정은이 북한 정세리를 상대로 유효 3개를 따내며 승리를 거뒀고, 여자 축구 조별리그 F조 3차전에서는 남북 대표팀이 1-1로 팽팽히 맞서며 승부를 가리지 못했다.",
-          "link": "https://www.etoday.co.kr/news/view/2628211",
-          "naver_link": "https://www.etoday.co.kr/news/view/2628211",
-          "pub_date": "Mon, 21 Sep 2026 20:40:00 +0900"
+          "title": "\"맨유가 유럽 메가 클럽들과 격차를 좁히지 못한 현실에 떠나기로 결심...",
+          "description": "최근에는 유럽축구연맹(UEFA) 유스리그에서도 해트트릭을 기록하며 자신의 재능을 증명했다. 맨유 역시 가브리엘이 16세가 되면 장학 계약을 체결한 뒤 향후 프로 계약까지 이어갈 계획을 세우며 장기적인 미래를...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=694976",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000224167",
+          "pub_date": "Tue, 22 Sep 2026 01:20:00 +0900"
         }
       ]
     }
