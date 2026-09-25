@@ -1,72 +1,79 @@
 {
-  "updated_at": "2026-09-25T06:55:50.792189+09:00",
+  "updated_at": "2026-09-25T09:16:27.161433+09:00",
   "interval_hours": 1.0,
   "categories": [
     {
       "keyword": "축구",
       "items": [
         {
-          "title": "'어차피 우승은 안세영' 변수마저 지운 압도적 1황... 경이로운 '종목별...",
-          "description": "야구의 베이브 루스, 축구의 펠레, 농구의 마이클 조던 등 각 종목들의 GOAT가 있었지만 스포츠 과학이 발전하며 점점 영양학적, 유전적인 부분, 데이터 분석 등에서 경쟁자들에 비해 압도적 우위를 지니는 것 자체가...",
-          "link": "https://www.starnewskorea.com/sports/2026/09/25/2026092211491118691",
-          "naver_link": "https://m.sports.naver.com/general/article/108/0003473425",
-          "pub_date": "Fri, 25 Sep 2026 06:50:00 +0900"
+          "title": "야유 사라진 모레노호, 화끈한 경기력으로 화답…팬심 돌아오나",
+          "description": "로베르트 모레노 단기 감독 체제로 새로운 시작을 알린 한국축구가 새로운 희망을 봤다. 모레노 감독이 이끄는 한국 축구 대표팀(FIFA 랭킹 32위)은 24일 수원월드컵경기장에서 열린 에콰도르(25위)와 9~10월 A매치 4연전의...",
+          "link": "https://www.dailian.co.kr/news/view/1694443/?sc=Naver",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/119/0003136291",
+          "pub_date": "Fri, 25 Sep 2026 09:12:00 +0900"
         },
         {
-          "title": "네이션스리그, 그리스 극장승·독일은 무승부",
-          "description": "25일(한국시간) 열린 2026-2027 유럽축구연맹(UEFA) 네이션스리그 A그룹 2조 1차전에서 그리스는 세르비아를 2-1로 제압했다. 그리스는 올해 공식전 첫 승리도 신고했다. 세르비아는 경기 시작 4분 만에 앞서갔다. 대표팀에...",
-          "link": "https://www.bntnews.co.kr/article/view/bnt202609250014",
-          "naver_link": "https://www.bntnews.co.kr/article/view/bnt202609250014",
-          "pub_date": "Fri, 25 Sep 2026 06:44:00 +0900"
+          "title": "[포토] 정몽준 이사장, 한국 축구여 일어나라",
+          "description": "대한민국 축국구가대표팀이 24일 수원월드컵경기장에서 에콰도르와 친선경기를 열었다. 정몽준 아산재단 이사장이 경기 전 에콰도르 축구협회 괸계자와 대화하고 있다.",
+          "link": "https://www.starnewskorea.com/sports/2026/09/25/2026092509090472589",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/108/0003473446",
+          "pub_date": "Fri, 25 Sep 2026 09:11:00 +0900"
         },
         {
-          "title": "일본 친선전에서 '이색 기록' 나왔다...33년 만에 형제 동시 선발 출전!...",
-          "description": "모리야스 하지메 감독이 이끄는 일본 축구 국가대표팀은 24일 오후 7시 5분(한국 시각) 일본 미야기 스타디움에서 열린 우루과이와 A매치 친선 경기에서 3-1 승리를 거뒀다. 색다른 기록이 나왔다. 하지메 감독이 중원의 두...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=695181",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000224320",
-          "pub_date": "Fri, 25 Sep 2026 06:44:00 +0900"
+          "title": "60년 만에 기적의 금메달, 일본이 난리났다…“우리 축구만 잘하는 게 ...",
+          "description": "일본 팬은 “우리는 축구만 잘하는 게 아니야. 하리모토 토모카즈는 명실상부한 세계 랭킹 1위가 됐잖아”라고 흥분했다. 어떤 팬은 “뭐라고! 일본이 탁구 경기에서 중국을 이겼다고?”라며 믿기지 않는다는 반응을...",
+          "link": "http://www.osen.co.kr/article/G1112881682",
+          "naver_link": "https://m.sports.naver.com/general/article/109/0005612522",
+          "pub_date": "Fri, 25 Sep 2026 09:11:00 +0900"
         },
         {
-          "title": "모레노호, 데뷔전서 에콰도르 3-0 완파...오현규·손흥민·이동경 후반 ...",
-          "description": "로베르트 모레노 임시 감독의 한국 축구대표팀 데뷔전은 에콰도르전 3-0 완승으로 끝났다. 한국은 24일 수원월드컵경기장 평가전에서 후반에만 오현규(베식타시), 손흥민(LAFC), 이동경(울산)이 연달아 골망을 흔들었다....",
-          "link": "https://www.maniareport.com/view.php?ud=202609242341225792dad9f33a29_19",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/425/0000208324",
-          "pub_date": "Fri, 25 Sep 2026 06:40:00 +0900"
+          "title": "이승철 40년 음악 여정 통했다…‘KBS 한가위 대기획’ 동시간대 1위",
+          "description": "24일 오후 7시 30분 방송된 2026 KBS 2TV 한가위 대기획 ‘당신의 삶은 네버엔딩 스토리–이승철’의 피날레 음악 쇼는 축구 국가대표 A매치가 방송된 가운데서도 2·3부 동시간대 시청률 1위를 기록했다. 분당 최고 시청률은...",
+          "link": "https://www.segye.com/newsView/20260925503838?OutUrl=naver",
+          "naver_link": "https://m.entertain.naver.com/article/022/0004161720",
+          "pub_date": "Fri, 25 Sep 2026 09:10:00 +0900"
         },
         {
-          "title": "\"스페인 따라 하지 마! 우리 DNA가 아니야\" 바르셀로나에서 뛰는 잉글랜...",
-          "description": "앤서니 고든이 잉글랜드 축구를 향해 소신 발언을 남겼다. 잉글랜드는 27일 오전 3시 45분(한국시간) 잉글랜드 런던에 위치한 웸블리 스타디움에서 열린 2026-27시즌 유럽축구연맹(UEFA) 네이션스리그(UNL) A그룹 3조 조별리그...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=98323",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/411/0000087661",
-          "pub_date": "Fri, 25 Sep 2026 06:35:00 +0900"
+          "title": "월드컵 7골 기세 그대로…홀란 멀티골, 노르웨이 덴마크에 3-2 승",
+          "description": "노르웨이는 24일 덴마크와의 2026-2027 유럽축구연맹(UEFA) 네이션스리그 리그A 4조 첫 경기에서 3-2로 이겼다. 북중미 월드컵에서 7골을 터뜨리며 노르웨이의 8강 진출을 이끌었던 홀란은 월드컵 이후 첫 A매치에서도 득점...",
+          "link": "https://sports.khan.co.kr/article/202609250908003?pt=nv",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/144/0001140347",
+          "pub_date": "Fri, 25 Sep 2026 09:09:00 +0900"
         },
         {
-          "title": "[IN LIVE] \"꿈만 같은 시간!\"…'A매치 데뷔전' 김민수 \"대표팀 무게 알아...",
-          "description": "로베르트 모레노 임시 감독이 이끄는 대한민국 축구 국가대표팀은 24일 오후 8시 수원월드컵경기장에서 열린 하나은행 초청 대한민국 축구 국가대표팀 A매치 친선 경기에서 에콰도르에 3-0으로 승리했다. 이날 김민수는...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=695179",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/413/0000224319",
-          "pub_date": "Fri, 25 Sep 2026 06:35:00 +0900"
+          "title": "\"경악! 지금이 어느 때라고\" 이스라엘 '초신성', 총 쏘는 세리머니하다...",
+          "description": "축구 규정에 따르면 선수가 골 세리머니를 도발, 조롱 등 선동적인 방식으로 할 경우 경고를 받을 수 있다. 이번 일은 이스라엘의 가자지구 사태가 축구계의 헤드라인을 장식한 가운데 발생했다. 이스라엘은 유럽에서도...",
+          "link": "https://www.sportschosun.com/football/2026-09-25/202609250100168310011061",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/076/0004449567",
+          "pub_date": "Fri, 25 Sep 2026 09:07:00 +0900"
         },
         {
-          "title": "\"걱정된다, 정말 형편 없어\" 이민성호, '초대형 변수' 직면...日 경기장...",
-          "description": "매체에 따르면 해당 소식을 접한 일본 팬들은 \"잔디 탓에 걱정된다\", \"정말 형편없다\", \"결승까진 버틸 수 있을까\" 등 주로 부정적인 반응을 쏟아냈다. 사진=대한축구협회",
-          "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553566227",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/139/0002253641",
-          "pub_date": "Fri, 25 Sep 2026 06:32:00 +0900"
+          "title": "\"배트 소리가 심장을 뛰게 해요\"…유소년 야구 첫 여성 태극마크",
+          "description": "자전거를 비롯해 캐치볼과 축구, 피구 등 다양한 운동을 즐겼고 엄청난 승부욕으로 한번 시작한 일은 끝을 봐야 직성이 풀리는 성격이다. 어머니 임수빈 씨는 \"서윤이가 여섯 살 때 처음으로 자전거를 탔는데 처음 탄 날...",
+          "link": "https://www.news1.kr/local/gwangju-jeonnam/6300295",
+          "naver_link": "https://n.news.naver.com/mnews/article/421/0009191174?sid=102",
+          "pub_date": "Fri, 25 Sep 2026 09:07:00 +0900"
         },
         {
-          "title": "'대표팀 4-4-2' 이미 익숙한 정승원 \"상암의 황태자? 모레노의 황태자까...",
-          "description": "로베르트 모레노 감독이 이끄는 대한민국 남자 축구대표팀은 24일 오후 8시 수원월드컵경기장에서 하나은행 초청 친선경기를 치러 에콰도르에 3-0 승리를 기록했다. 정승원이 FC서울 때와 판박이 역할을 소화했다. 올 시즌...",
-          "link": "http://www.footballist.co.kr/news/articleView.html?idxno=215168",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/436/0000113627",
-          "pub_date": "Fri, 25 Sep 2026 06:30:00 +0900"
+          "title": "KBO 김도영·곽빈 ‘선전’…‘K-브랜드지수’ 2026 아시안게임 국가대...",
+          "description": "그 결과 1위 김도영(야구)에 이어 2위 안세영(배드민턴), 3위 이상혁(e스포츠), 4위 곽빈(야구), 5위 이현중(농구), 6위 신유빈(탁구), 7위 배준호(축구), 8위 오상욱(펜싱), 9위 황선우(수영), 10위 우상혁(육상)이  톱10의 영예를...",
+          "link": "https://www.swtvnews.com/news/newsview.php?ncode=1065574317956988",
+          "naver_link": "https://www.swtvnews.com/news/newsview.php?ncode=1065574317956988",
+          "pub_date": "Fri, 25 Sep 2026 09:06:00 +0900"
         },
         {
-          "title": "도심 속 힐링 명소 가득한 세종… 한가위 연휴 추천 나들이 코스",
-          "description": "국내 최대 인공호수로 축구장 62배 규모에 달하는 넓은 수변 공간을 따라 산책과 자전거 타기를 즐길 수 있다. 호수 곳곳에는 개성 있는 테마를 가진 5개의 인공섬이 자리하고 있다. 다양한 축제와 행사가 열리는 축제섬...",
-          "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2303211",
-          "naver_link": "https://n.news.naver.com/mnews/article/656/0000187733?sid=102",
-          "pub_date": "Fri, 25 Sep 2026 06:30:00 +0900"
+          "title": "총쏘는 세리머니? 당구 세리머니? 이게 퇴장감?",
+          "description": "축구대표팀의 20세 공격수 사이드 아부 파르히(콜로라도 래피즈)가 골을 넣은 뒤 코너 플래그를 총처럼 사용하는 세리머니를 했다가 퇴장당했다. 아부 파르히는 24일 오스트리아 린츠에서 열린 2026-2027 유럽축구연맹...",
+          "link": "https://sports.khan.co.kr/article/202609250905003?pt=nv",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/144/0001140346",
+          "pub_date": "Fri, 25 Sep 2026 09:06:00 +0900"
+        },
+        {
+          "title": "‘슈퍼스타’ 김도영, 안세영·이상혁 제치고 K-브랜드지수 아시안게임...",
+          "description": "K-브랜드지수 2026 아시안게임 국가대표 부문은 1위 김도영(야구)에 이어 2위 안세영(배드민턴), 3위 이상혁(e스포츠), 4위 곽빈(야구), 5위 이현중(농구), 6위 신유빈(탁구), 7위 배준호(축구), 8위 오상욱(펜싱), 9위 황선우...",
+          "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065574043286190",
+          "naver_link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065574043286190",
+          "pub_date": "Fri, 25 Sep 2026 09:06:00 +0900"
         }
       ]
     }
