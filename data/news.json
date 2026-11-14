@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-11-14T17:31:30.891634+09:00",
+  "updated_at": "2026-11-15T00:30:50.642477+09:00",
   "interval_hours": 1.0,
   "categories": [
     {
       "keyword": "축구",
       "items": [
         {
-          "title": "\"이강인, A매치 다녀온 후 기량 저하\" 모레노가 망친 '韓 에이스', 11월도...",
-          "description": "대한민국 축구 대표팀은 13일(한국시각) 카타르 도하의 자심 빈 하마드 스타디움에서 열린 사우디 아라비아와의 11월 친선경기에서 3대2로 패배했다. 이강인은 이날도 선발 출전했다. 모레노 감독에게 주어진 가장 큰...",
-          "link": "https://www.sportschosun.com/football/2026-11-14/202611140100095120008911",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/076/0004466650",
-          "pub_date": "Sat, 14 Nov 2026 17:26:00 +0900"
+          "title": "'미국 대표팀과 작별 고하며' 눈물 쏟은 포체티노 감독 \"맨유 감독직은...",
+          "description": "잉글랜드 프로축구 프리미어리그(EPL) 맨체스터 유나이티드 지휘봉을 들게 된 마우리시오 포체티노 감독이... 불과 3개월 전 미국축구협회와 4년 재계약을 맺고도 맨유의 제안을 받아들인 이유를 묻자 그는 \"나는 돌아가고...",
+          "link": "http://www.thesportstimes.co.kr/news/articleView.html?idxno=377564",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/472/0000042456",
+          "pub_date": "Sun, 15 Nov 2026 00:20:00 +0900"
         },
         {
-          "title": "'사우디전 참패' 모레노호 4-4-2 전술, 이번에도 보완점만 '수두룩'",
-          "description": "로베르트 모레노(스페인) 감독이 한국 남자 축구대표팀 임시 사령탑으로 다섯 번째 경기를 지휘했지만 이번에도 여러 문제점을 노출하며 아쉬움을 남겼다. 모레노 감독이 이끄는 한국 남자 축구대표팀은 지난 13일(한국...",
-          "link": "https://www.newsis.com/view/NISX20261114_0003868130",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/003/0014322176",
-          "pub_date": "Sat, 14 Nov 2026 17:22:00 +0900"
+          "title": "\"더 이상 EPL 득점왕 그 손흥민 아니다!\" 치명적인 빅찬스 미스 두 차례...",
+          "description": "로베르트 모레노 임시 감독이 이끄는 대한민국 축구대표팀은 13일 오후 11시 30분(한국시간) 카타르 도하... 손흥민은 대표팀의 경기력에 대해서도 \"축구가 원하는 대로 되지 않을 때가 있다. 안타깝다\"면서도 \"더 단단하게...",
+          "link": "http://www.osen.co.kr/article/G1112909856",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/109/0005640696",
+          "pub_date": "Sun, 15 Nov 2026 00:15:00 +0900"
         },
         {
-          "title": "서울 이랜드, K리그 최초 '온라인 레울파크' 개장…AI로 목동운동장 완...",
-          "description": "프로축구 K리그2 서울 이랜드 FC가 실제 홈구장인 목동종운동장의 좌석 배치를 웹상에 3D로 똑같이 옮겨놓은 가상 응원 공간 '온라인 레울파크'를 정식 오픈했다. 실제 경기장 도면을 그대로 반영한 메타버스 홈구장을...",
-          "link": "https://sports.hankooki.com/news/articleView.html?idxno=6943544",
-          "naver_link": "https://sports.hankooki.com/news/articleView.html?idxno=6943544",
-          "pub_date": "Sat, 14 Nov 2026 17:18:00 +0900"
+          "title": "미국 떠나 맨유행 결정한 '손흥민 은사' 포체티노, 끝내 눈물 쏟았다…...",
+          "description": "북중미카리브축구연맹(CONCACAF) 네이션스리그 8강 1·2차전을 치른다. 이번 2연전을 끝으로 포체티노는 미국... 미국축구연맹(USSF)에 1,000만 달러(약 134억 원)에 달하는 보상금을 지불했다. USSF는 포체티노의 후임으로 펩...",
+          "link": "https://www.goal.com/kr/뉴스/a/bltb1c131786bc3f37d",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/216/0000143754",
+          "pub_date": "Sun, 15 Nov 2026 00:15:00 +0900"
         },
         {
-          "title": "'난 누구랑 달라!' 투헬, 잉글랜드 대표팀 잔류 못 박아...'유로 2028 우승...",
-          "description": "토마스 투헬 잉글랜드 축구대표팀 감독이 빅클럽들의 러브콜 가능성을 일축하며 유럽축구연맹(UEFA) 유로 2028까지 잉글랜드를 이끌겠다고 선언했다. 영국 매체 '스카이스포츠'는 14일(한국시간) \"투헬 감독이 잉글랜드...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=698452",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000226584",
-          "pub_date": "Sat, 14 Nov 2026 17:17:00 +0900"
+          "title": "사우디전 다음날 훈련 지도하는 모레노 감독",
+          "description": "한국 축구 대표팀 로베르트 모레노 임시 감독이 14일(현지시간) 카타르 도하 카타르대학교 훈련장에서 잠시 생각에 잠겨 있다. 2026.11.15",
+          "link": "https://www.yna.co.kr/view/PYH20261115001100013?input=1196m",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/001/0016442015",
+          "pub_date": "Sun, 15 Nov 2026 00:13:00 +0900"
         },
         {
-          "title": "예견된 시우디전 패배! 대표팀에 '새 얼굴'이 필요하다[심재희의 골라인...",
-          "description": "2026 국제축구연맹(FIFA) 북중미 월드컵 실패 후 변한 게 별로 보이지 않는다. 기본 선수 구성과 경기 전략 등이... 한국 축구는 위기를 기회로 바꿨다. 1998 프랑스 월드컵 이후 안정환, 이동국, 고종수 등 젊은 선수들이...",
-          "link": "https://www.mydaily.co.kr/page/view/2026111411320757598",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/117/0004124968",
-          "pub_date": "Sat, 14 Nov 2026 17:06:00 +0900"
+          "title": "사우디전 다음날 훈련 지도하는 모레노 감독",
+          "description": "한국 축구 대표팀 로베르트 모레노 임시 감독이 14일(현지시간) 카타르 도하 카타르대학교 훈련장에서 잠시 생각에 잠겨 있다. 2026.11.15",
+          "link": "https://www.yna.co.kr/view/PYH20261115001000013?input=1196m",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/001/0016442014",
+          "pub_date": "Sun, 15 Nov 2026 00:11:00 +0900"
         },
         {
-          "title": "\"그곳으로 빨리 돌아갈수록 좋다\"…쏘니 절친 와이프 피셜 떴다! 나폴리...",
-          "description": "잉글랜드 프리미어리그(PL) 우승 6회, FA컵 우승 2회, 리그컵 우승 5회, 커뮤니티실드 우승 2회, 유럽축구연맹(UEFA) 챔피언스리그(UCL) 우승 1회, 국제축구연맹(FIFA) 클럽 월드컵 우승 1회 등 수많은 트로피를 들어 올렸다....",
-          "link": "https://www.mydaily.co.kr/page/view/2026111413095029886",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/117/0004124966",
-          "pub_date": "Sat, 14 Nov 2026 17:04:00 +0900"
+          "title": "사우디전 다음날 회복훈련하는 축구대표팀 선수들",
+          "description": "한국 축구 대표팀 손흥민, 황인범, 황희찬 등 선수들이 14일(현지시간) 카타르 도하 카타르대학교 훈련장에서 회복 훈련을 하고 있다. 2026.11.15",
+          "link": "https://www.yna.co.kr/view/PYH20261115000900013?input=1196m",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/001/0016442013",
+          "pub_date": "Sun, 15 Nov 2026 00:11:00 +0900"
         },
         {
-          "title": "‘킵 더 볼’의 역설…이영표 “그리스도인은 내어주는 사람”",
-          "description": "박 선수는 “하나님을 알아갈수록 축구할 기회도 그가 주셨다는 깨달음이 생겼다”며 “경쟁과 결과보다... 그에 따르면 프로 여자축구팀 8곳 가운데 한 팀에서 시작한 허들은 4개 팀으로 늘었다. 그는 축구로...",
-          "link": "https://www.kmib.co.kr/article/20261114500083",
-          "naver_link": "https://n.news.naver.com/mnews/article/005/0001885086?sid=103",
-          "pub_date": "Sat, 14 Nov 2026 17:01:00 +0900"
+          "title": "훈련하는 축구대표팀",
+          "description": "한국 축구 대표팀 선수들이 14일(현지시간) 카타르 도하 카타르대학교 훈련장에서 훈련을 하고 있다. 2026.11.15",
+          "link": "https://www.yna.co.kr/view/PYH20261115000800013?input=1196m",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/001/0016442012",
+          "pub_date": "Sun, 15 Nov 2026 00:10:00 +0900"
         },
         {
-          "title": "\"사우디 아시아 강호도 아닌데…\" 스페인도 놀랐다 \"모레노호, 저번처럼...",
-          "description": "로베르트 모레노 감독이 이끄는 대한민국 축구 국가대표팀은 13일 오후 11시 30분(한국시간) 카타르 도하에... 한국은 현재 아시아 축구의 강호라고 보기는 어려운 사우디를 상대로도 고전했다. 한국은 지난 9~10월 A매치...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100760",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/411/0000089957",
-          "pub_date": "Sat, 14 Nov 2026 16:55:00 +0900"
+          "title": "훈련하는 이강인",
+          "description": "한국 축구 대표팀 이강인이 14일(현지시간) 카타르 도하 카타르대학교 훈련장에서 몸을 풀고 있다. 2026.11.15",
+          "link": "https://www.yna.co.kr/view/PYH20261115000600013?input=1196m",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/001/0016442010",
+          "pub_date": "Sun, 15 Nov 2026 00:10:00 +0900"
         },
         {
-          "title": "월드컵 앞둔 신상우호, 스페인서 담금질… 카탈루냐-벨기에와 격돌",
-          "description": "사진=뉴시스 2027 국제축구연맹(FIFA) 브라질 여자 월드컵을 향한 준비가 한창이다. 신상우 감독이 이끄는 한국 여자축구대표팀이 조 추첨을 앞두고 유럽 원정에 나선다. 두 차례 친선경기로 경기력을 점검할...",
-          "link": "https://www.sportsworldi.com/newsView/20261114505791",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/396/0000760928",
-          "pub_date": "Sat, 14 Nov 2026 16:51:00 +0900"
+          "title": "사우디전 다음날 훈련 지도하는 모레노 감독",
+          "description": "한국 축구 대표팀 로베르트 모레노 임시 감독이 14일(현지시간) 카타르 도하 카타르대학교 훈련장에서 선수들을 지켜보고 있다. 2026.11.15",
+          "link": "https://www.yna.co.kr/view/PYH20261115000700013?input=1196m",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/001/0016442011",
+          "pub_date": "Sun, 15 Nov 2026 00:10:00 +0900"
         },
         {
-          "title": "장충에 뜬 FC서울 '남매 구단' 의리 지켰다! 김기동 감독 \"GS칼텍스가 기...",
-          "description": "10년 만에 프로축구 K리그1 정상에 오른 김기동(55) FC서울 감독과 선수단이 '남매 구단' GS칼텍스의 V리그 2연패를 기원하며 배구장을 찾았다. FC서울 김기동 감독과 주장 김진수를 비롯한 선수단은 14일 서울...",
-          "link": "https://www.starnewskorea.com/sports/2026/11/14/2026111416180294232",
-          "naver_link": "https://m.sports.naver.com/volleyball/article/108/0003487370",
-          "pub_date": "Sat, 14 Nov 2026 16:41:00 +0900"
+          "title": "사우디전 다음날 훈련 지도하는 모레노 감독",
+          "description": "한국 축구 대표팀 로베르트 모레노 임시 감독이 14일(현지시간) 카타르 도하 카타르대학교 훈련장에서 선수들을 지켜보고 있다. 2026.11.15",
+          "link": "https://www.yna.co.kr/view/PYH20261115000500013?input=1196m",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/001/0016442009",
+          "pub_date": "Sun, 15 Nov 2026 00:10:00 +0900"
         }
       ]
     }
