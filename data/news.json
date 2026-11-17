@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-11-17T19:06:10.177976+09:00",
+  "updated_at": "2026-11-18T04:33:35.856505+09:00",
   "interval_hours": 1.0,
   "categories": [
     {
       "keyword": "축구",
       "items": [
         {
-          "title": "그야말로 미친 소식! 아스널 핵심 미드필더 돈방석에 앉는다!…'주급 6억...",
-          "description": "현재 잉글랜드 남자 축구대표팀에 차출된 라이스는 최근 아스널과의 계약 연장이 임박했음을 밝힌 바 있다. 그는 \"나는 선수 생활 내내 이렇게 꾸준한 수준의 경기력을 유지할 수 있었다는 점에서 정말 운이 좋았다\"며...",
-          "link": "https://www.mydaily.co.kr/page/view/2026111713532295206",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/117/0004125883",
-          "pub_date": "Tue, 17 Nov 2026 19:03:00 +0900"
+          "title": "中 축구, 'FIFA 랭킹 라이벌' 상대 질 뻔했다...'0-2→2-2' 간신히 비기며...",
+          "description": "축구가 바레인을 상대로 극적인 무승부를 거뒀다. 중국은 17일 오후 9시(한국시간) 중국 자오칭 신구 스포츠 센터 스타디움에서 열린 바레인과 친선경기에서 2-2로 승부를 가리지 못했다. 이 경기 전까지 국제축구연...",
+          "link": "https://www.goal.com/kr/뉴스/a/bltd9e910a5d9253f30",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/216/0000143809",
+          "pub_date": "Wed, 18 Nov 2026 04:31:00 +0900"
         },
         {
-          "title": "CJ제일제당, 천안 코리아풋볼파크에 생분해 인조잔디 충전재 시공",
-          "description": "코리아풋볼파크는 축구 국가대표 훈련시설이 있는 곳이다. 회사 측은 국내 스포츠 시설에 PHA 충전재를 쓴... 지난해 스웨덴, 노르웨이, 핀란드 등 유럽 여러 축구장에 먼저 공급했고, 같은 제품을 국내에 들여왔다....",
-          "link": "https://www.betanews.net/article/view/beta202611170094",
-          "naver_link": "https://www.betanews.net/article/view/beta202611170094",
-          "pub_date": "Tue, 17 Nov 2026 19:02:00 +0900"
+          "title": "[IN LIVE] 韓 축구, LA 올림픽에서는 메달 꿈꾼다…윤도영의 간절한 다짐...",
+          "description": "김은중 감독이 이끄는 대한민국 21세 이하(U-21) 축구 국가대표팀은 17일 오후 7시 천안종합운동장에서 열린 '하나은행 초청 U-21 축구국가대표팀 친선경기'에서 멕시코 U-21 대표팀과 0-0 무승부를 거뒀다. 이날 윤도영은...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=698682",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000226749",
+          "pub_date": "Wed, 18 Nov 2026 04:30:00 +0900"
         },
         {
-          "title": "대한민국 스포츠 진흥 이끈 ‘21개의 별’…‘2026 코리아 스포츠진흥대...",
-          "description": "올해 총 79개 대회를 개최하며 6년 연속 총상금 300억 원을 달성한 한국여자프로골프협회(KLPGA), 43년간 축구 저변 확대와 사회공헌활동 확산에 힘써온 한국프로축구연맹, 2025~2026시즌 프로농구 최초의 항공 원정 응원단을...",
-          "link": "https://sports.donga.com/sports/article/all/20261117/135030735/1",
-          "naver_link": "https://m.sports.naver.com/general/article/382/0001305318",
-          "pub_date": "Tue, 17 Nov 2026 19:01:00 +0900"
+          "title": "콜라스 레일, 카사블랑카 철도 2900만 유로 수주…현대로템 전동차 달릴...",
+          "description": "모로코 정부가 2030년 국제축구연맹(FIFA) 월드컵을 앞두고 철도 선로와 전력망 확충에 속도를 내면서, 앞서 2층 전동차 110편성 공급 계약을 체결한 현대로템의 차량이 투입될 현지 철도 인프라 정비도 본격화하고...",
+          "link": "https://www.g-enews.com/view.php?ud=202611180421332159fbbec65dfb_1",
+          "naver_link": "https://www.g-enews.com/view.php?ud=202611180421332159fbbec65dfb_1",
+          "pub_date": "Wed, 18 Nov 2026 04:30:00 +0900"
         },
         {
-          "title": "‘2026 코리아 스포츠진흥대상’서 빛난 21개의 별들…대한민국 스포츠...",
-          "description": "●프로스포츠 스페셜｜한국프로축구연맹 대한민국을 대표하는 프로스포츠 리그인 K리그를 운영하며 지난 43년간 축구 저변 확대, 사회공헌활동 확산, 팬 중심의 다양한 마케팅 활동 전개, 관람문화 개선 등을 통해...",
-          "link": "https://sports.donga.com/sports/article/all/20261117/135013215/1",
-          "naver_link": "https://m.sports.naver.com/general/article/382/0001305319",
-          "pub_date": "Tue, 17 Nov 2026 19:01:00 +0900"
+          "title": "'경합 부족' 손흥민에게 공 몰아주던 축구는 이제 그만? 오세훈 세우자...",
+          "description": "그 과정에서 대한민국 축구대표팀의 새로운 공격 조합도 가능성을 드러냈다. 로베르트 모레노 임시 감독이 이끄는 대한민국 축구대표팀은 17일 오후 11시(한국시간) 카타르 도하의 압둘라 빈 칼리파 스타디움에서 열린...",
+          "link": "http://www.osen.co.kr/article/G1112911565",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/109/0005641864",
+          "pub_date": "Wed, 18 Nov 2026 04:30:00 +0900"
         },
         {
-          "title": "전북특별자치도4-H연합회 한마음대회 개최",
-          "description": "첫날 저녁에는 콩쥐팥쥐리조트에서 시·군 정보교류 시간을 가졌으며 둘째 날에는 지사울공원 축구장에서 승부차기와 계주 결승을 치른 뒤 시상식과 환경정화활동으로 대회를 마무리한다. 4-H 운동은 지(Head)·덕...",
-          "link": "https://sjbnews.com/news/news.php?number=892893",
-          "naver_link": "https://sjbnews.com/news/news.php?number=892893",
-          "pub_date": "Tue, 17 Nov 2026 19:00:00 +0900"
+          "title": "'오세훈 결승골' 축구대표팀, 카타르에 1-0 승리‥올해 A매치 끝",
+          "description": "축구대표팀이 올해 마지막 A매치에서 카타르를 1대 0으로 제압했습니다. 모레노 임시 감독이 이끄는 대표팀은 카타르 도하에서 열린 카타르와의 친선경기에서 전반 43분 오세훈의 헤더 결승골에 힘입어 1대 0 승리를...",
+          "link": "https://imnews.imbc.com/news/2026/sports/article/6866454_36946.html",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/214/0001536265",
+          "pub_date": "Wed, 18 Nov 2026 04:28:00 +0900"
         },
         {
-          "title": "10% 남은 배터리, 12분 만에 70%로…영하 30도에도 전기차 충전 걱정 뚝",
-          "description": "회사 관계자는 “극히 일부분”이라며 지금까지 받은 특허증을 모두 펼치면 축구장 12개를 덮을 규모라고 소개했다. 배터리 제조로 출발한 BYD는 자동차 부품 대부분을 자체 생산하는 체계를 갖췄다. 차량용...",
-          "link": "https://www.edaily.co.kr/News/Read?newsId=04949526645646704&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-          "naver_link": "https://n.news.naver.com/mnews/article/018/0006411360?sid=101",
-          "pub_date": "Tue, 17 Nov 2026 18:59:00 +0900"
+          "title": "'7-0 대승 이후 역사적인 0-5 참패'…네덜란드 사비 감독 공개 사과 \"이...",
+          "description": "네덜란드는 17일 독일 베를린에서 열린 2026-27시즌 유럽축구연맹(UEFA) 네이션스리그A 그룹2 6차전에서 독일에... 네덜란드 대표팀의 사비 감독은 독일전 패배 후 \"모든 네덜란드 축구팬 여러분께 사과드린다. 나에게도...",
+          "link": "https://www.mydaily.co.kr/page/view/2026111801334259097",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/117/0004125961",
+          "pub_date": "Wed, 18 Nov 2026 04:02:00 +0900"
         },
         {
-          "title": "JLFC 유소년 축구클럽 오주호 대표 고향사랑기부금 기부",
-          "description": "JLFC 유소년 축구클럽 오주호 대표는 17일 무주군에 고향사랑기부금 100만 원을 기부했다. 오 대표는“유소년 축구 스토브리그로 맺은 무주와의 인연이 고향사랑기부로 이어져 보람을 느낀다”며“무주군 발전과 군민의...",
-          "link": "https://sjbnews.com/news/news.php?number=892823",
-          "naver_link": "https://sjbnews.com/news/news.php?number=892823",
-          "pub_date": "Tue, 17 Nov 2026 18:58:00 +0900"
+          "title": "[IN LIVE] '세 살 월반' 김예건, A대표팀보다 지금이 먼저!…\"U-21 대표팀...",
+          "description": "김은중 감독이 이끄는 대한민국 21세 이하(U-21) 축구 국가대표팀은 17일 오후 7시 천안종합운동장에서 열린 '하나은행 초청 U-21 축구국가대표팀 친선경기'에서 멕시코 U-21 대표팀과 0-0 무승부를 거뒀다. 이날 선발 출전한...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=698663",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/413/0000226748",
+          "pub_date": "Wed, 18 Nov 2026 04:00:00 +0900"
         },
         {
-          "title": "“김민수는 뛰어난 재능” 극찬했던 피케, 충격적인 ‘사망사고’ 낸 오...",
-          "description": "스페인축구협회로부터 출전정지 12경기·벌금 600유로(약 88만원) 징계를 받자 “불공평하다”고 불평을 털어놨다. 17일(한국시간) 현지 보도를 종합하면 피케는 자신의 소셜미디어(SNS)를 통해 올린 영상에서 스페인축구협...",
-          "link": "https://www.goal.com/kr/뉴스/a/bltf1c0ff230c72c700",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/216/0000143795",
-          "pub_date": "Tue, 17 Nov 2026 18:55:00 +0900"
+          "title": "모레노호, 마지막 A매치 카타르전 1대 0 승리",
+          "description": "모레노 임시 감독이 이끄는 축구 대표팀이 올해 마지막 A매치 상대인 카타르를 힘겹게 꺾었습니다. 축구대표팀은 카타르 도하에서 열린 피파 랭킹 60위인 카타르와의 친선 경기에서 1대 0으로 이겼습니다. 전반 43분...",
+          "link": "https://www.ytn.co.kr/_ln/0107_202611180346475026",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/052/0002434279",
+          "pub_date": "Wed, 18 Nov 2026 03:46:00 +0900"
         },
         {
-          "title": "이게 바로 대한민국 에이스의 품격...이강인, 사우디 1450억 초대형 제안...",
-          "description": "스페인 매체 'dorsal16'은 16일(이하 한국시간) 스페인 축구 전문 기자 루벤 우리아가 자신의 매체 '클럽 우리아'를 통해 공개한 이강인의 지난여름 이적 비화를 소개하면서 \"이강인은 아틀레티코 마드리드에서 뛰겠다는...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100896",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/411/0000090084",
-          "pub_date": "Tue, 17 Nov 2026 18:55:00 +0900"
+          "title": "\"이강인과 호흡이 훨씬 더 잘 맞는데?\" 대표팀 '붙박이 주전' 설영우, 본...",
+          "description": "로베르트 모레노 임시 감독의 한국 축구대표팀은 17일 오후 11시(한국시간) 카타르 도하의 압둘라 빈 칼리파... 이날 최준의 경기를 지켜본 축구 팬들은 \"이강인과 호흡이 더 좋은 것 같다\"라며 극찬을 아끼지 않았다. 다만...",
+          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020417",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/477/0000639619",
+          "pub_date": "Wed, 18 Nov 2026 03:46:00 +0900"
         },
         {
-          "title": "모레노, 한국 귀국 없다...카타르전 종료 후 스페인 복귀→정식 감독 여...",
-          "description": "한국 축구대표팀이 중동 원정을 마치고 귀국하는 가운데, 모레노 감독과 스페인 코칭스태프는 스페인으로... 대한축구협회는 귀국 이후 모레노 감독에 대한 평가를 진행할 계획이다. 모레노 감독은 임시 사령탑...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=698650",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/413/0000226720",
-          "pub_date": "Tue, 17 Nov 2026 18:54:00 +0900"
+          "title": "의식 잃고 쓰러졌던 바이에른 감독, 결국 돌아왔다...콤파니, 뇌수막 자...",
+          "description": "코칭스태프와 선수단에는 당분간 콤파니 감독과 축구에 관한 대화를 나누지 말라는 방침까지 전달됐다. 훈련과 경기 준비에 관한 업무를 내려놓고 치료에만 집중하도록 하기 위한 조치였다. 이후 콤파니 감독은 회복...",
+          "link": "http://www.osen.co.kr/article/G1112911491",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/109/0005641863",
+          "pub_date": "Wed, 18 Nov 2026 03:45:00 +0900"
         }
       ]
     }
