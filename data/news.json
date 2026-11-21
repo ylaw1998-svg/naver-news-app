@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-11-22T00:55:34.474313+09:00",
+  "updated_at": "2026-11-22T06:26:17.613024+09:00",
   "interval_hours": 1.0,
   "categories": [
     {
       "keyword": "축구",
       "items": [
         {
-          "title": "[PL WORST] 맨시티 부진에 홀란드도 예외 없었다…팀 내 최저 평점 굴욕...",
-          "description": "축구 통계 매체 '풋몹'에 따르면 홀란드는 기대 득점(xG) 1.00을 기록했음에도 골망을 흔들지 못했다. 슈팅 4개를 시도했지만 유효 슈팅은 단 1개에 그쳤고, 결정적인 득점 기회도 한 차례 놓쳤다. 여기에 볼 터치 24회, 패스...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=698971",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000226944",
-          "pub_date": "Sun, 22 Nov 2026 00:40:00 +0900"
+          "title": "◇오늘의 경기(22일)",
+          "description": "◆22일(일) △프로축구= 광주-부천(광주월드컵경기장) 김천-제주(김천종합운동장·이상 14시) △여자농구... 14시) △프로축구2부= 전남-안산(광양축구전용구장) 대구-김해(대구iM뱅크파크·이상 14시) 서울E-충남아산...",
+          "link": "https://www.yna.co.kr/view/AKR20261122003600007?input=1195m",
+          "naver_link": "https://m.sports.naver.com/general/article/001/0016456034",
+          "pub_date": "Sun, 22 Nov 2026 06:23:00 +0900"
         },
         {
-          "title": "한국은 3-0 웃었는데…일본 울었다, U-17 월드컵 첫판부터 '캡틴 충격 퇴...",
-          "description": "일본은 21일(한국시간) 카타르 도하에서 열린 2026 국제축구연맹(FIFA) 카타르 17세 이하(U-17) 월드컵 조별리그 L조 1차전에서 콜롬비아에 1-2 역전패를 거뒀다. 지난 5월 열린 2026 아시아축구연맹(AFC) U-17 아시안컵에서...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=101116",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/411/0000090292",
-          "pub_date": "Sun, 22 Nov 2026 00:38:00 +0900"
+          "title": "‘정혜영♥’ 션, 러닝의 아이콘인데 막내 유치원 운동회서 굴욕 “뛰다...",
+          "description": "션은 \"원래 5명이 모여서 그냥 뛰다가 '우리도 크루를 만들자'고 해서 이름도 못 정했으니까 '언노운 크루'가 됐다\"면서 멤버로 전 축구선수 이영표, 배우 윤세아, 박보검, 임시완, 권화운, 권은주 감독, 임경희 선수 등을...",
+          "link": "https://www.newsen.com/news_view.php?uid=202611212038456110",
+          "naver_link": "https://m.entertain.naver.com/article/609/0001190046",
+          "pub_date": "Sun, 22 Nov 2026 06:23:00 +0900"
         },
         {
-          "title": "뮌헨, 쾰른전 1-1 무승부 선두 위기… 케인도 인대파열 이탈",
-          "description": "경기 후 축구통계 매체 '풋몹'에 따르면 김민재는 20분 동안 볼터치 19회, 패스 성공률 92%(12/13), 태클 2회... 한편 뮌헨은 오는 26일 유럽축구연맹(UEFA) 챔피언스리그(UCL) 리그 페이즈 5차전 릴 OSC와의 경기를 앞두고 있다.",
-          "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=367882",
-          "naver_link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=367882",
-          "pub_date": "Sun, 22 Nov 2026 00:10:00 +0900"
+          "title": "우승 트로피 들고도 \"수원은 14위일 뿐\"...이정효, 유럽 전술 공부 착착...",
+          "description": "이를 위해 이정효 감독은 유럽 축구를 직접 관찰하며 새로운 전술을 익히겠다는 계획도 차근차근 준비하고... 최근 유럽 축구에서 흥미로운 성과를 보여주는 이탈리아 코모의 경기는 지금도 틈틈이 바라보고 있다. 이 기간...",
+          "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1021141",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/477/0000640249",
+          "pub_date": "Sun, 22 Nov 2026 06:06:00 +0900"
         },
         {
-          "title": "\"손흥민 약속 안 지켰다\" 日 전설 한식 먹고 싶다더니…결국 LA 떠났다,...",
-          "description": "요시다는 일본 축구 레전드다. J리그 나고야 그램퍼스에서 프로 생활을 시작한 이후, VVV-벤로, 사우샘프턴... 지난해 10월 국제축구연맹(FIFA) 인터뷰에서 \"월드컵을 1년 앞두고 손흥민 정도의 선수가 MLS에 온 것을 보고...",
-          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=101115",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/411/0000090291",
-          "pub_date": "Sun, 22 Nov 2026 00:05:00 +0900"
+          "title": "서울역 철길 옆 '강북의 코엑스'로…서계·청파동은 7천가구로 변신 [르...",
+          "description": "축구장 약 22개 면적의 오피스가 새로 공급된다. 시선을 서쪽으로 돌리자 풍경이 달라졌다. 서울역 뒷편 이미 들어선 고층 아파트 앞쪽 구릉지를 따라 낮은 주택들이 촘촘히 들어선 서계동·청파동 일대가 펼쳐졌다....",
+          "link": "https://realty.chosun.com/site/data/html_dir/2026/11/20/2026112002623.html",
+          "naver_link": "https://realty.chosun.com/site/data/html_dir/2026/11/20/2026112002623.html",
+          "pub_date": "Sun, 22 Nov 2026 06:02:00 +0900"
         },
         {
-          "title": "현역 연장? 은퇴? 이청용 “올 시즌 이후 생각해 본 적 없어”···“축...",
-          "description": "축구는 힘들다. 하지만 힘든 만큼 즐겁다. 축구를 통해 팬들에게 즐거움을 드릴 수 있다는 것에 감사한 마음이 크다. 올 시즌을 앞두고 인천으로 이적했다. 팀에서 원하는 플레이를 보여주면서 도움을 줄 수 있다는 것이...",
-          "link": "https://www.mk.co.kr/article/12215355",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/410/0001147945",
-          "pub_date": "Sun, 22 Nov 2026 00:04:00 +0900"
+          "title": "“영화 보며 함께 울고 웃을 때, 암묵적 우정 생기죠” [.txt]",
+          "description": "“스포츠 기자인 딸이 사라지자, 아버지가 딸을 찾아 조지아 전역의 축구 골대와 경기장을 찾아다니는 내용이에요. 동물이 엄청 많이 나와요. 개와 소, 고양이 등등. 감독이 동물을 좋아해서 유기견이나 유기묘 관련...",
+          "link": "https://www.hani.co.kr/arti/culture/book/1288450.html",
+          "naver_link": "https://n.news.naver.com/mnews/article/028/0002833320?sid=103",
+          "pub_date": "Sun, 22 Nov 2026 06:02:00 +0900"
         },
         {
-          "title": "우리 동네 체육회장은 누구? 회장 선거로 뜨거운 체육계 [유병철의 스포...",
-          "description": "12월 18일로 예정됐던 대한축구협회장 선거는 연기됐지만, 이번 12월은 확실히 '체육계 선거의 달'인... 경기도축구협회장, 정창훈 대한수영연맹 회장 등이 출마를 준비하며 다자경쟁으로 흘러가고 있습니다. 인천은 이규생...",
-          "link": "https://news.tf.co.kr/read/sports/2391746.htm",
-          "naver_link": "https://m.sports.naver.com/general/article/629/0000554282",
-          "pub_date": "Sun, 22 Nov 2026 00:01:00 +0900"
+          "title": "\"골프는 뇌를 깨우고 사람을 잇는다\"…신경과 의사의 필드 예찬",
+          "description": "유년 시절부터 사격, 핸드볼, 육상 선수로 활약했고 대학 시절 축구부원으로 활동할 만큼 운동에 일가견이 있던 그는 미국 샌디에이고 캘리포니아 대학교(UCSD) 연수 시절 Torrey Pines 골프 코스 근처에 거주하며 처음 골프에...",
+          "link": "https://www.hitnews.co.kr/news/articleView.html?idxno=80770",
+          "naver_link": "https://www.hitnews.co.kr/news/articleView.html?idxno=80770",
+          "pub_date": "Sun, 22 Nov 2026 06:00:00 +0900"
         },
         {
-          "title": "'루크먼 부상' ATM, 해법은 '이강인 시프트'?...헤타페전 시험대",
-          "description": "아시아축구연맹(AFC) 올해의 남자 국제선수상을 2년 연속 수상한 '골든보이' 이강인(25·아틀레티코 마드리드)... 하지만 최근 바이에른 뮌헨과의 유럽축구연맹(UEFA) 챔피언스리그(UCL) 경기에서 0-2, 바르셀로나와의 리그...",
-          "link": "https://news.tf.co.kr/read/soccer/2391760.htm",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/629/0000554283",
-          "pub_date": "Sun, 22 Nov 2026 00:01:00 +0900"
+          "title": "'한 시즌 최장 출전 시간' 이청용, 윤정환 감독에게 고마움 전한 이유[현...",
+          "description": "인천은 21일 오후 4시30분 인천 축구전용경기장에서 열린 하나은행 K리그1 2026 36라운드 울산 HD와의... 경기 후 믹스트존에서 만난 이청용은 \"팬분들에게 축구를 통해 즐거움을 드릴 수 있어서 감사하게 생각한다. 제가...",
+          "link": "https://sports.hankooki.com/news/articleView.html?idxno=6943995",
+          "naver_link": "https://sports.hankooki.com/news/articleView.html?idxno=6943995",
+          "pub_date": "Sun, 22 Nov 2026 06:00:00 +0900"
         },
         {
-          "title": "'부상으로 수 개월 OUT' 케인, 결국 수술대 올랐다...\"성공적인 수술, 재...",
-          "description": "올 시즌에도 분데스리가 10경기에서 4골 8도움, 유럽축구연맹(UEFA) 챔피언스리그 4경기에서 4골 3도움을 기록했다. 두 대회를 합쳐 14경기 8골 11도움이다. 득점뿐 아니라 동료들의 공격 기회까지 만들어내며 바이에른...",
-          "link": "http://www.osen.co.kr/article/G1112913486",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/109/0005643776",
-          "pub_date": "Sun, 22 Nov 2026 00:00:00 +0900"
+          "title": "[1년전 오늘] 손흥민, MLS 플레이오프 멀티골 폭발…LAFC 연장전 견인",
+          "description": "손흥민(LAFC)이 미국프로축구 메이저리그사커(MLS) 플레이오프에서 두 골을 터뜨리며 패배 위기에 놓였던 팀을 구했다. 손흥민은 23일(한국시간) 캐나다 밴쿠버 BC플레이스에서 열린 밴쿠버 화이트캡스와의 2025 MLS컵...",
+          "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1314127",
+          "naver_link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1314127",
+          "pub_date": "Sun, 22 Nov 2026 06:00:00 +0900"
         },
         {
-          "title": "이강인도 15경기 2골인데…시메오네 감독, 득점 부진에도 긍정적 반응 ...",
-          "description": "바이에른 뮌헨과의 유럽축구연맹(UEFA) 챔피언스리그(UCL) 경기에 이어 바르셀로나와의 라리가 경기에서도 패배하며 공식전 2연패에 빠졌다. A매치 휴식기를 통해 전열을 정비한 아틀레티코는 헤타페를 상대로 분위기...",
-          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=698968",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000226943",
-          "pub_date": "Sun, 22 Nov 2026 00:00:00 +0900"
+          "title": "'몬헌' '록맨' '위쳐'…해외 게임사들이 지스타 찾은 이유[K-게임, 세계...",
+          "description": "전략 시뮬레이션부터 자동차 액션, 축구 구단 운영까지 서로 다른 장르의 작품을 한 부스에서 체험할 수 있도록 했다. 코에이 테크모 게임스는 '와룡 2: 윙스 오브 엠버', '카리아의 아틀리에 ~밤의 왕국과 추억의 이정표...",
+          "link": "https://www.newsis.com/view/NISX20261120_0003877256",
+          "naver_link": "https://n.news.naver.com/mnews/article/003/0014337610?sid=105",
+          "pub_date": "Sun, 22 Nov 2026 06:00:00 +0900"
         },
         {
-          "title": "\"골 넣고도 기쁘지 않았어\" 지소연, 왜 이렇게 말했나…\"경기력 나빠서...",
-          "description": "지소연의 결승골에 힘입어 승리한 수원은 지난해 12월 대한축구협회가 창설한 W코리아컵 초대 챔피언에... 아직 어린 선수들이 축구에 대한 열정이 많이 부족한 것 같다. 그런 열정이나 의지, 투지를 채워야 한다. 앞으로...",
-          "link": "https://www.xportsnews.com/article/2221758",
-          "naver_link": "https://m.sports.naver.com/kfootball/article/311/0002082867",
-          "pub_date": "Sun, 22 Nov 2026 00:00:00 +0900"
+          "title": "[K리그1 포인트] '황선홍 매직' 계속...3위 대전, 강원에 3-1 역전승→10...",
+          "description": "2위 울산을 추격하며 2시즌 연속 준우승에 도전하고, 다음 시즌 아시아축구연맹(AFC) 챔피언스리그 엘리트(ACLE) 출전권 확보도 노린다. 한때 멀게만 느껴졌던 목표들이 연이은 상승세 속에 현실적인 도전 과제로 바뀌고...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=698970",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/413/0000226950",
+          "pub_date": "Sun, 22 Nov 2026 05:53:00 +0900"
         }
       ]
     }
