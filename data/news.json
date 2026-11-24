@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-11-24T12:45:09.371002+09:00",
+  "updated_at": "2026-11-24T23:30:05.775422+09:00",
   "interval_hours": 1.0,
   "categories": [
     {
       "keyword": "축구",
       "items": [
         {
-          "title": "'손흥민 제쳤다' 정상빈, 공격포인트는 물론 '평점'도 우위[MLS PO]",
-          "description": "축구 통계 매체 소파스코어에 따르면 손흥민은 평점 6.3을, 정상빈은 평점 7.2를 받았다. 손흥민은 전반부터 슈팅을 시도하며 공격에 나섰지만 상대 수비에 막혀 좀처럼 득점 기회를 살리지 못했다. 후반에도...",
-          "link": "https://sports.hankooki.com/news/articleView.html?idxno=6944073",
-          "naver_link": "https://sports.hankooki.com/news/articleView.html?idxno=6944073",
-          "pub_date": "Tue, 24 Nov 2026 12:44:00 +0900"
+          "title": "유승민 회장 \"FIFA, 체육회 권한 침해 소지\"",
+          "description": "최근 국제축구연맹 FIFA가 대한축구협회에 보낸 서한에 체육회의 권한을 침해할 소지가 있는 내용이 담겼다는 비판이 나왔습니다. 유승민 대한체육회장은 자신의 SNS에 \"최근 FIFA와 아시아축구연맹이 보낸 문서에...",
+          "link": "http://www.yonhapnewstv.co.kr/news/MYH20261124232636lXT",
+          "naver_link": "https://m.sports.naver.com/general/article/422/0000929596",
+          "pub_date": "Tue, 24 Nov 2026 23:27:00 +0900"
         },
         {
-          "title": "'손흥민 90분 뛰고 슈팅 3개에 유효 슈팅 0개...정상빈은 단 한 번 차서...",
-          "description": "축구 통계 매체 '풋몹'에 따르면 정상빈은 76분 동안 1골을 기록했다. 슈팅은 단 한 차례였고, 이를 유효 슈팅이자 득점으로 연결하면서 슈팅 정확도 100%를 기록했다. 정상빈은 총 44차례 공을 터치했고 패스 성공률은 75...",
-          "link": "http://www.osen.co.kr/article/G1112914185",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/109/0005644442",
-          "pub_date": "Tue, 24 Nov 2026 12:42:00 +0900"
+          "title": "2031 여자 월드컵, 미국 등 4개국 공동 개최",
+          "description": "2031년과 2035년 국제축구연맹 여자 월드컵 개최국이 결정됐습니다. FIFA는 화상으로 열린 임시 총회에서 2031년 대회를 미국과 멕시코, 코스타리카, 자메이카 등 북중미 4개국에서, 2035년 대회를 영국에서 치르기로...",
+          "link": "http://www.yonhapnewstv.co.kr/news/MYH20261124232508RBp",
+          "naver_link": "https://m.sports.naver.com/general/article/422/0000929595",
+          "pub_date": "Tue, 24 Nov 2026 23:26:00 +0900"
         },
         {
-          "title": "정상빈, 손흥민에 완승…'1골 1도움' 세인트루이스 PO 승리 견인",
-          "description": "세인트루이스, 홈 1차전서 LAFC 3-2 제압…2차전은 29일 LA서 미국프로축구 메이저리그사커(MLS) 세인트루이스 시티에서 뛰는 공격수 정상빈이 로스앤젤레스FC(LAFC) 손흥민과 '코리안 더비'에서 완승했다. 정상빈은 24일...",
-          "link": "https://www.yna.co.kr/view/AKR20261124098900007?input=1195m",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/001/0016460387",
-          "pub_date": "Tue, 24 Nov 2026 12:41:00 +0900"
+          "title": "'알론소 결국 경질 엔딩?'…'HERE WE GO' 로마노 직접 컨펌! 최근 5경기 ...",
+          "description": "시즌 개막을 앞두고 첼시는 잉글랜드 프리미어리그(PL) 우승 경쟁을 펼치거나 최소한 유럽축구연맹(UEFA)... 영국 '팀토크'는 24일(한국시간) 유럽 축구 이적시장 전문가 파브리시오 로마노의 발언을 전했다. 그는 \"첼시는...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=101266",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/411/0000090427",
+          "pub_date": "Tue, 24 Nov 2026 23:25:00 +0900"
         },
         {
-          "title": "'MLS 코리안 더비' 승자는 1골 1도움 정상빈, 침묵한 손흥민",
-          "description": "경기 후 축구 통계 매체 '소파스코어'는 슈팅 3개를 시도했지만 침묵한 손흥민에게 평점 6.3점을 부여했다. LA 선발 공격진 중 최저 평점이었다. 시브가 6.4점, 발타가 6.5점, 부앙가가 7.8점을 받았다. 슈팅 1개를 시도해...",
-          "link": "https://www.newdaily.co.kr/site/data/html/2026/11/24/2026112450200.html",
-          "naver_link": "https://www.newdaily.co.kr/site/data/html/2026/11/24/2026112450200.html",
-          "pub_date": "Tue, 24 Nov 2026 12:38:00 +0900"
+          "title": "'韓 국가대표 주장단' 김민재는 거들떠보지도 않는다...독일 매체 \"뮌헨...",
+          "description": "한국 축구 국가대표팀에서 간간이 주장 완장을 차기도 하는 김민재 언급은 없었다. 독일 '키커'는 23일(한국시간) \"뮌헨은 이번 시즌 내내 악재가 끊이지 않는다. 이제 팀 내 위계질서에 대한 의문까지 제기되고 있다\"라고...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=699167",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000227101",
+          "pub_date": "Tue, 24 Nov 2026 23:10:00 +0900"
         },
         {
-          "title": "[동정] 하학열 고성군수 시금치 습해 피해 현장 점검",
-          "description": "고성군 시금치 재배면적은 약 344㏊(104만 평)로 축구장 485개 규모에 이른다. 하 군수는 \"시금치는 지역 농업인들의 겨울철 중요한 소득원인 만큼 피해 농가의 어려움을 최소화하고 안정적으로 영농을 이어갈 수 있도록...",
-          "link": "https://www.sidae.com/article/2026112411464485877",
-          "naver_link": "https://n.news.naver.com/mnews/article/417/0001165422?sid=102",
-          "pub_date": "Tue, 24 Nov 2026 12:37:00 +0900"
+          "title": "충격 '김민재 동료' 아침에 의식 잃고, 저녁에 레알전 뛰었다 \"발작 은폐...",
+          "description": "독일 선수노조(VDV)에 따르면 독일축구리그(DFL) 표준 계약서상 구단이 급여를 계속 주는 기간은 원래 6주다.... 지난 4월 7일 레알 마드리드와의 유럽축구연맹(UEFA) 챔피언스리그(UCL) 경기 날 오전에도 마드리드의 한...",
+          "link": "https://www.starnewskorea.com/sports/2026/11/24/2026112421302892400",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/108/0003489889",
+          "pub_date": "Tue, 24 Nov 2026 23:02:00 +0900"
         },
         {
-          "title": "브래드 피트, 클리프 부스로 귀환…‘클리프 부스의 더 뻔뻔한 모험’ ...",
-          "description": "주변에는 에이전트 캐런 크로스비(엘리자베스 데비키), TV 스타 찰리 피터스(스콧 칸)와 아내 토니(칼라 구지노), 전직 미식축구 선수 출신 배우 로더릭 ‘핫 로드’ 해리슨(야히아 압둘마틴 2세)이 자리했다. 도시 곳곳에서...",
-          "link": "https://sports.donga.com/ent/article/all/20261124/135080062/1",
-          "naver_link": "https://m.entertain.naver.com/article/382/0001306480",
-          "pub_date": "Tue, 24 Nov 2026 12:37:00 +0900"
+          "title": "[ACLE 라이브] 일본 팀에 연패→베이징전 승리...포효한 이순민 \"승리 간...",
+          "description": "대전하나시티즌은 24일 오후 7시 대전월드컵경기장에서 열린 2026-27시즌 아시아축구연맹(AFC) 챔피언스리그 엘리트(ACLE) 리그 스테이지 5차전에서 베이징 궈안에 3-2 승리를 거뒀다. ACLE 2승을 챙긴 대전은 일단 10위를...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=699178",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/413/0000227100",
+          "pub_date": "Tue, 24 Nov 2026 23:00:00 +0900"
         },
         {
-          "title": "'침묵' 손흥민, '1골 1도움' 정상빈에 덜미…MLS컵 PO 1R 탈락 위기(종합...",
-          "description": "미국 프로축구 메이저리그사커(MLS) 로스앤젤레스FC(LAFC) 간판스타 손흥민이 세인트루이스 시티 SC 공격수 정상빈과 '코리안 더비'에서 패배해 플레이오프(PO) 탈락 위기에 놓였다. LAFC는 24일(한국 시간) 미국...",
-          "link": "https://www.newsis.com/view/NISX20261124_0003880877",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/003/0014341990",
-          "pub_date": "Tue, 24 Nov 2026 12:35:00 +0900"
+          "title": "HERE WE GO! \"이미 구두 합의 완료, 공식 절차만 남았다!\"…레알 마드리...",
+          "description": "데뷔 시즌부터 공식전 23골13도움을 기록하며 맹활약했고 스페인 라리가와 유럽축구연맹(UEFA) 챔피언스리그(UCL) 우승을 이끌었다. 이후에도 꾸준히 레알의 핵심 자원으로 활약하고 있다. 올 시즌 역시 공식전 17경기에...",
+          "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=101262",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/411/0000090426",
+          "pub_date": "Tue, 24 Nov 2026 22:55:00 +0900"
         },
         {
-          "title": "K리그2 수원·성남·화성·용인, 3차 팬 프렌들리 클럽상 경쟁",
-          "description": "프로축구 K리그2 수원 삼성과 성남FC, 화성FC, 용인FC가 2026시즌 3차 K리그2 '팬 프렌들리 클럽상'을 놓고 경쟁한다. 한국프로축구연맹은 \"24일부터 26일까지 3일간 2026시즌 3차 K리그 '팬 프렌들리 클럽상' 팬 투표를...",
-          "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041913",
-          "naver_link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041913",
-          "pub_date": "Tue, 24 Nov 2026 12:32:00 +0900"
+          "title": "유승민 대한체육회장, \"축구협회 관련 FIFA 서한...체육회 정관 충돌 소...",
+          "description": "유승민 대한체육회장이 최근 국제축구연맹(FIFA)이 대한축구협회에 보낸 서한과 관련해 \"대한체육회 정관상 권한 및 회원 단체 운영체계와 충돌할 소지가 있는 권고사항들이 포함돼 있었다\"고 공개했다. 유 회장은 24일...",
+          "link": "https://www.hankookilbo.com/news/article/A2026112422030000537?did=NA",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/469/0000967546",
+          "pub_date": "Tue, 24 Nov 2026 22:40:00 +0900"
         },
         {
-          "title": "쿠팡, 블랙프라이데이 할인·대구 시민 축구 관람·전북 품평회 진행",
-          "description": "이와 함께 대구 시민 600여 명의 프로축구 관람을 지원하고, 전북 지역 소상공인과 중소기업 47개사가... 대구 시민 600여 명 프로축구 관람 지원 사진=쿠팡 쿠팡은 지난 22일 대구iM뱅크PARK에서 열린 프로축구 대구FC와...",
-          "link": "http://www.dailypop.kr/news/articleView.html?idxno=104907",
-          "naver_link": "http://www.dailypop.kr/news/articleView.html?idxno=104907",
-          "pub_date": "Tue, 24 Nov 2026 12:30:00 +0900"
+          "title": "[오피셜] '19위' 맨유에 희소식...'포체티노 옛제자' 루크 쇼, 부상에서...",
+          "description": "유럽축구연맹(UEFA) 챔피언스리그(UCL) 리그 페이즈 5차전을 앞두고 맨유 선수단과 함께 훈련했다. 그의 복귀는 시기적절한 호재가 될 것이다\"라고 공식 발표했다. 쇼는 잉글랜드 축구 국가대표 출신 왼쪽 풀백이다. 2011...",
+          "link": "https://www.interfootball.co.kr/news/articleView.html?idxno=699173",
+          "naver_link": "https://m.sports.naver.com/wfootball/article/413/0000227099",
+          "pub_date": "Tue, 24 Nov 2026 22:35:00 +0900"
         },
         {
-          "title": "손흥민 앞에서 요리스 골문 뚫었다... 정상빈, '코리안 더비'서 추가골...",
-          "description": "한국 축구대표팀 '캡틴' 손흥민(34)의 LAFC가 정상빈(24·세인트루이스 시티)에게 추가골을 내주며... LAFC는 24일(한국시간) 미국 미주리주 세인트루이스의 에너자이저 파크에서 열린 2026 미국프로축구 메이저리그사커(MLS)...",
-          "link": "https://www.starnewskorea.com/sports/2026/11/24/2026112410045563036",
-          "naver_link": "https://m.sports.naver.com/wfootball/article/108/0003489767",
-          "pub_date": "Tue, 24 Nov 2026 12:29:00 +0900"
+          "title": "17분 만에 3골 몰아친 화력쇼! 대전, 中 베이징 3-2 잡고 ACLE '연패 탈출...",
+          "description": "프로축구 K리그1 대전하나시티즌이 베이징 궈안(중국)을 꺾고 아시아축구연맹(AFC) 챔피언스리그 엘리트(ACLE) 2연패에서 탈출했다. 대전은 24일 대전월드컵경기장에서 열린 2026~2027시즌 ACLE 리그 스테이지 5차전...",
+          "link": "https://www.starnewskorea.com/sports/2026/11/24/2026112422205886486",
+          "naver_link": "https://m.sports.naver.com/kfootball/article/108/0003489887",
+          "pub_date": "Tue, 24 Nov 2026 22:35:00 +0900"
         }
       ]
     }
